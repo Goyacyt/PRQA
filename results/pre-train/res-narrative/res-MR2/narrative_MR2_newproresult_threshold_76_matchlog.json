@@ -1,0 +1,326 @@
+{"test case number": 14, "answer": "the royalists and the bourgeoisie", "modAnswer": "the royalists and the pagans", "similarity": 0.8690873980522156}
+
+{"test case number": 19, "answer": "the theatre of the boys' companies.", "modAnswer": "church choirs", "similarity": 0.49705272912979126}
+
+{"test case number": 27, "answer": "it makes them enamored of themselves", "modAnswer": "they become enamored of themselves", "similarity": 0.8456844091415405}
+
+{"test case number": 38, "answer": "a ringside seat for the oscars", "modAnswer": "a welterweight title.", "similarity": 0.49660688638687134}
+
+{"test case number": 44, "answer": "in a bar in las vegas.", "modAnswer": "in a bar in new york city.", "similarity": 0.7817448973655701}
+
+{"test case number": 67, "answer": "to get revenge on the bank robbers", "modAnswer": "sophia was pregnant with his child.", "similarity": 0.37544628977775574}
+
+{"test case number": 93, "answer": "percy", "modAnswer": "paul", "similarity": 0.5933847427368164}
+
+{"test case number": 94, "answer": "he sabotages his execution", "modAnswer": "he was sabotaged by percy.", "similarity": 0.654402494430542}
+
+{"test case number": 109, "answer": "the first lady of la", "modAnswer": "the first lady of louisiana", "similarity": 0.8277804255485535}
+
+{"test case number": 114, "answer": "a brain tumor", "modAnswer": "he is shot dead by a fellow inmate.", "similarity": 0.46253374218940735}
+
+{"test case number": 118, "answer": "to find out where the stolen money is.", "modAnswer": "she is being followed by the police because she is suspected of having sympathies with pearc", "similarity": 0.5828289985656738}
+
+{"test case number": 122, "answer": "to keep him away from the mob", "modAnswer": "to keep frank safe", "similarity": 0.668419599533081}
+
+{"test case number": 124, "answer": "that he is really alexander pearce.", "modAnswer": "that he is in love with elise", "similarity": 0.6906964182853699}
+
+{"test case number": 127, "answer": "they are worried about his safety", "modAnswer": "because he is dead", "similarity": 0.5807698965072632}
+
+{"test case number": 137, "answer": "to have the snipers shoot at shaw and his men.", "modAnswer": "to be closed.", "similarity": 0.43123742938041687}
+
+{"test case number": 141, "answer": "to pay for his plastic surgery.", "modAnswer": "to pay off his debt", "similarity": 0.6585041284561157}
+
+{"test case number": 144, "answer": "he has burned the note that he left for her.", "modAnswer": "he has been wearing a disguise", "similarity": 0.5875518321990967}
+
+{"test case number": 153, "answer": "the merry go round.", "modAnswer": "\"auld lang syne\"", "similarity": 0.5579700469970703}
+
+{"test case number": 154, "answer": "the empire state building", "modAnswer": "the statue of liberty", "similarity": 0.6060270667076111}
+
+{"test case number": 161, "answer": "\"the gallows\"", "modAnswer": "\"higher and higher\"", "similarity": 0.42505085468292236}
+
+{"test case number": 162, "answer": "a woman named sara.", "modAnswer": "a demon.", "similarity": 0.6066160798072815}
+
+{"test case number": 170, "answer": "the museum", "modAnswer": "a busy intersection", "similarity": 0.4709929823875427}
+
+{"test case number": 176, "answer": "a cat", "modAnswer": "the statue of liberty", "similarity": 0.4141708314418793}
+
+{"test case number": 177, "answer": "\"olympic theme song\"", "modAnswer": "\"higher and higher\"", "similarity": 0.29051288962364197}
+
+{"test case number": 184, "answer": "she is shot by jack.", "modAnswer": "she is shot.", "similarity": 0.8519880771636963}
+
+{"test case number": 187, "answer": "in a bar in rome.", "modAnswer": "in sweden", "similarity": 0.47426068782806396}
+
+{"test case number": 189, "answer": "he was in danger.", "modAnswer": "he was being followed by an assassin from sweden.", "similarity": 0.5460690855979919}
+
+{"test case number": 190, "answer": "his dreams", "modAnswer": "father benedetto", "similarity": 0.4282076954841614}
+
+{"test case number": 195, "answer": "she is shot by jack.", "modAnswer": "she is shot.", "similarity": 0.8519880771636963}
+
+{"test case number": 204, "answer": "it explodes in her face.", "modAnswer": "it is sabotaged", "similarity": 0.5386558175086975}
+
+{"test case number": 214, "answer": "because tito is unfilial", "modAnswer": "because tito betrayed him", "similarity": 0.7555047869682312}
+
+{"test case number": 216, "answer": "her husband's treachery", "modAnswer": "her love for tito", "similarity": 0.6052657961845398}
+
+{"test case number": 219, "answer": "bardo", "modAnswer": "baldassare", "similarity": 0.7856788039207458}
+
+{"test case number": 222, "answer": "baldassarre", "modAnswer": "the rioters", "similarity": 0.4766821265220642}
+
+{"test case number": 224, "answer": "he is beheaded.", "modAnswer": "he is shot by rioters", "similarity": 0.7821225523948669}
+
+{"test case number": 232, "answer": "that they are illegitimate children.", "modAnswer": "that tito played a role in their arrest", "similarity": 0.4359196424484253}
+
+{"test case number": 233, "answer": "she is forced to leave her husband", "modAnswer": "she is forced to flee the city.", "similarity": 0.740267276763916}
+
+{"test case number": 234, "answer": "he jumps into the river.", "modAnswer": "he dives into the arno river.", "similarity": 0.8405916690826416}
+
+{"test case number": 235, "answer": "he is captured by the medici family and imprisoned.", "modAnswer": "he is robbed", "similarity": 0.5850616097450256}
+
+{"test case number": 260, "answer": "he believes he is an artist of the highest caliber", "modAnswer": "he thinks he is an artist with the talent of rubens, rembrand", "similarity": 0.7729101181030273}
+
+{"test case number": 261, "answer": "he lives in ville-d'avray.", "modAnswer": "london", "similarity": 0.4224735200405121}
+
+{"test case number": 275, "answer": "she tells kate that bad things happen when esther is around.", "modAnswer": "warns kate that bad things happen when esther is around.", "similarity": 0.9383447170257568}
+
+{"test case number": 280, "answer": "it is from the saarne institute in estonia.", "modAnswer": "it was from a mental hospital.", "similarity": 0.5180627107620239}
+
+{"test case number": 281, "answer": "she wants to use max to distract her from being with esther.", "modAnswer": "she wants to keep her from telling everyone about her sexual history", "similarity": 0.7509995102882385}
+
+{"test case number": 285, "answer": "she is thrown into the pond by leena.", "modAnswer": "she is impaled on a tree by esther.", "similarity": 0.6295293569564819}
+
+{"test case number": 288, "answer": "a 9 year old girl from an orphanage.", "modAnswer": "a 9 year old girl they adopted from an orphanage.", "similarity": 0.9217125773429871}
+
+{"test case number": 295, "answer": "that she is actually a 33 year old woman with hypopituitarism.", "modAnswer": "that she is actually a woman who murdered at least seven people.", "similarity": 0.6640128493309021}
+
+{"test case number": 297, "answer": "to find a cure for his boredom.", "modAnswer": "to find his old friends who are fathers", "similarity": 0.5808273553848267}
+
+{"test case number": 309, "answer": "he sets the village on fire.", "modAnswer": "he kills him", "similarity": 0.7246383428573608}
+
+{"test case number": 312, "answer": "they are sacrificed", "modAnswer": "they are killed", "similarity": 0.8201237320899963}
+
+{"test case number": 334, "answer": "queen of the north", "modAnswer": "queen of the spanish republic", "similarity": 0.7103286385536194}
+
+{"test case number": 337, "answer": "the papal approval", "modAnswer": "the death of the last legitimate catholic in the line of succession", "similarity": 0.5757132768630981}
+
+{"test case number": 338, "answer": "to return to the continent", "modAnswer": "to protect her and her children", "similarity": 0.4358576238155365}
+
+{"test case number": 339, "answer": "he was suspected of having been involved in the plot.", "modAnswer": "for seducing a ward of the queen", "similarity": 0.5112734436988831}
+
+{"test case number": 343, "answer": "after she has given birth to her son", "modAnswer": "after she has given birth to their son", "similarity": 0.995010256767273}
+
+{"test case number": 352, "answer": "mary", "modAnswer": "bess", "similarity": 0.7833982110023499}
+
+{"test case number": 353, "answer": "philip", "modAnswer": "raleigh", "similarity": 0.652084469795227}
+
+{"test case number": 362, "answer": "her mother requested it on her deathbed.", "modAnswer": "her mother wanted her to marry a wealthy man.", "similarity": 0.6754921078681946}
+
+{"test case number": 363, "answer": "she is unhealthy and can't stand being in the same room with her husband.", "modAnswer": "she is unhealthy and can barely stand being in the same room with her husband.", "similarity": 0.992083728313446}
+
+{"test case number": 364, "answer": "her brother", "modAnswer": "mary's brother", "similarity": 0.8688337206840515}
+
+{"test case number": 370, "answer": "henry", "modAnswer": "her aunt", "similarity": 0.4726268947124481}
+
+{"test case number": 378, "answer": "to escape her family", "modAnswer": "to escape a family who does not share her values", "similarity": 0.8480039834976196}
+
+{"test case number": 393, "answer": "to raise money for the string program.", "modAnswer": "to raise money for the program.", "similarity": 0.8779804706573486}
+
+{"test case number": 411, "answer": "the venue was changed", "modAnswer": "the venue was lost", "similarity": 0.7703338861465454}
+
+{"test case number": 419, "answer": "a silver sphere he used to heal her.", "modAnswer": "the starman used a silver sphere to heal her.", "similarity": 0.9149466156959534}
+
+{"test case number": 423, "answer": "in the crater", "modAnswer": "in chequamegon bay, wisconsin", "similarity": 0.3296128809452057}
+
+{"test case number": 429, "answer": "he uses a slot machine to win the jackpot.", "modAnswer": "he uses a quarter from a slot machine to win the jackpot.", "similarity": 0.9370484352111816}
+
+{"test case number": 431, "answer": "to leave the crater and return to his people", "modAnswer": "to give it to their son", "similarity": 0.6048744320869446}
+
+{"test case number": 436, "answer": "to save his son", "modAnswer": "to warn his people that the earth is hostile and he will die if he does", "similarity": 0.6519084572792053}
+
+{"test case number": 438, "answer": "they use a holographic map to escape.", "modAnswer": "they crash their car into a gas tanker.", "similarity": 0.5735697150230408}
+
+{"test case number": 440, "answer": "the alien wins the jackpot on a slot machine.", "modAnswer": "the alien uses a sphere to create a holographic map of the united states", "similarity": 0.5955615043640137}
+
+{"test case number": 451, "answer": "in a bathtub in a hotel.", "modAnswer": "in a bus station", "similarity": 0.5583604574203491}
+
+{"test case number": 454, "answer": "he offers to share his apartment with him.", "modAnswer": "he offers to share his apartment with joe.", "similarity": 0.9114152193069458}
+
+{"test case number": 461, "answer": "joe is shot and killed.", "modAnswer": "joe is arrested.", "similarity": 0.863289475440979}
+
+{"test case number": 471, "answer": "in a bathtub in a hotel.", "modAnswer": "in a bus station", "similarity": 0.5583604574203491}
+
+{"test case number": 478, "answer": "because tom refused to allow mr. peters to buy out of his inventions.", "modAnswer": "he tried to buy tom out of his inventions.", "similarity": 0.8526867032051086}
+
+{"test case number": 484, "answer": "there is no difference in the wires used for a telephone and those used for tele", "modAnswer": "because it is a copy of a telegraph", "similarity": 0.5945634841918945}
+
+{"test case number": 486, "answer": "he shows him a picture of himself in a telegraph booth.", "modAnswer": "he plays a video of tom and his father fighting.", "similarity": 0.5475741624832153}
+
+{"test case number": 518, "answer": "he works on a paper route riding a moped.", "modAnswer": "he works on a moped route for the newspaper.", "similarity": 0.8617250919342041}
+
+{"test case number": 535, "answer": "psychiatrist", "modAnswer": "he becomes an author", "similarity": 0.3037409782409668}
+
+{"test case number": 551, "answer": "he was accused of murdering him.", "modAnswer": "he was accused of murdering a man in chicago.", "similarity": 0.8521884083747864}
+
+{"test case number": 556, "answer": "a police officer", "modAnswer": "an army officer", "similarity": 0.6452348232269287}
+
+{"test case number": 559, "answer": "harvard medical school", "modAnswer": "castellano radcliffe college", "similarity": 0.6523022651672363}
+
+{"test case number": 576, "answer": "a cruise", "modAnswer": "he charters a thrift club.", "similarity": 0.2859479486942291}
+
+{"test case number": 577, "answer": "a sailor", "modAnswer": "a drowning sailor", "similarity": 0.8383684754371643}
+
+{"test case number": 586, "answer": "the woman who marries brewster", "modAnswer": "the woman who marries monty", "similarity": 0.833713948726654}
+
+{"test case number": 587, "answer": "because she is wealthy and he is wealthy.", "modAnswer": "because she is wealthy and wealthy like him.", "similarity": 0.986936092376709}
+
+{"test case number": 598, "answer": "hector of troy", "modAnswer": "troilus and hector", "similarity": 0.8867986798286438}
+
+{"test case number": 604, "answer": "diomede", "modAnswer": "troilus", "similarity": 0.7906144261360168}
+
+{"test case number": 614, "answer": "he swoons.", "modAnswer": "troilus swoons.", "similarity": 0.7409024238586426}
+
+{"test case number": 615, "answer": "to give criseyde to troilus", "modAnswer": "to give antenor to the greeks in exchange for criseyde.", "similarity": 0.8253145217895508}
+
+{"test case number": 620, "answer": "he ascends to the eighth sphere.", "modAnswer": "he is resurrected and ascends to the eighth sphere.", "similarity": 0.916519045829773}
+
+{"test case number": 641, "answer": "using names that are appropriate to the things they name", "modAnswer": "using names that are appropriate to the things they describe", "similarity": 0.9728928208351135}
+
+{"test case number": 643, "answer": "the original word is no longer the same.", "modAnswer": "the word no longer sounds like what it originally was.", "similarity": 0.9230051040649414}
+
+{"test case number": 648, "answer": "the imperfection of names in capturing the objects they seek to signify", "modAnswer": "it is inferior to studying things themselves", "similarity": 0.6191283464431763}
+
+{"test case number": 706, "answer": "that he is the man who stole the ring", "modAnswer": "that he is the man who murdered his friend.", "similarity": 0.8165489435195923}
+
+{"test case number": 712, "answer": "he is mistaken for a man", "modAnswer": "he discovers a man has been wrongly identified as him", "similarity": 0.8179082274436951}
+
+{"test case number": 717, "answer": "valjean breaks parole to help the poor.", "modAnswer": "javert", "similarity": 0.5684847831726074}
+
+{"test case number": 720, "answer": "he breaks his parole and starts a new life.", "modAnswer": "he steals his silverware", "similarity": 0.5388349294662476}
+
+{"test case number": 725, "answer": "his ring", "modAnswer": "her letter", "similarity": 0.4979110360145569}
+
+{"test case number": 733, "answer": "the son of the king of scotland", "modAnswer": "the governor of scotland", "similarity": 0.6900599002838135}
+
+{"test case number": 734, "answer": "london", "modAnswer": "the city of brussels", "similarity": 0.6854713559150696}
+
+{"test case number": 735, "answer": "the king was not present at the thanksgiving service.", "modAnswer": "there was a general election.", "similarity": 0.4710647463798523}
+
+{"test case number": 738, "answer": "his nephew", "modAnswer": "his friend wildrake", "similarity": 0.6482867002487183}
+
+{"test case number": 742, "answer": "a scotch page", "modAnswer": "a page for the king", "similarity": 0.6124469041824341}
+
+{"test case number": 744, "answer": "the battle of sedgemoor", "modAnswer": "the battle of dunkirk", "similarity": 0.7080650329589844}
+
+{"test case number": 745, "answer": "charles", "modAnswer": "everard", "similarity": 0.639986515045166}
+
+{"test case number": 746, "answer": "it was dissolved.", "modAnswer": "it was expelled", "similarity": 0.8307712078094482}
+
+{"test case number": 749, "answer": "in the dark gallery", "modAnswer": "in a dark gallery", "similarity": 0.9818739891052246}
+
+{"test case number": 753, "answer": "he jumps from the top.", "modAnswer": "he jumps from the tower", "similarity": 0.8459194898605347}
+
+{"test case number": 754, "answer": "he tells her in a letter.", "modAnswer": "he writes her a letter", "similarity": 0.9252947568893433}
+
+{"test case number": 755, "answer": "the king's son, charles, is crowned king", "modAnswer": "the protectorate was abolished.", "similarity": 0.3881780803203583}
+
+{"test case number": 757, "answer": "the king of the kings of the ice dragons", "modAnswer": "the king of the kings of the dragons", "similarity": 0.9447371363639832}
+
+{"test case number": 759, "answer": "they are half-siblings.", "modAnswer": "they are half-brothers.", "similarity": 0.9632464051246643}
+
+{"test case number": 761, "answer": "he is jealous of his brother", "modAnswer": "he is under the influence of the bewilderbeast", "similarity": 0.5575105547904968}
+
+{"test case number": 763, "answer": "he blasts through the ice", "modAnswer": "he shoots it in the face", "similarity": 0.6184535622596741}
+
+{"test case number": 764, "answer": "it destroys the bewilderbeast's wings", "modAnswer": "it breaks its tusk", "similarity": 0.7089002132415771}
+
+{"test case number": 769, "answer": "drago murdered the chiefs.", "modAnswer": "stoick murdered the chiefs", "similarity": 0.9299378395080566}
+
+{"test case number": 774, "answer": "they blast through it.", "modAnswer": "they break free of the ice with a blast.", "similarity": 0.7642819881439209}
+
+{"test case number": 775, "answer": "he is blown up by a lightning storm.", "modAnswer": "toothless shoots it in the face", "similarity": 0.48656439781188965}
+
+{"test case number": 779, "answer": "to save them from the bewilderbeast.", "modAnswer": "they are immune to the bewilderbeast's control.", "similarity": 0.6578481197357178}
+
+{"test case number": 781, "answer": "the ice", "modAnswer": "its left tusk", "similarity": 0.5231962203979492}
+
+{"test case number": 782, "answer": "he is preparing to lead the dragons against drago.", "modAnswer": "he is preparing to lead the villagers in a battle against drago.", "similarity": 0.8166512250900269}
+
+{"test case number": 784, "answer": "the new chieftain", "modAnswer": "chieftain of berk", "similarity": 0.7686979174613953}
+
+{"test case number": 788, "answer": "because they grew up in the same town and played for the same team.", "modAnswer": "clough and revie grew up in the same town.", "similarity": 0.5964000821113586}
+
+{"test case number": 790, "answer": "because of the way leeds played", "modAnswer": "clough was adamant that he was not the right man for the job.", "similarity": 0.46924012899398804}
+
+{"test case number": 791, "answer": "44 games", "modAnswer": "44 days", "similarity": 0.7478288412094116}
+
+{"test case number": 792, "answer": "brighton & hove albion", "modAnswer": "derby", "similarity": 0.44002121686935425}
+
+{"test case number": 793, "answer": "he is told he is being sacked", "modAnswer": "clough is fired", "similarity": 0.6417933702468872}
+
+{"test case number": 796, "answer": "since he took over in 1968.", "modAnswer": "since he took over in the summer of 1968.", "similarity": 0.9120967388153076}
+
+{"test case number": 803, "answer": "any player who mentions revie's name or methods.", "modAnswer": "any player who mentions revie's name or methods again.", "similarity": 0.9719941020011902}
+
+{"test case number": 804, "answer": "clough", "modAnswer": "every opponent his team faced", "similarity": 0.228545144200325}
+
+{"test case number": 811, "answer": "he offered his resignation and taylor's.", "modAnswer": "he offered his and taylor's resignations.", "similarity": 0.9286336898803711}
+
+{"test case number": 813, "answer": "he thought clough was similar to him", "modAnswer": "he did not recognize clough.", "similarity": 0.8134969472885132}
+
+{"test case number": 817, "answer": "he takes shelter in a lead-lined refrigerator.", "modAnswer": "he takes refuge in a refrigerator", "similarity": 0.9226946830749512}
+
+{"test case number": 818, "answer": "venezuela", "modAnswer": "peru", "similarity": 0.7658736705780029}
+
+{"test case number": 825, "answer": "he takes shelter in a lead-lined refrigerator.", "modAnswer": "he takes shelter in a refrigerator.", "similarity": 0.9402658939361572}
+
+{"test case number": 841, "answer": "a skyscraper", "modAnswer": "a flying saucer.", "similarity": 0.5007422566413879}
+
+{"test case number": 864, "answer": "thiodolph", "modAnswer": "thiodolf", "similarity": 0.8574879169464111}
+
+{"test case number": 892, "answer": "to stay with tom or to stay with grace.", "modAnswer": "to stay with tom or to leave the ranch", "similarity": 0.8500804901123047}
+
+{"test case number": 893, "answer": "to be with tom", "modAnswer": "she is torn between her love for tom and her love for her family.", "similarity": 0.7100086808204651}
+
+{"test case number": 896, "answer": "it is amputated.", "modAnswer": "it is partially amputated.", "similarity": 0.8831184506416321}
+
+{"test case number": 926, "answer": "she fakes a phone call to steve.", "modAnswer": "she is fired", "similarity": 0.582653284072876}
+
+{"test case number": 931, "answer": "she hitschhikes with a couple of protesters.", "modAnswer": "she hitchhikes with a trucker named norm.", "similarity": 0.5697561502456665}
+
+{"test case number": 938, "answer": "her husband is dying.", "modAnswer": "her husband is gravely ill.", "similarity": 0.9018986225128174}
+
+{"test case number": 946, "answer": "wildfell hall", "modAnswer": "staningley", "similarity": 0.6441956162452698}
+
+{"test case number": 951, "answer": "her husband is dying.", "modAnswer": "her husband is gravely ill.", "similarity": 0.9018986225128174}
+
+{"test case number": 956, "answer": "her husband is dying.", "modAnswer": "her husband is gravely ill.", "similarity": 0.9018986225128174}
+
+{"test case number": 959, "answer": "she is jealous of her husband's behavior", "modAnswer": "gilbert's interest in her wanes.", "similarity": 0.6697322726249695}
+
+{"test case number": 966, "answer": "because of hi's criminal record", "modAnswer": "hi has a criminal record.", "similarity": 0.8521375060081482}
+
+{"test case number": 967, "answer": "the azquitts", "modAnswer": "the azquits", "similarity": 0.8498023748397827}
+
+{"test case number": 970, "answer": "he is proposing to his wife.", "modAnswer": "he is proposing wife swapping", "similarity": 0.8679434061050415}
+
+{"test case number": 971, "answer": "a loot sack with a dye canister in it.", "modAnswer": "a loot sack with junior in it.", "similarity": 0.8092963099479675}
+
+{"test case number": 974, "answer": "they met when she took his mugshots.", "modAnswer": "they met when ed took hi's mugshots.", "similarity": 0.8819750547409058}
+
+{"test case number": 978, "answer": "to get the child", "modAnswer": "to get the money", "similarity": 0.6895067095756531}
+
+{"test case number": 982, "answer": "he is thrown from a height", "modAnswer": "he is blown up by a grenade", "similarity": 0.6192330121994019}
+
+{"test case number": 987, "answer": "hi has a criminal record", "modAnswer": "because of hi's criminal record", "similarity": 0.8480778932571411}
+
+{"test case number": 990, "answer": "gale and evelle", "modAnswer": "hi and ed", "similarity": 0.6077954769134521}
+
+{"test case number": 991, "answer": "hi", "modAnswer": "smalls", "similarity": 0.5431672930717468}
+
+{"test case number": 992, "answer": "to the police station", "modAnswer": "to a motel", "similarity": 0.6963660717010498}
+
+{"test case number": 993, "answer": "nathan sr.", "modAnswer": "nathan arizona sr.", "similarity": 0.8959415555000305}
+
+{"test case number": 995, "answer": "because she was the result of a tryst between jack and an actress.", "modAnswer": "because they had a note from her mother", "similarity": 0.634810209274292}
+
+{"test case number": 998, "answer": "to get the heroin.", "modAnswer": "because they thought she was the package", "similarity": 0.5851359367370605}
+['{"test case number": 14, "answer": "the royalists and the bourgeoisie", "modAnswer": "the royalists and the pagans", "similarity": 0.8690873980522156}\n', '{"test case number": 19, "answer": "the theatre of the boys\' companies.", "modAnswer": "church choirs", "similarity": 0.49705272912979126}\n', '{"test case number": 27, "answer": "it makes them enamored of themselves", "modAnswer": "they become enamored of themselves", "similarity": 0.8456844091415405}\n', '{"test case number": 38, "answer": "a ringside seat for the oscars", "modAnswer": "a welterweight title.", "similarity": 0.49660688638687134}\n', '{"test case number": 44, "answer": "in a bar in las vegas.", "modAnswer": "in a bar in new york city.", "similarity": 0.7817448973655701}\n', '{"test case number": 67, "answer": "to get revenge on the bank robbers", "modAnswer": "sophia was pregnant with his child.", "similarity": 0.37544628977775574}\n', '{"test case number": 93, "answer": "percy", "modAnswer": "paul", "similarity": 0.5933847427368164}\n', '{"test case number": 94, "answer": "he sabotages his execution", "modAnswer": "he was sabotaged by percy.", "similarity": 0.654402494430542}\n', '{"test case number": 109, "answer": "the first lady of la", "modAnswer": "the first lady of louisiana", "similarity": 0.8277804255485535}\n', '{"test case number": 114, "answer": "a brain tumor", "modAnswer": "he is shot dead by a fellow inmate.", "similarity": 0.46253374218940735}\n', '{"test case number": 118, "answer": "to find out where the stolen money is.", "modAnswer": "she is being followed by the police because she is suspected of having sympathies with pearc", "similarity": 0.5828289985656738}\n', '{"test case number": 122, "answer": "to keep him away from the mob", "modAnswer": "to keep frank safe", "similarity": 0.668419599533081}\n', '{"test case number": 124, "answer": "that he is really alexander pearce.", "modAnswer": "that he is in love with elise", "similarity": 0.6906964182853699}\n', '{"test case number": 127, "answer": "they are worried about his safety", "modAnswer": "because he is dead", "similarity": 0.5807698965072632}\n', '{"test case number": 137, "answer": "to have the snipers shoot at shaw and his men.", "modAnswer": "to be closed.", "similarity": 0.43123742938041687}\n', '{"test case number": 141, "answer": "to pay for his plastic surgery.", "modAnswer": "to pay off his debt", "similarity": 0.6585041284561157}\n', '{"test case number": 144, "answer": "he has burned the note that he left for her.", "modAnswer": "he has been wearing a disguise", "similarity": 0.5875518321990967}\n', '{"test case number": 153, "answer": "the merry go round.", "modAnswer": "\\"auld lang syne\\"", "similarity": 0.5579700469970703}\n', '{"test case number": 154, "answer": "the empire state building", "modAnswer": "the statue of liberty", "similarity": 0.6060270667076111}\n', '{"test case number": 161, "answer": "\\"the gallows\\"", "modAnswer": "\\"higher and higher\\"", "similarity": 0.42505085468292236}\n', '{"test case number": 162, "answer": "a woman named sara.", "modAnswer": "a demon.", "similarity": 0.6066160798072815}\n', '{"test case number": 170, "answer": "the museum", "modAnswer": "a busy intersection", "similarity": 0.4709929823875427}\n', '{"test case number": 176, "answer": "a cat", "modAnswer": "the statue of liberty", "similarity": 0.4141708314418793}\n', '{"test case number": 177, "answer": "\\"olympic theme song\\"", "modAnswer": "\\"higher and higher\\"", "similarity": 0.29051288962364197}\n', '{"test case number": 184, "answer": "she is shot by jack.", "modAnswer": "she is shot.", "similarity": 0.8519880771636963}\n', '{"test case number": 187, "answer": "in a bar in rome.", "modAnswer": "in sweden", "similarity": 0.47426068782806396}\n', '{"test case number": 189, "answer": "he was in danger.", "modAnswer": "he was being followed by an assassin from sweden.", "similarity": 0.5460690855979919}\n', '{"test case number": 190, "answer": "his dreams", "modAnswer": "father benedetto", "similarity": 0.4282076954841614}\n', '{"test case number": 195, "answer": "she is shot by jack.", "modAnswer": "she is shot.", "similarity": 0.8519880771636963}\n', '{"test case number": 204, "answer": "it explodes in her face.", "modAnswer": "it is sabotaged", "similarity": 0.5386558175086975}\n', '{"test case number": 214, "answer": "because tito is unfilial", "modAnswer": "because tito betrayed him", "similarity": 0.7555047869682312}\n', '{"test case number": 216, "answer": "her husband\'s treachery", "modAnswer": "her love for tito", "similarity": 0.6052657961845398}\n', '{"test case number": 219, "answer": "bardo", "modAnswer": "baldassare", "similarity": 0.7856788039207458}\n', '{"test case number": 222, "answer": "baldassarre", "modAnswer": "the rioters", "similarity": 0.4766821265220642}\n', '{"test case number": 224, "answer": "he is beheaded.", "modAnswer": "he is shot by rioters", "similarity": 0.7821225523948669}\n', '{"test case number": 232, "answer": "that they are illegitimate children.", "modAnswer": "that tito played a role in their arrest", "similarity": 0.4359196424484253}\n', '{"test case number": 233, "answer": "she is forced to leave her husband", "modAnswer": "she is forced to flee the city.", "similarity": 0.740267276763916}\n', '{"test case number": 234, "answer": "he jumps into the river.", "modAnswer": "he dives into the arno river.", "similarity": 0.8405916690826416}\n', '{"test case number": 235, "answer": "he is captured by the medici family and imprisoned.", "modAnswer": "he is robbed", "similarity": 0.5850616097450256}\n', '{"test case number": 260, "answer": "he believes he is an artist of the highest caliber", "modAnswer": "he thinks he is an artist with the talent of rubens, rembrand", "similarity": 0.7729101181030273}\n', '{"test case number": 261, "answer": "he lives in ville-d\'avray.", "modAnswer": "london", "similarity": 0.4224735200405121}\n', '{"test case number": 275, "answer": "she tells kate that bad things happen when esther is around.", "modAnswer": "warns kate that bad things happen when esther is around.", "similarity": 0.9383447170257568}\n', '{"test case number": 280, "answer": "it is from the saarne institute in estonia.", "modAnswer": "it was from a mental hospital.", "similarity": 0.5180627107620239}\n', '{"test case number": 281, "answer": "she wants to use max to distract her from being with esther.", "modAnswer": "she wants to keep her from telling everyone about her sexual history", "similarity": 0.7509995102882385}\n', '{"test case number": 285, "answer": "she is thrown into the pond by leena.", "modAnswer": "she is impaled on a tree by esther.", "similarity": 0.6295293569564819}\n', '{"test case number": 288, "answer": "a 9 year old girl from an orphanage.", "modAnswer": "a 9 year old girl they adopted from an orphanage.", "similarity": 0.9217125773429871}\n', '{"test case number": 295, "answer": "that she is actually a 33 year old woman with hypopituitarism.", "modAnswer": "that she is actually a woman who murdered at least seven people.", "similarity": 0.6640128493309021}\n', '{"test case number": 297, "answer": "to find a cure for his boredom.", "modAnswer": "to find his old friends who are fathers", "similarity": 0.5808273553848267}\n', '{"test case number": 309, "answer": "he sets the village on fire.", "modAnswer": "he kills him", "similarity": 0.7246383428573608}\n', '{"test case number": 312, "answer": "they are sacrificed", "modAnswer": "they are killed", "similarity": 0.8201237320899963}\n', '{"test case number": 334, "answer": "queen of the north", "modAnswer": "queen of the spanish republic", "similarity": 0.7103286385536194}\n', '{"test case number": 337, "answer": "the papal approval", "modAnswer": "the death of the last legitimate catholic in the line of succession", "similarity": 0.5757132768630981}\n', '{"test case number": 338, "answer": "to return to the continent", "modAnswer": "to protect her and her children", "similarity": 0.4358576238155365}\n', '{"test case number": 339, "answer": "he was suspected of having been involved in the plot.", "modAnswer": "for seducing a ward of the queen", "similarity": 0.5112734436988831}\n', '{"test case number": 343, "answer": "after she has given birth to her son", "modAnswer": "after she has given birth to their son", "similarity": 0.995010256767273}\n', '{"test case number": 352, "answer": "mary", "modAnswer": "bess", "similarity": 0.7833982110023499}\n', '{"test case number": 353, "answer": "philip", "modAnswer": "raleigh", "similarity": 0.652084469795227}\n', '{"test case number": 362, "answer": "her mother requested it on her deathbed.", "modAnswer": "her mother wanted her to marry a wealthy man.", "similarity": 0.6754921078681946}\n', '{"test case number": 363, "answer": "she is unhealthy and can\'t stand being in the same room with her husband.", "modAnswer": "she is unhealthy and can barely stand being in the same room with her husband.", "similarity": 0.992083728313446}\n', '{"test case number": 364, "answer": "her brother", "modAnswer": "mary\'s brother", "similarity": 0.8688337206840515}\n', '{"test case number": 370, "answer": "henry", "modAnswer": "her aunt", "similarity": 0.4726268947124481}\n', '{"test case number": 378, "answer": "to escape her family", "modAnswer": "to escape a family who does not share her values", "similarity": 0.8480039834976196}\n', '{"test case number": 393, "answer": "to raise money for the string program.", "modAnswer": "to raise money for the program.", "similarity": 0.8779804706573486}\n', '{"test case number": 411, "answer": "the venue was changed", "modAnswer": "the venue was lost", "similarity": 0.7703338861465454}\n', '{"test case number": 419, "answer": "a silver sphere he used to heal her.", "modAnswer": "the starman used a silver sphere to heal her.", "similarity": 0.9149466156959534}\n', '{"test case number": 423, "answer": "in the crater", "modAnswer": "in chequamegon bay, wisconsin", "similarity": 0.3296128809452057}\n', '{"test case number": 429, "answer": "he uses a slot machine to win the jackpot.", "modAnswer": "he uses a quarter from a slot machine to win the jackpot.", "similarity": 0.9370484352111816}\n', '{"test case number": 431, "answer": "to leave the crater and return to his people", "modAnswer": "to give it to their son", "similarity": 0.6048744320869446}\n', '{"test case number": 436, "answer": "to save his son", "modAnswer": "to warn his people that the earth is hostile and he will die if he does", "similarity": 0.6519084572792053}\n', '{"test case number": 438, "answer": "they use a holographic map to escape.", "modAnswer": "they crash their car into a gas tanker.", "similarity": 0.5735697150230408}\n', '{"test case number": 440, "answer": "the alien wins the jackpot on a slot machine.", "modAnswer": "the alien uses a sphere to create a holographic map of the united states", "similarity": 0.5955615043640137}\n', '{"test case number": 451, "answer": "in a bathtub in a hotel.", "modAnswer": "in a bus station", "similarity": 0.5583604574203491}\n', '{"test case number": 454, "answer": "he offers to share his apartment with him.", "modAnswer": "he offers to share his apartment with joe.", "similarity": 0.9114152193069458}\n', '{"test case number": 461, "answer": "joe is shot and killed.", "modAnswer": "joe is arrested.", "similarity": 0.863289475440979}\n', '{"test case number": 471, "answer": "in a bathtub in a hotel.", "modAnswer": "in a bus station", "similarity": 0.5583604574203491}\n', '{"test case number": 478, "answer": "because tom refused to allow mr. peters to buy out of his inventions.", "modAnswer": "he tried to buy tom out of his inventions.", "similarity": 0.8526867032051086}\n', '{"test case number": 484, "answer": "there is no difference in the wires used for a telephone and those used for tele", "modAnswer": "because it is a copy of a telegraph", "similarity": 0.5945634841918945}\n', '{"test case number": 486, "answer": "he shows him a picture of himself in a telegraph booth.", "modAnswer": "he plays a video of tom and his father fighting.", "similarity": 0.5475741624832153}\n', '{"test case number": 518, "answer": "he works on a paper route riding a moped.", "modAnswer": "he works on a moped route for the newspaper.", "similarity": 0.8617250919342041}\n', '{"test case number": 535, "answer": "psychiatrist", "modAnswer": "he becomes an author", "similarity": 0.3037409782409668}\n', '{"test case number": 551, "answer": "he was accused of murdering him.", "modAnswer": "he was accused of murdering a man in chicago.", "similarity": 0.8521884083747864}\n', '{"test case number": 556, "answer": "a police officer", "modAnswer": "an army officer", "similarity": 0.6452348232269287}\n', '{"test case number": 559, "answer": "harvard medical school", "modAnswer": "castellano radcliffe college", "similarity": 0.6523022651672363}\n', '{"test case number": 576, "answer": "a cruise", "modAnswer": "he charters a thrift club.", "similarity": 0.2859479486942291}\n', '{"test case number": 577, "answer": "a sailor", "modAnswer": "a drowning sailor", "similarity": 0.8383684754371643}\n', '{"test case number": 586, "answer": "the woman who marries brewster", "modAnswer": "the woman who marries monty", "similarity": 0.833713948726654}\n', '{"test case number": 587, "answer": "because she is wealthy and he is wealthy.", "modAnswer": "because she is wealthy and wealthy like him.", "similarity": 0.986936092376709}\n', '{"test case number": 598, "answer": "hector of troy", "modAnswer": "troilus and hector", "similarity": 0.8867986798286438}\n', '{"test case number": 604, "answer": "diomede", "modAnswer": "troilus", "similarity": 0.7906144261360168}\n', '{"test case number": 614, "answer": "he swoons.", "modAnswer": "troilus swoons.", "similarity": 0.7409024238586426}\n', '{"test case number": 615, "answer": "to give criseyde to troilus", "modAnswer": "to give antenor to the greeks in exchange for criseyde.", "similarity": 0.8253145217895508}\n', '{"test case number": 620, "answer": "he ascends to the eighth sphere.", "modAnswer": "he is resurrected and ascends to the eighth sphere.", "similarity": 0.916519045829773}\n', '{"test case number": 641, "answer": "using names that are appropriate to the things they name", "modAnswer": "using names that are appropriate to the things they describe", "similarity": 0.9728928208351135}\n', '{"test case number": 643, "answer": "the original word is no longer the same.", "modAnswer": "the word no longer sounds like what it originally was.", "similarity": 0.9230051040649414}\n', '{"test case number": 648, "answer": "the imperfection of names in capturing the objects they seek to signify", "modAnswer": "it is inferior to studying things themselves", "similarity": 0.6191283464431763}\n', '{"test case number": 706, "answer": "that he is the man who stole the ring", "modAnswer": "that he is the man who murdered his friend.", "similarity": 0.8165489435195923}\n', '{"test case number": 712, "answer": "he is mistaken for a man", "modAnswer": "he discovers a man has been wrongly identified as him", "similarity": 0.8179082274436951}\n', '{"test case number": 717, "answer": "valjean breaks parole to help the poor.", "modAnswer": "javert", "similarity": 0.5684847831726074}\n', '{"test case number": 720, "answer": "he breaks his parole and starts a new life.", "modAnswer": "he steals his silverware", "similarity": 0.5388349294662476}\n', '{"test case number": 725, "answer": "his ring", "modAnswer": "her letter", "similarity": 0.4979110360145569}\n', '{"test case number": 733, "answer": "the son of the king of scotland", "modAnswer": "the governor of scotland", "similarity": 0.6900599002838135}\n', '{"test case number": 734, "answer": "london", "modAnswer": "the city of brussels", "similarity": 0.6854713559150696}\n', '{"test case number": 735, "answer": "the king was not present at the thanksgiving service.", "modAnswer": "there was a general election.", "similarity": 0.4710647463798523}\n', '{"test case number": 738, "answer": "his nephew", "modAnswer": "his friend wildrake", "similarity": 0.6482867002487183}\n', '{"test case number": 742, "answer": "a scotch page", "modAnswer": "a page for the king", "similarity": 0.6124469041824341}\n', '{"test case number": 744, "answer": "the battle of sedgemoor", "modAnswer": "the battle of dunkirk", "similarity": 0.7080650329589844}\n', '{"test case number": 745, "answer": "charles", "modAnswer": "everard", "similarity": 0.639986515045166}\n', '{"test case number": 746, "answer": "it was dissolved.", "modAnswer": "it was expelled", "similarity": 0.8307712078094482}\n', '{"test case number": 749, "answer": "in the dark gallery", "modAnswer": "in a dark gallery", "similarity": 0.9818739891052246}\n', '{"test case number": 753, "answer": "he jumps from the top.", "modAnswer": "he jumps from the tower", "similarity": 0.8459194898605347}\n', '{"test case number": 754, "answer": "he tells her in a letter.", "modAnswer": "he writes her a letter", "similarity": 0.9252947568893433}\n', '{"test case number": 755, "answer": "the king\'s son, charles, is crowned king", "modAnswer": "the protectorate was abolished.", "similarity": 0.3881780803203583}\n', '{"test case number": 757, "answer": "the king of the kings of the ice dragons", "modAnswer": "the king of the kings of the dragons", "similarity": 0.9447371363639832}\n', '{"test case number": 759, "answer": "they are half-siblings.", "modAnswer": "they are half-brothers.", "similarity": 0.9632464051246643}\n', '{"test case number": 761, "answer": "he is jealous of his brother", "modAnswer": "he is under the influence of the bewilderbeast", "similarity": 0.5575105547904968}\n', '{"test case number": 763, "answer": "he blasts through the ice", "modAnswer": "he shoots it in the face", "similarity": 0.6184535622596741}\n', '{"test case number": 764, "answer": "it destroys the bewilderbeast\'s wings", "modAnswer": "it breaks its tusk", "similarity": 0.7089002132415771}\n', '{"test case number": 769, "answer": "drago murdered the chiefs.", "modAnswer": "stoick murdered the chiefs", "similarity": 0.9299378395080566}\n', '{"test case number": 774, "answer": "they blast through it.", "modAnswer": "they break free of the ice with a blast.", "similarity": 0.7642819881439209}\n', '{"test case number": 775, "answer": "he is blown up by a lightning storm.", "modAnswer": "toothless shoots it in the face", "similarity": 0.48656439781188965}\n', '{"test case number": 779, "answer": "to save them from the bewilderbeast.", "modAnswer": "they are immune to the bewilderbeast\'s control.", "similarity": 0.6578481197357178}\n', '{"test case number": 781, "answer": "the ice", "modAnswer": "its left tusk", "similarity": 0.5231962203979492}\n', '{"test case number": 782, "answer": "he is preparing to lead the dragons against drago.", "modAnswer": "he is preparing to lead the villagers in a battle against drago.", "similarity": 0.8166512250900269}\n', '{"test case number": 784, "answer": "the new chieftain", "modAnswer": "chieftain of berk", "similarity": 0.7686979174613953}\n', '{"test case number": 788, "answer": "because they grew up in the same town and played for the same team.", "modAnswer": "clough and revie grew up in the same town.", "similarity": 0.5964000821113586}\n', '{"test case number": 790, "answer": "because of the way leeds played", "modAnswer": "clough was adamant that he was not the right man for the job.", "similarity": 0.46924012899398804}\n', '{"test case number": 791, "answer": "44 games", "modAnswer": "44 days", "similarity": 0.7478288412094116}\n', '{"test case number": 792, "answer": "brighton & hove albion", "modAnswer": "derby", "similarity": 0.44002121686935425}\n', '{"test case number": 793, "answer": "he is told he is being sacked", "modAnswer": "clough is fired", "similarity": 0.6417933702468872}\n', '{"test case number": 796, "answer": "since he took over in 1968.", "modAnswer": "since he took over in the summer of 1968.", "similarity": 0.9120967388153076}\n', '{"test case number": 803, "answer": "any player who mentions revie\'s name or methods.", "modAnswer": "any player who mentions revie\'s name or methods again.", "similarity": 0.9719941020011902}\n', '{"test case number": 804, "answer": "clough", "modAnswer": "every opponent his team faced", "similarity": 0.228545144200325}\n', '{"test case number": 811, "answer": "he offered his resignation and taylor\'s.", "modAnswer": "he offered his and taylor\'s resignations.", "similarity": 0.9286336898803711}\n', '{"test case number": 813, "answer": "he thought clough was similar to him", "modAnswer": "he did not recognize clough.", "similarity": 0.8134969472885132}\n', '{"test case number": 817, "answer": "he takes shelter in a lead-lined refrigerator.", "modAnswer": "he takes refuge in a refrigerator", "similarity": 0.9226946830749512}\n', '{"test case number": 818, "answer": "venezuela", "modAnswer": "peru", "similarity": 0.7658736705780029}\n', '{"test case number": 825, "answer": "he takes shelter in a lead-lined refrigerator.", "modAnswer": "he takes shelter in a refrigerator.", "similarity": 0.9402658939361572}\n', '{"test case number": 841, "answer": "a skyscraper", "modAnswer": "a flying saucer.", "similarity": 0.5007422566413879}\n', '{"test case number": 864, "answer": "thiodolph", "modAnswer": "thiodolf", "similarity": 0.8574879169464111}\n', '{"test case number": 892, "answer": "to stay with tom or to stay with grace.", "modAnswer": "to stay with tom or to leave the ranch", "similarity": 0.8500804901123047}\n', '{"test case number": 893, "answer": "to be with tom", "modAnswer": "she is torn between her love for tom and her love for her family.", "similarity": 0.7100086808204651}\n', '{"test case number": 896, "answer": "it is amputated.", "modAnswer": "it is partially amputated.", "similarity": 0.8831184506416321}\n', '{"test case number": 926, "answer": "she fakes a phone call to steve.", "modAnswer": "she is fired", "similarity": 0.582653284072876}\n', '{"test case number": 931, "answer": "she hitschhikes with a couple of protesters.", "modAnswer": "she hitchhikes with a trucker named norm.", "similarity": 0.5697561502456665}\n', '{"test case number": 938, "answer": "her husband is dying.", "modAnswer": "her husband is gravely ill.", "similarity": 0.9018986225128174}\n', '{"test case number": 946, "answer": "wildfell hall", "modAnswer": "staningley", "similarity": 0.6441956162452698}\n', '{"test case number": 951, "answer": "her husband is dying.", "modAnswer": "her husband is gravely ill.", "similarity": 0.9018986225128174}\n', '{"test case number": 956, "answer": "her husband is dying.", "modAnswer": "her husband is gravely ill.", "similarity": 0.9018986225128174}\n', '{"test case number": 959, "answer": "she is jealous of her husband\'s behavior", "modAnswer": "gilbert\'s interest in her wanes.", "similarity": 0.6697322726249695}\n', '{"test case number": 966, "answer": "because of hi\'s criminal record", "modAnswer": "hi has a criminal record.", "similarity": 0.8521375060081482}\n', '{"test case number": 967, "answer": "the azquitts", "modAnswer": "the azquits", "similarity": 0.8498023748397827}\n', '{"test case number": 970, "answer": "he is proposing to his wife.", "modAnswer": "he is proposing wife swapping", "similarity": 0.8679434061050415}\n', '{"test case number": 971, "answer": "a loot sack with a dye canister in it.", "modAnswer": "a loot sack with junior in it.", "similarity": 0.8092963099479675}\n', '{"test case number": 974, "answer": "they met when she took his mugshots.", "modAnswer": "they met when ed took hi\'s mugshots.", "similarity": 0.8819750547409058}\n', '{"test case number": 978, "answer": "to get the child", "modAnswer": "to get the money", "similarity": 0.6895067095756531}\n', '{"test case number": 982, "answer": "he is thrown from a height", "modAnswer": "he is blown up by a grenade", "similarity": 0.6192330121994019}\n', '{"test case number": 987, "answer": "hi has a criminal record", "modAnswer": "because of hi\'s criminal record", "similarity": 0.8480778932571411}\n', '{"test case number": 990, "answer": "gale and evelle", "modAnswer": "hi and ed", "similarity": 0.6077954769134521}\n', '{"test case number": 991, "answer": "hi", "modAnswer": "smalls", "similarity": 0.5431672930717468}\n', '{"test case number": 992, "answer": "to the police station", "modAnswer": "to a motel", "similarity": 0.6963660717010498}\n', '{"test case number": 993, "answer": "nathan sr.", "modAnswer": "nathan arizona sr.", "similarity": 0.8959415555000305}\n', '{"test case number": 995, "answer": "because she was the result of a tryst between jack and an actress.", "modAnswer": "because they had a note from her mother", "similarity": 0.634810209274292}\n', '{"test case number": 998, "answer": "to get the heroin.", "modAnswer": "because they thought she was the package", "similarity": 0.5851359367370605}']

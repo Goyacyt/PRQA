@@ -1,0 +1,1254 @@
+{"test case number": 1, "answer": "the united nations environment programme (unep) and the world meteorological organization (w", "modAnswer": "the unenep and the world meteorological organization (wmo)", "similarity": 0.9260661005973816}
+
+{"test case number": 6, "answer": "unep", "modAnswer": "the world meteorological organization (wmo) covers the expenses related to the secretary", "similarity": 0.4210992455482483}
+
+{"test case number": 6, "answer": "<", "modAnswer": "the world meteorological organization (wmo) covers the expenses related to the secretary", "similarity": 0.36362379789352417}
+
+{"test case number": 6, "answer": "unep", "modAnswer": "<", "similarity": 0.7310936450958252}
+
+{"test case number": 8, "answer": "the wmo, by unep, and by ipcc members", "modAnswer": "the ipcc panel", "similarity": 0.8091877102851868}
+
+{"test case number": 10, "answer": "everyone", "modAnswer": "people with lower incomes often have to borrow money to cover the costs.", "similarity": 0.3312848210334778}
+
+{"test case number": 10, "answer": "everyone", "modAnswer": "b", "similarity": 0.441209077835083}
+
+{"test case number": 13, "answer": "taking on debt", "modAnswer": "incurring debt", "similarity": 0.9510738253593445}
+
+{"test case number": 15, "answer": ".. for those on lower incomes, the costs must be borrowed", "modAnswer": "the burden of debt is shared.", "similarity": 0.7608547210693359}
+
+{"test case number": 16, "answer": ".", "modAnswer": "housing, pensions, education, and healthcare costs", "similarity": 0.4022673964500427}
+
+{"test case number": 16, "answer": "<", "modAnswer": "housing, pensions, education, and healthcare costs", "similarity": 0.40878206491470337}
+
+{"test case number": 16, "answer": ".", "modAnswer": "<", "similarity": 0.7896820902824402}
+
+{"test case number": 18, "answer": "taking on debt", "modAnswer": "borrowing", "similarity": 0.6220130324363708}
+
+{"test case number": 18, "answer": "<", "modAnswer": "borrowing", "similarity": 0.480075478553772}
+
+{"test case number": 18, "answer": "taking on debt", "modAnswer": "<", "similarity": 0.35786086320877075}
+
+{"test case number": 20, "answer": "reminder of injustice", "modAnswer": "because they want to keep protesting", "similarity": 0.5485830903053284}
+
+{"test case number": 20, "answer": "reminder of injustice", "modAnswer": "a", "similarity": 0.4516507685184479}
+
+{"test case number": 21, "answer": "reminding their countrymen of injustice", "modAnswer": "to keep protesting and to remind their fellow citizens of the presence of injustice.", "similarity": 0.8435719013214111}
+
+{"test case number": 22, "answer": "the spirit of protest", "modAnswer": "the most important item is the incarceration.", "similarity": 0.5521720051765442}
+
+{"test case number": 23, "answer": "neo-conservative insistence on a guilty plea", "modAnswer": "because they will not be able to pay their way out.", "similarity": 0.44857364892959595}
+
+{"test case number": 24, "answer": "a way of reminding their countrymen of injustice", "modAnswer": "to keep protesting and to serve as a reminder to their fellow citizens of the presence of", "similarity": 0.8120347261428833}
+
+{"test case number": 25, "answer": "spirit of protest should be maintained all the way", "modAnswer": "to keep the spirit of protest alive.", "similarity": 0.8520209789276123}
+
+{"test case number": 26, "answer": "the neo-conservative insistence on a guilty plea", "modAnswer": "the neo-conservative demand for a guilty plea.", "similarity": 0.9603620767593384}
+
+{"test case number": 28, "answer": "demean", "modAnswer": "it reduces the seriousness of a protest.", "similarity": 0.5529991984367371}
+
+{"test case number": 28, "answer": "<", "modAnswer": "it reduces the seriousness of a protest.", "similarity": 0.3695881962776184}
+
+{"test case number": 28, "answer": "demean", "modAnswer": "<", "similarity": 0.4633360803127289}
+
+{"test case number": 30, "answer": "nestorianism and roman catholicism", "modAnswer": "roman catholicism and nestorianism", "similarity": 0.9934014081954956}
+
+{"test case number": 36, "answer": "taoism", "modAnswer": "islam", "similarity": 0.7297340631484985}
+
+{"test case number": 36, "answer": "<", "modAnswer": "islam", "similarity": 0.4871378242969513}
+
+{"test case number": 36, "answer": "n", "modAnswer": "islam", "similarity": 0.44414597749710083}
+
+{"test case number": 36, "answer": "o", "modAnswer": "islam", "similarity": 0.45932579040527344}
+
+{"test case number": 36, "answer": "taoism", "modAnswer": "<", "similarity": 0.536447286605835}
+
+{"test case number": 36, "answer": "taoism", "modAnswer": "n", "similarity": 0.49743732810020447}
+
+{"test case number": 38, "answer": "no answer>", "modAnswer": "western fields of study", "similarity": 0.3384804129600525}
+
+{"test case number": 38, "answer": "<", "modAnswer": "western fields of study", "similarity": 0.33139991760253906}
+
+{"test case number": 38, "answer": "no answer>", "modAnswer": "<", "similarity": 0.7895853519439697}
+
+{"test case number": 39, "answer": "recreational use", "modAnswer": "oxygen is used recreationally at oxygen bars and in various sports activities.", "similarity": 0.7172045707702637}
+
+{"test case number": 40, "answer": "mild euphoric", "modAnswer": "it is not known whether it will increase performance or cause side effects.", "similarity": 0.41631603240966797}
+
+{"test case number": 43, "answer": "euphoric", "modAnswer": "it is more likely that the effect is due to a placebo effect.", "similarity": 0.37595033645629883}
+
+{"test case number": 49, "answer": "all spheres", "modAnswer": "all aspects of life", "similarity": 0.6260327696800232}
+
+{"test case number": 50, "answer": "to implement islamic values in all spheres of life", "modAnswer": "to revive and uphold islamic principles across all domains.", "similarity": 0.9199623465538025}
+
+{"test case number": 51, "answer": "two poles", "modAnswer": "political islam and reformism", "similarity": 0.3173246681690216}
+
+{"test case number": 53, "answer": "islm siys", "modAnswer": "islamism", "similarity": 0.5124443769454956}
+
+{"test case number": 53, "answer": "<", "modAnswer": "islamism", "similarity": 0.44310250878334045}
+
+{"test case number": 53, "answer": "n", "modAnswer": "islamism", "similarity": 0.3876728117465973}
+
+{"test case number": 53, "answer": "o", "modAnswer": "islamism", "similarity": 0.39485886693000793}
+
+{"test case number": 53, "answer": "islm siys", "modAnswer": "<", "similarity": 0.6350203156471252}
+
+{"test case number": 53, "answer": "islm siys", "modAnswer": "n", "similarity": 0.6066624522209167}
+
+{"test case number": 53, "answer": "islm siys", "modAnswer": "o", "similarity": 0.6422263383865356}
+
+{"test case number": 54, "answer": "islm siys>", "modAnswer": "islamic religions", "similarity": 0.43597304821014404}
+
+{"test case number": 54, "answer": "<", "modAnswer": "islamic religions", "similarity": 0.44843971729278564}
+
+{"test case number": 54, "answer": "islm siys>", "modAnswer": "<", "similarity": 0.7852210402488708}
+
+{"test case number": 55, "answer": "islm siys>", "modAnswer": "a literal interpretation of islamic teachings", "similarity": 0.39215072989463806}
+
+{"test case number": 55, "answer": "<", "modAnswer": "a literal interpretation of islamic teachings", "similarity": 0.4004921317100525}
+
+{"test case number": 55, "answer": "islm siys>", "modAnswer": "<", "similarity": 0.7852210402488708}
+
+{"test case number": 58, "answer": "winters", "modAnswer": "during the warmest season", "similarity": 0.5353853702545166}
+
+{"test case number": 58, "answer": "winters", "modAnswer": "m", "similarity": 0.5100290775299072}
+
+{"test case number": 58, "answer": "winters", "modAnswer": "a", "similarity": 0.4916074275970459}
+
+{"test case number": 58, "answer": "winters", "modAnswer": "y", "similarity": 0.498365193605423}
+
+{"test case number": 62, "answer": "mild weather", "modAnswer": "mild winters", "similarity": 0.9233363270759583}
+
+{"test case number": 63, "answer": "no answer>", "modAnswer": "rainfall", "similarity": 0.47558432817459106}
+
+{"test case number": 63, "answer": "<", "modAnswer": "rainfall", "similarity": 0.4679829180240631}
+
+{"test case number": 63, "answer": "no answer>", "modAnswer": "<", "similarity": 0.7895853519439697}
+
+{"test case number": 67, "answer": "upper lake", "modAnswer": "lake constance", "similarity": 0.7681978940963745}
+
+{"test case number": 68, "answer": "lower lake", "modAnswer": "lake constance", "similarity": 0.7702008485794067}
+
+{"test case number": 69, "answer": "the swiss-austrian border", "modAnswer": "the seerhein", "similarity": 0.6496556997299194}
+
+{"test case number": 71, "answer": "austria", "modAnswer": "the alps", "similarity": 0.640303909778595}
+
+{"test case number": 73, "answer": "the upper lake", "modAnswer": "the lake is composed of three separate bodies of water - the obersee, the untersee", "similarity": 0.7600904703140259}
+
+{"test case number": 74, "answer": "baden-w\u00fcrttemberg", "modAnswer": "the lower lake is the obersee.", "similarity": 0.623258113861084}
+
+{"test case number": 76, "answer": "the german states of bavaria and baden-w\u00fcrttemberg", "modAnswer": "switzerland", "similarity": 0.6654708981513977}
+
+{"test case number": 76, "answer": "<", "modAnswer": "switzerland", "similarity": 0.4970724284648895}
+
+{"test case number": 76, "answer": "the german states of bavaria and baden-w\u00fcrttemberg", "modAnswer": "<", "similarity": 0.33598440885543823}
+
+{"test case number": 77, "answer": "the swiss-austrian border", "modAnswer": "the alps", "similarity": 0.7241847515106201}
+
+{"test case number": 77, "answer": "<", "modAnswer": "the alps", "similarity": 0.45120781660079956}
+
+{"test case number": 77, "answer": "n", "modAnswer": "the alps", "similarity": 0.45011991262435913}
+
+{"test case number": 77, "answer": "o", "modAnswer": "the alps", "similarity": 0.4551210105419159}
+
+{"test case number": 77, "answer": "the swiss-austrian border", "modAnswer": "<", "similarity": 0.4149974584579468}
+
+{"test case number": 78, "answer": "no answer>", "modAnswer": "the upper lake is the obersee, while the lower lake is the untersee.", "similarity": 0.4971081614494324}
+
+{"test case number": 78, "answer": "<", "modAnswer": "the upper lake is the obersee, while the lower lake is the untersee.", "similarity": 0.5238785147666931}
+
+{"test case number": 78, "answer": "no answer>", "modAnswer": "<", "similarity": 0.7895853519439697}
+
+{"test case number": 80, "answer": "the united kingdom", "modAnswer": "england", "similarity": 0.8416901230812073}
+
+{"test case number": 82, "answer": "abercynon in south wales", "modAnswer": "abercynon in southern wales", "similarity": 0.9437418580055237}
+
+{"test case number": 85, "answer": "the united kingdom", "modAnswer": "england", "similarity": 0.8416901230812073}
+
+{"test case number": 89, "answer": "south wales", "modAnswer": "southern wales", "similarity": 0.8804828524589539}
+
+{"test case number": 91, "answer": "anti-communist fervor", "modAnswer": "anti-communist sentiment in poland.", "similarity": 0.7709856629371643}
+
+{"test case number": 92, "answer": "less than a year", "modAnswer": "just under a year", "similarity": 0.9466173052787781}
+
+{"test case number": 94, "answer": "the incentive for democratic changes", "modAnswer": "a catalyst for democratic transformations.", "similarity": 0.8757210969924927}
+
+{"test case number": 95, "answer": "no answer>", "modAnswer": "pope julia xv", "similarity": 0.4534038007259369}
+
+{"test case number": 95, "answer": "<", "modAnswer": "pope julia xv", "similarity": 0.4923103451728821}
+
+{"test case number": 95, "answer": "n", "modAnswer": "pope julia xv", "similarity": 0.3845180869102478}
+
+{"test case number": 95, "answer": "no answer>", "modAnswer": "<", "similarity": 0.7895853519439697}
+
+{"test case number": 96, "answer": "anti-communist fervor", "modAnswer": "anti-communist sentiment in poland.", "similarity": 0.7709856629371643}
+
+{"test case number": 97, "answer": "less than a year", "modAnswer": "just under a year", "similarity": 0.9466173052787781}
+
+{"test case number": 99, "answer": "a call to \"renew the face\" of poland", "modAnswer": "a catalyst for democratic transformations.", "similarity": 0.44088980555534363}
+
+{"test case number": 99, "answer": "<", "modAnswer": "a catalyst for democratic transformations.", "similarity": 0.32929539680480957}
+
+{"test case number": 99, "answer": "a call to \"renew the face\" of poland", "modAnswer": "<", "similarity": 0.367111474275589}
+
+{"test case number": 100, "answer": "southern and central parts of france", "modAnswer": "the southern and central regions of france", "similarity": 0.9824790358543396}
+
+{"test case number": 101, "answer": "one-eighth the number", "modAnswer": "one-eighth of the population", "similarity": 0.7044253945350647}
+
+{"test case number": 101, "answer": "one-eighth the number", "modAnswer": "a", "similarity": 0.564521849155426}
+
+{"test case number": 104, "answer": "granted the huguenots substantial religious, political and military autonomy", "modAnswer": "allowed for the end of the wars", "similarity": 0.6472370624542236}
+
+{"test case number": 104, "answer": "g", "modAnswer": "allowed for the end of the wars", "similarity": 0.2515445351600647}
+
+{"test case number": 106, "answer": "southern and central parts of france", "modAnswer": "southern and central regions", "similarity": 0.8285081386566162}
+
+{"test case number": 107, "answer": "no answer>", "modAnswer": "the french crown", "similarity": 0.3602293133735657}
+
+{"test case number": 107, "answer": "<", "modAnswer": "the french crown", "similarity": 0.43080422282218933}
+
+{"test case number": 107, "answer": "no answer>", "modAnswer": "<", "similarity": 0.7895853519439697}
+
+{"test case number": 108, "answer": "one-eighth the number of french catholics", "modAnswer": "two million", "similarity": 0.5127574801445007}
+
+{"test case number": 108, "answer": "<", "modAnswer": "two million", "similarity": 0.3569895029067993}
+
+{"test case number": 108, "answer": "one-eighth the number of french catholics", "modAnswer": "<", "similarity": 0.37434121966362}
+
+{"test case number": 109, "answer": "one-eighth the number", "modAnswer": "one-eighth of the population", "similarity": 0.7044253945350647}
+
+{"test case number": 109, "answer": "<", "modAnswer": "one-eighth of the population", "similarity": 0.3959709405899048}
+
+{"test case number": 109, "answer": "one-eighth the number", "modAnswer": "<", "similarity": 0.4928756356239319}
+
+{"test case number": 110, "answer": "8 february 2007", "modAnswer": "february 8, 2007", "similarity": 0.9097049832344055}
+
+{"test case number": 111, "answer": "march", "modAnswer": "february 8, 2007", "similarity": 0.5275532603263855}
+
+{"test case number": 111, "answer": "m", "modAnswer": "february 8, 2007", "similarity": 0.4742545485496521}
+
+{"test case number": 114, "answer": "sport (including premier league football), films, entertainment and news", "modAnswer": "sports, movies, entertainment, and news", "similarity": 0.8066742420196533}
+
+{"test case number": 115, "answer": "8 february 2007", "modAnswer": "february 8, 2007", "similarity": 0.9097049832344055}
+
+{"test case number": 116, "answer": "no answer>", "modAnswer": "february 8, 2007", "similarity": 0.3939099907875061}
+
+{"test case number": 116, "answer": "<", "modAnswer": "february 8, 2007", "similarity": 0.39931443333625793}
+
+{"test case number": 116, "answer": "n", "modAnswer": "february 8, 2007", "similarity": 0.42289260029792786}
+
+{"test case number": 116, "answer": "o", "modAnswer": "february 8, 2007", "similarity": 0.39585086703300476}
+
+{"test case number": 116, "answer": "no answer>", "modAnswer": "<", "similarity": 0.7895853519439697}
+
+{"test case number": 119, "answer": "freeview", "modAnswer": "setanta sports", "similarity": 0.5284165740013123}
+
+{"test case number": 119, "answer": "<", "modAnswer": "setanta sports", "similarity": 0.3850775361061096}
+
+{"test case number": 119, "answer": "freeview", "modAnswer": "<", "similarity": 0.4923979640007019}
+
+{"test case number": 119, "answer": "freeview", "modAnswer": "n", "similarity": 0.40757668018341064}
+
+{"test case number": 119, "answer": "freeview", "modAnswer": "o", "similarity": 0.43573781847953796}
+
+{"test case number": 120, "answer": "introductory stage", "modAnswer": "a comprehensive discussion in the chamber regarding the fundamental principles of the bill.", "similarity": 0.4451037049293518}
+
+{"test case number": 121, "answer": "explanatory notes, a policy memorandum setting out the policy underlying", "modAnswer": "documents such as explanatory notes, a policy memorandum explaining the", "similarity": 0.8878589868545532}
+
+{"test case number": 122, "answer": "whether the bill is within the legislative competence of the parliament", "modAnswer": "whether the bill falls within the parliament's legislative competence", "similarity": 0.9916990995407104}
+
+{"test case number": 123, "answer": "relevant committee or committees", "modAnswer": "in the respective committee or committees", "similarity": 0.8081467151641846}
+
+{"test case number": 125, "answer": "member in charge", "modAnswer": "the member responsible for the bill", "similarity": 0.7847394943237305}
+
+{"test case number": 126, "answer": "no answer>", "modAnswer": "stage 2.", "similarity": 0.4688956141471863}
+
+{"test case number": 126, "answer": "<", "modAnswer": "stage 2.", "similarity": 0.5508297085762024}
+
+{"test case number": 126, "answer": "n", "modAnswer": "stage 2.", "similarity": 0.5070518851280212}
+
+{"test case number": 126, "answer": "o", "modAnswer": "stage 2.", "similarity": 0.499483585357666}
+
+{"test case number": 126, "answer": "no answer>", "modAnswer": "<", "similarity": 0.7895853519439697}
+
+{"test case number": 127, "answer": "no answer>", "modAnswer": "stage 2", "similarity": 0.48226645588874817}
+
+{"test case number": 127, "answer": "<", "modAnswer": "stage 2", "similarity": 0.5617977380752563}
+
+{"test case number": 127, "answer": "n", "modAnswer": "stage 2", "similarity": 0.5221111178398132}
+
+{"test case number": 127, "answer": "o", "modAnswer": "stage 2", "similarity": 0.5032179951667786}
+
+{"test case number": 127, "answer": "no answer>", "modAnswer": "<", "similarity": 0.7895853519439697}
+
+{"test case number": 128, "answer": "no answer>", "modAnswer": "a bill that is not submitted to part of parliament for a full debate.", "similarity": 0.5069923996925354}
+
+{"test case number": 128, "answer": "<", "modAnswer": "a bill that is not submitted to part of parliament for a full debate.", "similarity": 0.4352837800979614}
+
+{"test case number": 128, "answer": "no answer>", "modAnswer": "<", "similarity": 0.7895853519439697}
+
+{"test case number": 132, "answer": "the mechanism by which y. pestis was usually transmitted", "modAnswer": "the black death", "similarity": 0.30203044414520264}
+
+{"test case number": 135, "answer": "1894", "modAnswer": "1898", "similarity": 0.9304353594779968}
+
+{"test case number": 137, "answer": "paul-louis simond", "modAnswer": "charles xavier", "similarity": 0.7510807514190674}
+
+{"test case number": 137, "answer": "<", "modAnswer": "charles xavier", "similarity": 0.46790364384651184}
+
+{"test case number": 137, "answer": "n", "modAnswer": "charles xavier", "similarity": 0.43058890104293823}
+
+{"test case number": 137, "answer": "o", "modAnswer": "charles xavier", "similarity": 0.43789976835250854}
+
+{"test case number": 137, "answer": "paul-louis simond", "modAnswer": "<", "similarity": 0.43124330043792725}
+
+{"test case number": 141, "answer": "to regulate the practice of pharmacists and pharmacy technicians", "modAnswer": "managing the pharmacy department and overseeing specialized areas in pharmacy practice", "similarity": 0.7786747813224792}
+
+{"test case number": 142, "answer": "a health care professional", "modAnswer": "healthcare professional", "similarity": 0.9396392107009888}
+
+{"test case number": 143, "answer": "responsibilities might a pharmacy technician have", "modAnswer": "they are entrusted with managing the pharmacy department and overseeing specialized areas in pharmacy", "similarity": 0.6811078190803528}
+
+{"test case number": 144, "answer": "a hospital pharmacy", "modAnswer": "a pharmacist", "similarity": 0.7526723742485046}
+
+{"test case number": 144, "answer": "<", "modAnswer": "a pharmacist", "similarity": 0.4914536774158478}
+
+{"test case number": 144, "answer": "n", "modAnswer": "a pharmacist", "similarity": 0.5021615624427795}
+
+{"test case number": 144, "answer": "o", "modAnswer": "a pharmacist", "similarity": 0.4392773509025574}
+
+{"test case number": 144, "answer": "a hospital pharmacy", "modAnswer": "<", "similarity": 0.45747989416122437}
+
+{"test case number": 144, "answer": "a hospital pharmacy", "modAnswer": "n", "similarity": 0.45740997791290283}
+
+{"test case number": 146, "answer": "pharmacy technicians", "modAnswer": "a pharmacy technician is a healthcare professional and may work independently in a hospital pharmacy without", "similarity": 0.7258272171020508}
+
+{"test case number": 146, "answer": "<", "modAnswer": "a pharmacy technician is a healthcare professional and may work independently in a hospital pharmacy without", "similarity": 0.39933234453201294}
+
+{"test case number": 146, "answer": "pharmacy technicians", "modAnswer": "<", "similarity": 0.4558841586112976}
+
+{"test case number": 147, "answer": "hospital pharmacy", "modAnswer": "direct supervision from a pharmacist", "similarity": 0.6113567352294922}
+
+{"test case number": 147, "answer": "<", "modAnswer": "direct supervision from a pharmacist", "similarity": 0.3986018896102905}
+
+{"test case number": 147, "answer": "hospital pharmacy", "modAnswer": "<", "similarity": 0.5060422420501709}
+
+{"test case number": 147, "answer": "hospital pharmacy", "modAnswer": "n", "similarity": 0.4811384677886963}
+
+{"test case number": 151, "answer": "e.g.", "modAnswer": "edwards", "similarity": 0.6506995558738708}
+
+{"test case number": 151, "answer": "m", "modAnswer": "edwards", "similarity": 0.5312680006027222}
+
+{"test case number": 151, "answer": "e.g.", "modAnswer": "m", "similarity": 0.7208840847015381}
+
+{"test case number": 151, "answer": "e.g.", "modAnswer": "a", "similarity": 0.7546041011810303}
+
+{"test case number": 151, "answer": "e.g.", "modAnswer": "u", "similarity": 0.7223491668701172}
+
+{"test case number": 151, "answer": "e.g.", "modAnswer": "r", "similarity": 0.7225257754325867}
+
+{"test case number": 151, "answer": "e.g.", "modAnswer": "u", "similarity": 0.7223491668701172}
+
+{"test case number": 151, "answer": "e.g.", "modAnswer": "s", "similarity": 0.7148129940032959}
+
+{"test case number": 152, "answer": "no answer>", "modAnswer": "1st century bc", "similarity": 0.3210771083831787}
+
+{"test case number": 152, "answer": "<", "modAnswer": "1st century bc", "similarity": 0.4358162581920624}
+
+{"test case number": 152, "answer": "no answer>", "modAnswer": "<", "similarity": 0.7895853519439697}
+
+{"test case number": 159, "answer": "ige", "modAnswer": "cytotoxic", "similarity": 0.5676329135894775}
+
+{"test case number": 161, "answer": "no answer>", "modAnswer": "a healing response that heals the body's own tissues.", "similarity": 0.4602608382701874}
+
+{"test case number": 161, "answer": "<", "modAnswer": "a healing response that heals the body's own tissues.", "similarity": 0.46410080790519714}
+
+{"test case number": 161, "answer": "no answer>", "modAnswer": "<", "similarity": 0.7895853519439697}
+
+{"test case number": 162, "answer": "no answer>", "modAnswer": "type i \u2013 iv", "similarity": 0.5033113956451416}
+
+{"test case number": 162, "answer": "<", "modAnswer": "type i \u2013 iv", "similarity": 0.6235798597335815}
+
+{"test case number": 162, "answer": "n", "modAnswer": "type i \u2013 iv", "similarity": 0.5512917041778564}
+
+{"test case number": 162, "answer": "o", "modAnswer": "type i \u2013 iv", "similarity": 0.5491670966148376}
+
+{"test case number": 162, "answer": "no answer>", "modAnswer": "<", "similarity": 0.7895853519439697}
+
+{"test case number": 163, "answer": ".........", "modAnswer": "a disease that causes harm to the body's own tissues.", "similarity": 0.5132593512535095}
+
+{"test case number": 163, "answer": "<", "modAnswer": "a disease that causes harm to the body's own tissues.", "similarity": 0.49232494831085205}
+
+{"test case number": 163, "answer": ".........", "modAnswer": "<", "similarity": 0.7876834273338318}
+
+{"test case number": 164, "answer": ".........", "modAnswer": "type iv hypersensitivity", "similarity": 0.48728200793266296}
+
+{"test case number": 164, "answer": "<", "modAnswer": "type iv hypersensitivity", "similarity": 0.49754512310028076}
+
+{"test case number": 164, "answer": ".........", "modAnswer": "<", "similarity": 0.7876834273338318}
+
+{"test case number": 165, "answer": ".........", "modAnswer": "cytotoxic hypersensitivity", "similarity": 0.5133191347122192}
+
+{"test case number": 165, "answer": "<", "modAnswer": "cytotoxic hypersensitivity", "similarity": 0.4955330193042755}
+
+{"test case number": 165, "answer": ".........", "modAnswer": "<", "similarity": 0.7876834273338318}
+
+{"test case number": 169, "answer": "port of long beach", "modAnswer": "port of los angeles", "similarity": 0.7848041653633118}
+
+{"test case number": 173, "answer": ". frontiers from between nova scotia and acadia in the north, to the ohio country", "modAnswer": "the treaty of aix-la-chapelle ended the war of the austrian", "similarity": 0.3648567199707031}
+
+{"test case number": 173, "answer": "k", "modAnswer": "the treaty of aix-la-chapelle ended the war of the austrian", "similarity": 0.2890448272228241}
+
+{"test case number": 173, "answer": ". frontiers from between nova scotia and acadia in the north, to the ohio country", "modAnswer": "k", "similarity": 0.26992595195770264}
+
+{"test case number": 175, "answer": ". frontiers from between nova scotia and acadia in the north, to the ohio country", "modAnswer": "a commission for resolution of disputes over territorial claims", "similarity": 0.4522338807582855}
+
+{"test case number": 176, "answer": "both powers wanted access to the rich fisheries of the grand banks off newfoundl", "modAnswer": "the unresolved disputes over territorial claims between british and french colonies in north america were", "similarity": 0.5224167108535767}
+
+{"test case number": 178, "answer": ". frontiers from between nova scotia and acadia in the north, to the ohio country", "modAnswer": "the treaty of aix-la-chapelle ended the war of australian success", "similarity": 0.33366331458091736}
+
+{"test case number": 178, "answer": "<", "modAnswer": "the treaty of aix-la-chapelle ended the war of australian success", "similarity": 0.1657162308692932}
+
+{"test case number": 178, "answer": ". frontiers from between nova scotia and acadia in the north, to the ohio country", "modAnswer": "<", "similarity": 0.25473731756210327}
+
+{"test case number": 179, "answer": "no answer>", "modAnswer": "the treaty of aix-la-chapelle", "similarity": 0.4325993061065674}
+
+{"test case number": 179, "answer": "<", "modAnswer": "the treaty of aix-la-chapelle", "similarity": 0.43841278553009033}
+
+{"test case number": 179, "answer": "n", "modAnswer": "the treaty of aix-la-chapelle", "similarity": 0.39917969703674316}
+
+{"test case number": 179, "answer": "no answer>", "modAnswer": "<", "similarity": 0.7895853519439697}
+
+{"test case number": 180, "answer": "the issues of conflicting territorial claims between british and french colonies in north america", "modAnswer": "the unresolved disputes over territorial claims between british and french colonies in north america were", "similarity": 0.9555224776268005}
+
+{"test case number": 181, "answer": "it reached no decision", "modAnswer": "no decision was reached", "similarity": 0.8920863270759583}
+
+{"test case number": 186, "answer": "no answer>", "modAnswer": "confrontational approaches", "similarity": 0.4563821256160736}
+
+{"test case number": 186, "answer": "<", "modAnswer": "confrontational approaches", "similarity": 0.39053279161453247}
+
+{"test case number": 186, "answer": "no answer>", "modAnswer": "<", "similarity": 0.7895853519439697}
+
+{"test case number": 188, "answer": "co-operative relationship between the principal and contractor and other stakeholders", "modAnswer": "the principal, contractor, and other stakeholders in a construction project", "similarity": 0.8673185110092163}
+
+{"test case number": 189, "answer": "public-private partnership", "modAnswer": "confrontational practices", "similarity": 0.5039240121841431}
+
+{"test case number": 189, "answer": "<", "modAnswer": "confrontational practices", "similarity": 0.3487704396247864}
+
+{"test case number": 189, "answer": "public-private partnership", "modAnswer": "<", "similarity": 0.4336032569408417}
+
+{"test case number": 191, "answer": "wianki", "modAnswer": "floating", "similarity": 0.4679240882396698}
+
+{"test case number": 191, "answer": "w", "modAnswer": "floating", "similarity": 0.41221141815185547}
+
+{"test case number": 194, "answer": "when they will be married", "modAnswer": "the timing of their marriages", "similarity": 0.7525997757911682}
+
+{"test case number": 194, "answer": "w", "modAnswer": "the timing of their marriages", "similarity": 0.28538382053375244}
+
+{"test case number": 196, "answer": "no answer>", "modAnswer": "music", "similarity": 0.4726495146751404}
+
+{"test case number": 196, "answer": "<", "modAnswer": "music", "similarity": 0.43628525733947754}
+
+{"test case number": 196, "answer": "n", "modAnswer": "music", "similarity": 0.4127345085144043}
+
+{"test case number": 196, "answer": "o", "modAnswer": "music", "similarity": 0.40706324577331543}
+
+{"test case number": 196, "answer": "no answer>", "modAnswer": "<", "similarity": 0.7895853519439697}
+
+{"test case number": 199, "answer": "when they will be married", "modAnswer": "the future of their spouses", "similarity": 0.7727175951004028}
+
+{"test case number": 204, "answer": "tolerance", "modAnswer": "acceptance of civil disobedience", "similarity": 0.6740388870239258}
+
+{"test case number": 207, "answer": "no answer>", "modAnswer": "non-violence", "similarity": 0.541337788105011}
+
+{"test case number": 207, "answer": "no answer>", "modAnswer": "c", "similarity": 0.5954132080078125}
+
+{"test case number": 207, "answer": "no answer>", "modAnswer": "i", "similarity": 0.5060669779777527}
+
+{"test case number": 207, "answer": "no answer>", "modAnswer": "v", "similarity": 0.6174816489219666}
+
+{"test case number": 207, "answer": "no answer>", "modAnswer": "i", "similarity": 0.5060669779777527}
+
+{"test case number": 207, "answer": "no answer>", "modAnswer": "l", "similarity": 0.5804510712623596}
+
+{"test case number": 209, "answer": "to help preserve society's tolerance", "modAnswer": "it is believed that the act of refraining from violence contributes to the maintenance of society'", "similarity": 0.7870572805404663}
+
+{"test case number": 212, "answer": ".", "modAnswer": "a more severe defect", "similarity": 0.48333683609962463}
+
+{"test case number": 212, "answer": "<", "modAnswer": "a more severe defect", "similarity": 0.4488565921783447}
+
+{"test case number": 212, "answer": "n", "modAnswer": "a more severe defect", "similarity": 0.4256303310394287}
+
+{"test case number": 212, "answer": ".", "modAnswer": "<", "similarity": 0.7896820902824402}
+
+{"test case number": 213, "answer": "non-violent", "modAnswer": "violence", "similarity": 0.7359187602996826}
+
+{"test case number": 213, "answer": "<", "modAnswer": "violence", "similarity": 0.47050824761390686}
+
+{"test case number": 213, "answer": "non-violent", "modAnswer": "<", "similarity": 0.485181987285614}
+
+{"test case number": 214, "answer": "rebellion is much more destructive", "modAnswer": "it is more destructive than disobedience.", "similarity": 0.8548859357833862}
+
+{"test case number": 218, "answer": "the british landgrave edmund bellinger", "modAnswer": "the british crown", "similarity": 0.7206451296806335}
+
+{"test case number": 220, "answer": "pons", "modAnswer": "orsement", "similarity": 0.5389134287834167}
+
+{"test case number": 220, "answer": "<", "modAnswer": "orsement", "similarity": 0.6587415337562561}
+
+{"test case number": 220, "answer": "pons", "modAnswer": "<", "similarity": 0.5435097217559814}
+
+{"test case number": 230, "answer": "amtrak", "modAnswer": "san joaquin valley railroad", "similarity": 0.6561857461929321}
+
+{"test case number": 230, "answer": "<", "modAnswer": "san joaquin valley railroad", "similarity": 0.390938401222229}
+
+{"test case number": 230, "answer": "amtrak", "modAnswer": "<", "similarity": 0.5065268874168396}
+
+{"test case number": 230, "answer": "amtrak", "modAnswer": "n", "similarity": 0.4813518226146698}
+
+{"test case number": 230, "answer": "amtrak", "modAnswer": "o", "similarity": 0.49625876545906067}
+
+{"test case number": 231, "answer": "burlington northern santa fe railway and union pacific railroad", "modAnswer": "the burlington northern santa fe railway and the union pacific railroad", "similarity": 0.989680290222168}
+
+{"test case number": 233, "answer": "southern pacific", "modAnswer": "the san joaquin valley railroad", "similarity": 0.5810251832008362}
+
+{"test case number": 233, "answer": "<", "modAnswer": "the san joaquin valley railroad", "similarity": 0.37508976459503174}
+
+{"test case number": 233, "answer": "southern pacific", "modAnswer": "<", "similarity": 0.3527795076370239}
+
+{"test case number": 234, "answer": "southern pacific", "modAnswer": "amtrak", "similarity": 0.4201468229293823}
+
+{"test case number": 234, "answer": "<", "modAnswer": "amtrak", "similarity": 0.5065268874168396}
+
+{"test case number": 234, "answer": "n", "modAnswer": "amtrak", "similarity": 0.4813518226146698}
+
+{"test case number": 234, "answer": "o", "modAnswer": "amtrak", "similarity": 0.49625876545906067}
+
+{"test case number": 234, "answer": "southern pacific", "modAnswer": "<", "similarity": 0.3527795076370239}
+
+{"test case number": 235, "answer": "the presiding officer (or deputy presiding officer)", "modAnswer": "the presiding officer or deputy presiding officer", "similarity": 0.9886519908905029}
+
+{"test case number": 236, "answer": "the amount of time for which they are allowed to speak", "modAnswer": "the order of speakers and allocating speaking time in chamber debates", "similarity": 0.6387960910797119}
+
+{"test case number": 237, "answer": "different viewpoints and political parties", "modAnswer": "the order of speakers and the length of time allotted to each speaker.", "similarity": 0.4556368291378021}
+
+{"test case number": 240, "answer": "political parties", "modAnswer": "the speaker's position and the time allotted.", "similarity": 0.4033741354942322}
+
+{"test case number": 240, "answer": "<", "modAnswer": "the speaker's position and the time allotted.", "similarity": 0.47643813490867615}
+
+{"test case number": 240, "answer": "political parties", "modAnswer": "<", "similarity": 0.37956497073173523}
+
+{"test case number": 240, "answer": "political parties", "modAnswer": "n", "similarity": 0.3717130422592163}
+
+{"test case number": 243, "answer": "less time", "modAnswer": "5 to 20 minutes", "similarity": 0.6503568887710571}
+
+{"test case number": 243, "answer": "<", "modAnswer": "5 to 20 minutes", "similarity": 0.3462390601634979}
+
+{"test case number": 243, "answer": "less time", "modAnswer": "<", "similarity": 0.42968782782554626}
+
+{"test case number": 243, "answer": "less time", "modAnswer": "n", "similarity": 0.4761658310890198}
+
+{"test case number": 243, "answer": "less time", "modAnswer": "o", "similarity": 0.3833250403404236}
+
+{"test case number": 244, "answer": "no answer>", "modAnswer": "if necessary", "similarity": 0.4959964156150818}
+
+{"test case number": 244, "answer": "<", "modAnswer": "if necessary", "similarity": 0.5238804221153259}
+
+{"test case number": 244, "answer": "no answer>", "modAnswer": "<", "similarity": 0.7895853519439697}
+
+{"test case number": 246, "answer": "1974", "modAnswer": "1973", "similarity": 0.9604876637458801}
+
+{"test case number": 247, "answer": "to coordinate the response to the embargo", "modAnswer": "to facilitate the cooperation and management of the response to the oil embargo.", "similarity": 0.836155354976654}
+
+{"test case number": 248, "answer": "20%", "modAnswer": "one fifth", "similarity": 0.5886032581329346}
+
+{"test case number": 248, "answer": "l", "modAnswer": "one fifth", "similarity": 0.4677565097808838}
+
+{"test case number": 248, "answer": "a", "modAnswer": "one fifth", "similarity": 0.539031445980072}
+
+{"test case number": 248, "answer": "s", "modAnswer": "one fifth", "similarity": 0.47331562638282776}
+
+{"test case number": 248, "answer": "20%", "modAnswer": "l", "similarity": 0.4396097660064697}
+
+{"test case number": 248, "answer": "20%", "modAnswer": "a", "similarity": 0.42120957374572754}
+
+{"test case number": 248, "answer": "20%", "modAnswer": "s", "similarity": 0.4687338173389435}
+
+{"test case number": 248, "answer": "20%", "modAnswer": "t", "similarity": 0.4410116374492645}
+
+{"test case number": 249, "answer": "20%", "modAnswer": "one fifth", "similarity": 0.5886032581329346}
+
+{"test case number": 249, "answer": "<", "modAnswer": "one fifth", "similarity": 0.42222166061401367}
+
+{"test case number": 249, "answer": "20%", "modAnswer": "<", "similarity": 0.4713694453239441}
+
+{"test case number": 249, "answer": "20%", "modAnswer": "n", "similarity": 0.4339679777622223}
+
+{"test case number": 249, "answer": "20%", "modAnswer": "o", "similarity": 0.3843844532966614}
+
+{"test case number": 250, "answer": "first administrator of the federal energy office", "modAnswer": "the inaugural administrator of the federal energy office", "similarity": 0.8880700469017029}
+
+{"test case number": 251, "answer": "coordinate the response to the embargo", "modAnswer": "to provide transportation for all", "similarity": 0.48296838998794556}
+
+{"test case number": 251, "answer": "<", "modAnswer": "to provide transportation for all", "similarity": 0.3712906539440155}
+
+{"test case number": 251, "answer": "coordinate the response to the embargo", "modAnswer": "<", "similarity": 0.28749585151672363}
+
+{"test case number": 252, "answer": "the same amount", "modAnswer": "1 million barrel", "similarity": 0.6416136026382446}
+
+{"test case number": 252, "answer": "<", "modAnswer": "1 million barrel", "similarity": 0.5218166708946228}
+
+{"test case number": 252, "answer": "the same amount", "modAnswer": "<", "similarity": 0.4411661922931671}
+
+{"test case number": 254, "answer": "1999", "modAnswer": "1998", "similarity": 0.9602130055427551}
+
+{"test case number": 255, "answer": "michael e. mann, raymond s. bradley and malcolm k. hughes", "modAnswer": "raymond s. mann", "similarity": 0.9167214632034302}
+
+{"test case number": 256, "answer": "hockey stick graph", "modAnswer": "millennial", "similarity": 0.3532083332538605}
+
+{"test case number": 256, "answer": "t", "modAnswer": "millennial", "similarity": 0.4905064105987549}
+
+{"test case number": 256, "answer": "h", "modAnswer": "millennial", "similarity": 0.4802303612232208}
+
+{"test case number": 257, "answer": "jones et al. 1998, pollack, huang & shen 1998, crow", "modAnswer": "the reconstructions of mann et al. (1998) and briffa et", "similarity": 0.6789594888687134}
+
+{"test case number": 257, "answer": "j", "modAnswer": "the reconstructions of mann et al. (1998) and briffa et", "similarity": 0.4647396206855774}
+
+{"test case number": 259, "answer": "1999", "modAnswer": "1998", "similarity": 0.9602130055427551}
+
+{"test case number": 261, "answer": "no answer>", "modAnswer": "the second assessment report of 1995", "similarity": 0.2837078869342804}
+
+{"test case number": 261, "answer": "<", "modAnswer": "the second assessment report of 1995", "similarity": 0.24898716807365417}
+
+{"test case number": 261, "answer": "no answer>", "modAnswer": "<", "similarity": 0.7895853519439697}
+
+{"test case number": 266, "answer": "artisans and farmers", "modAnswer": "skilled craftsmen and agricultural workers", "similarity": 0.9286807775497437}
+
+{"test case number": 267, "answer": "the mongol", "modAnswer": "the governor of samarqand was king ayman", "similarity": 0.5340446829795837}
+
+{"test case number": 267, "answer": "the mongol", "modAnswer": "a", "similarity": 0.5201234817504883}
+
+{"test case number": 269, "answer": "no answer>", "modAnswer": "non-muslims", "similarity": 0.5274131894111633}
+
+{"test case number": 269, "answer": "<", "modAnswer": "non-muslims", "similarity": 0.47515803575515747}
+
+{"test case number": 269, "answer": "no answer>", "modAnswer": "<", "similarity": 0.7895853519439697}
+
+{"test case number": 270, "answer": "no answer>", "modAnswer": "zhejiang", "similarity": 0.4773220717906952}
+
+{"test case number": 270, "answer": "<", "modAnswer": "zhejiang", "similarity": 0.5511693358421326}
+
+{"test case number": 270, "answer": "no answer>", "modAnswer": "<", "similarity": 0.7895853519439697}
+
+{"test case number": 271, "answer": "artisans and farmers", "modAnswer": "agricultural workers and skilled craftsmen", "similarity": 0.9394621253013611}
+
+{"test case number": 274, "answer": "all numbers up to n = 2  1017", "modAnswer": "four", "similarity": 0.5596228241920471}
+
+{"test case number": 274, "answer": "a", "modAnswer": "four", "similarity": 0.5211275219917297}
+
+{"test case number": 274, "answer": "l", "modAnswer": "four", "similarity": 0.46119728684425354}
+
+{"test case number": 274, "answer": "l", "modAnswer": "four", "similarity": 0.46119728684425354}
+
+{"test case number": 279, "answer": "n = 2  1017", "modAnswer": "four", "similarity": 0.5865350365638733}
+
+{"test case number": 279, "answer": "<", "modAnswer": "four", "similarity": 0.3930912911891937}
+
+{"test case number": 279, "answer": "n", "modAnswer": "four", "similarity": 0.4794582724571228}
+
+{"test case number": 279, "answer": "n = 2  1017", "modAnswer": "<", "similarity": 0.6687718033790588}
+
+{"test case number": 282, "answer": "a not-for-profit united states computer networking consortium", "modAnswer": "a non-profit consortium in the united states that operates computer networking", "similarity": 0.9434078931808472}
+
+{"test case number": 283, "answer": "level 3 communications", "modAnswer": "the internet2 community and qwest", "similarity": 0.521645724773407}
+
+{"test case number": 285, "answer": "level 3 communications", "modAnswer": "the internet2 community and qwest", "similarity": 0.521645724773407}
+
+{"test case number": 287, "answer": "no answer>", "modAnswer": "the internet2 community", "similarity": 0.4594097435474396}
+
+{"test case number": 287, "answer": "<", "modAnswer": "the internet2 community", "similarity": 0.47763732075691223}
+
+{"test case number": 287, "answer": "no answer>", "modAnswer": "<", "similarity": 0.7895853519439697}
+
+{"test case number": 288, "answer": "the internet2 network", "modAnswer": "the first state-of-the-art network", "similarity": 0.6876524686813354}
+
+{"test case number": 288, "answer": "<", "modAnswer": "the first state-of-the-art network", "similarity": 0.373141884803772}
+
+{"test case number": 288, "answer": "the internet2 network", "modAnswer": "<", "similarity": 0.44116732478141785}
+
+{"test case number": 290, "answer": "the internet2 network", "modAnswer": "abilene", "similarity": 0.3930600881576538}
+
+{"test case number": 290, "answer": "<", "modAnswer": "abilene", "similarity": 0.44645991921424866}
+
+{"test case number": 290, "answer": "the internet2 network", "modAnswer": "<", "similarity": 0.44116732478141785}
+
+{"test case number": 293, "answer": "no answer>", "modAnswer": "level 3 communications", "similarity": 0.46702051162719727}
+
+{"test case number": 293, "answer": "<", "modAnswer": "level 3 communications", "similarity": 0.4633312225341797}
+
+{"test case number": 293, "answer": "no answer>", "modAnswer": "<", "similarity": 0.7895853519439697}
+
+{"test case number": 294, "answer": "no answer>", "modAnswer": "john edwards", "similarity": 0.4397103488445282}
+
+{"test case number": 294, "answer": "<", "modAnswer": "john edwards", "similarity": 0.43634822964668274}
+
+{"test case number": 294, "answer": "no answer>", "modAnswer": "<", "similarity": 0.7895853519439697}
+
+{"test case number": 297, "answer": "the end itself", "modAnswer": "being the ultimate objective", "similarity": 0.6132317185401917}
+
+{"test case number": 298, "answer": "wide[en] people\u2019s choices and the level of their achieved well-being", "modAnswer": "to enhance individuals' options and the degree of their overall well-being", "similarity": 0.7769956588745117}
+
+{"test case number": 299, "answer": "through increasing functionings", "modAnswer": "by expanding individuals' options and freedoms to engage in those activities.", "similarity": 0.7186548113822937}
+
+{"test case number": 300, "answer": "the ability to pursue valued goals", "modAnswer": "the capabilities approach", "similarity": 0.6824408769607544}
+
+{"test case number": 301, "answer": "neoliberalism", "modAnswer": "a form of \"capability deprivation\"", "similarity": 0.5256128311157227}
+
+{"test case number": 301, "answer": "<", "modAnswer": "a form of \"capability deprivation\"", "similarity": 0.4387408196926117}
+
+{"test case number": 301, "answer": "neoliberalism", "modAnswer": "<", "similarity": 0.4197850823402405}
+
+{"test case number": 302, "answer": "neoliberalism", "modAnswer": "to achieve a specific goal", "similarity": 0.4511106312274933}
+
+{"test case number": 302, "answer": "<", "modAnswer": "to achieve a specific goal", "similarity": 0.43674322962760925}
+
+{"test case number": 302, "answer": "n", "modAnswer": "to achieve a specific goal", "similarity": 0.37003734707832336}
+
+{"test case number": 302, "answer": "neoliberalism", "modAnswer": "<", "similarity": 0.4197850823402405}
+
+{"test case number": 303, "answer": "no answer>", "modAnswer": "to increase individuals' options and the degree of their overall well-being", "similarity": 0.3410490155220032}
+
+{"test case number": 303, "answer": "<", "modAnswer": "to increase individuals' options and the degree of their overall well-being", "similarity": 0.34849369525909424}
+
+{"test case number": 303, "answer": "no answer>", "modAnswer": "<", "similarity": 0.7895853519439697}
+
+{"test case number": 304, "answer": "no answer>", "modAnswer": "if it were not for the opportunities approach, it would be a form of \"cap", "similarity": 0.3747560679912567}
+
+{"test case number": 304, "answer": "<", "modAnswer": "if it were not for the opportunities approach, it would be a form of \"cap", "similarity": 0.38000115752220154}
+
+{"test case number": 304, "answer": "no answer>", "modAnswer": "<", "similarity": 0.7895853519439697}
+
+{"test case number": 305, "answer": "no answer>", "modAnswer": "capacity deprivation", "similarity": 0.5153697729110718}
+
+{"test case number": 305, "answer": "<", "modAnswer": "capacity deprivation", "similarity": 0.4722042679786682}
+
+{"test case number": 305, "answer": "no answer>", "modAnswer": "<", "similarity": 0.7895853519439697}
+
+{"test case number": 312, "answer": "systemic acquired resistance", "modAnswer": "plants have their own mechanism to defend against diseases", "similarity": 0.655794620513916}
+
+{"test case number": 312, "answer": "<", "modAnswer": "plants have their own mechanism to defend against diseases", "similarity": 0.35247114300727844}
+
+{"test case number": 312, "answer": "systemic acquired resistance", "modAnswer": "<", "similarity": 0.3539360761642456}
+
+{"test case number": 314, "answer": "no answer>", "modAnswer": "phagocytic cells", "similarity": 0.46365290880203247}
+
+{"test case number": 314, "answer": "<", "modAnswer": "phagocytic cells", "similarity": 0.4690393805503845}
+
+{"test case number": 314, "answer": "n", "modAnswer": "phagocytic cells", "similarity": 0.5015990734100342}
+
+{"test case number": 314, "answer": "no answer>", "modAnswer": "<", "similarity": 0.7895853519439697}
+
+{"test case number": 315, "answer": "phagocytic cells", "modAnswer": "animals", "similarity": 0.6429303884506226}
+
+{"test case number": 315, "answer": "<", "modAnswer": "animals", "similarity": 0.466841459274292}
+
+{"test case number": 315, "answer": "phagocytic cells", "modAnswer": "<", "similarity": 0.4690393805503845}
+
+{"test case number": 315, "answer": "phagocytic cells", "modAnswer": "n", "similarity": 0.5015990734100342}
+
+{"test case number": 316, "answer": "simple expansion steam engine", "modAnswer": "oscillating cylinder steam engine", "similarity": 0.900300145149231}
+
+{"test case number": 318, "answer": "models", "modAnswer": "ships", "similarity": 0.4330058693885803}
+
+{"test case number": 318, "answer": "m", "modAnswer": "ships", "similarity": 0.3711727261543274}
+
+{"test case number": 318, "answer": "o", "modAnswer": "ships", "similarity": 0.3691472113132477}
+
+{"test case number": 318, "answer": "d", "modAnswer": "ships", "similarity": 0.32206785678863525}
+
+{"test case number": 318, "answer": "e", "modAnswer": "ships", "similarity": 0.32001635432243347}
+
+{"test case number": 318, "answer": "l", "modAnswer": "ships", "similarity": 0.3705635070800781}
+
+{"test case number": 320, "answer": "simple expansion steam engine", "modAnswer": "oscillating cylinder steam engine", "similarity": 0.900300145149231}
+
+{"test case number": 321, "answer": "trunnion", "modAnswer": "stationary port face", "similarity": 0.5004469752311707}
+
+{"test case number": 321, "answer": "<", "modAnswer": "stationary port face", "similarity": 0.5157961249351501}
+
+{"test case number": 321, "answer": "trunnion", "modAnswer": "<", "similarity": 0.586578369140625}
+
+{"test case number": 322, "answer": "models", "modAnswer": "ships", "similarity": 0.4330058693885803}
+
+{"test case number": 322, "answer": "<", "modAnswer": "ships", "similarity": 0.411101758480072}
+
+{"test case number": 322, "answer": "n", "modAnswer": "ships", "similarity": 0.3570747673511505}
+
+{"test case number": 322, "answer": "o", "modAnswer": "ships", "similarity": 0.3691472113132477}
+
+{"test case number": 322, "answer": "models", "modAnswer": "<", "similarity": 0.4643811583518982}
+
+{"test case number": 322, "answer": "models", "modAnswer": "n", "similarity": 0.4638293385505676}
+
+{"test case number": 324, "answer": "trunnion", "modAnswer": "oscillating cylinder steam engine", "similarity": 0.5518600940704346}
+
+{"test case number": 324, "answer": "<", "modAnswer": "oscillating cylinder steam engine", "similarity": 0.4346453547477722}
+
+{"test case number": 324, "answer": "trunnion", "modAnswer": "<", "similarity": 0.586578369140625}
+
+{"test case number": 325, "answer": "forces that act normal to the cross-sectional area", "modAnswer": "the cross-sectional area is perpendicular to the cross-sectional area", "similarity": 0.7928252220153809}
+
+{"test case number": 326, "answer": "the stress-tensor", "modAnswer": "the volume", "similarity": 0.44780591130256653}
+
+{"test case number": 326, "answer": "p", "modAnswer": "the volume", "similarity": 0.5345156788825989}
+
+{"test case number": 326, "answer": "r", "modAnswer": "the volume", "similarity": 0.42005330324172974}
+
+{"test case number": 326, "answer": "the stress-tensor", "modAnswer": "p", "similarity": 0.5155011415481567}
+
+{"test case number": 327, "answer": "pressure terms", "modAnswer": "the cross-sectional area is perpendicular to the cross-sectional area", "similarity": 0.5200567841529846}
+
+{"test case number": 328, "answer": "formalism", "modAnswer": "the stress-tensor", "similarity": 0.5545263886451721}
+
+{"test case number": 328, "answer": "f", "modAnswer": "the stress-tensor", "similarity": 0.5553846955299377}
+
+{"test case number": 329, "answer": "no answer>", "modAnswer": "the cross-sectional area is perpendicular to the cross-sectional area", "similarity": 0.38672909140586853}
+
+{"test case number": 329, "answer": "<", "modAnswer": "the cross-sectional area is perpendicular to the cross-sectional area", "similarity": 0.4541688561439514}
+
+{"test case number": 329, "answer": "no answer>", "modAnswer": "<", "similarity": 0.7895853519439697}
+
+{"test case number": 330, "answer": "tensile stresses and compressions", "modAnswer": "the stress-tensor takes into account all forces that lead to various strains,", "similarity": 0.7433106899261475}
+
+{"test case number": 330, "answer": "<", "modAnswer": "the stress-tensor takes into account all forces that lead to various strains,", "similarity": 0.3830319046974182}
+
+{"test case number": 330, "answer": "tensile stresses and compressions", "modAnswer": "<", "similarity": 0.4174709916114807}
+
+{"test case number": 331, "answer": "no answer>", "modAnswer": "the cross-sectional area is perpendicular to the cross-sectional area", "similarity": 0.38672909140586853}
+
+{"test case number": 331, "answer": "<", "modAnswer": "the cross-sectional area is perpendicular to the cross-sectional area", "similarity": 0.4541688561439514}
+
+{"test case number": 331, "answer": "no answer>", "modAnswer": "<", "similarity": 0.7895853519439697}
+
+{"test case number": 332, "answer": "off-diagonal elements", "modAnswer": "the cross-sectional area is perpendicular to the area", "similarity": 0.7329006195068359}
+
+{"test case number": 332, "answer": "<", "modAnswer": "the cross-sectional area is perpendicular to the area", "similarity": 0.43065404891967773}
+
+{"test case number": 332, "answer": "off-diagonal elements", "modAnswer": "<", "similarity": 0.42086637020111084}
+
+{"test case number": 333, "answer": "86.66%", "modAnswer": "7 square miles or 1,962 square kilometers", "similarity": 0.5449327826499939}
+
+{"test case number": 333, "answer": "8", "modAnswer": "7 square miles or 1,962 square kilometers", "similarity": 0.5214015245437622}
+
+{"test case number": 334, "answer": "the st. johns river", "modAnswer": "the johns river", "similarity": 0.8777493238449097}
+
+{"test case number": 335, "answer": "the trout river", "modAnswer": "the johns river", "similarity": 0.8086216449737549}
+
+{"test case number": 336, "answer": "13.34%", "modAnswer": "7 square miles or 302 square kilometers", "similarity": 0.5122371315956116}
+
+{"test case number": 336, "answer": "1", "modAnswer": "7 square miles or 302 square kilometers", "similarity": 0.41107112169265747}
+
+{"test case number": 338, "answer": "yes", "modAnswer": "no", "similarity": 0.7259047031402588}
+
+{"test case number": 338, "answer": "<", "modAnswer": "no", "similarity": 0.6826366782188416}
+
+{"test case number": 338, "answer": "yes", "modAnswer": "<", "similarity": 0.6863870024681091}
+
+{"test case number": 338, "answer": "yes", "modAnswer": "n", "similarity": 0.6238840222358704}
+
+{"test case number": 338, "answer": "yes", "modAnswer": "o", "similarity": 0.6922246813774109}
+
+{"test case number": 339, "answer": "st. johns river", "modAnswer": "the johns river", "similarity": 0.8688827753067017}
+
+{"test case number": 340, "answer": "874.3 square miles", "modAnswer": "acreage", "similarity": 0.3755936026573181}
+
+{"test case number": 340, "answer": "<", "modAnswer": "acreage", "similarity": 0.4122515916824341}
+
+{"test case number": 340, "answer": "n", "modAnswer": "acreage", "similarity": 0.4168736934661865}
+
+{"test case number": 340, "answer": "o", "modAnswer": "acreage", "similarity": 0.3356635570526123}
+
+{"test case number": 340, "answer": "874.3 square miles", "modAnswer": "<", "similarity": 0.24856987595558167}
+
+{"test case number": 340, "answer": "874.3 square miles", "modAnswer": "n", "similarity": 0.2982974946498871}
+
+{"test case number": 340, "answer": "874.3 square miles", "modAnswer": "o", "similarity": 0.25337842106819153}
+
+{"test case number": 341, "answer": "st. john's river", "modAnswer": "the johns river", "similarity": 0.7864941358566284}
+
+{"test case number": 343, "answer": "the bible in vernacular languages", "modAnswer": "having the bible accessible in vernacular languages.", "similarity": 0.8854460120201111}
+
+{"test case number": 344, "answer": "1294", "modAnswer": "1487", "similarity": 0.8489067554473877}
+
+{"test case number": 345, "answer": "guyard de moulin", "modAnswer": "a french translator", "similarity": 0.6497721076011658}
+
+{"test case number": 345, "answer": "g", "modAnswer": "a french translator", "similarity": 0.4354466199874878}
+
+{"test case number": 345, "answer": "u", "modAnswer": "a french translator", "similarity": 0.48834294080734253}
+
+{"test case number": 345, "answer": "y", "modAnswer": "a french translator", "similarity": 0.49126508831977844}
+
+{"test case number": 348, "answer": "1487", "modAnswer": "1294", "similarity": 0.8489067554473877}
+
+{"test case number": 358, "answer": "protestant rule was dead", "modAnswer": "the city of montpellier was given control over the political institutions and the university.", "similarity": 0.5395099520683289}
+
+{"test case number": 358, "answer": "<", "modAnswer": "the city of montpellier was given control over the political institutions and the university.", "similarity": 0.27543389797210693}
+
+{"test case number": 358, "answer": "protestant rule was dead", "modAnswer": "<", "similarity": 0.28134697675704956}
+
+{"test case number": 359, "answer": "ville de s\u00fbret\u00e9", "modAnswer": "the city of montpellier", "similarity": 0.7137035131454468}
+
+{"test case number": 359, "answer": "<", "modAnswer": "the city of montpellier", "similarity": 0.41509395837783813}
+
+{"test case number": 359, "answer": "ville de s\u00fbret\u00e9", "modAnswer": "<", "similarity": 0.5661022663116455}
+
+{"test case number": 359, "answer": "ville de s\u00fbret\u00e9", "modAnswer": "n", "similarity": 0.5483440160751343}
+
+{"test case number": 359, "answer": "ville de s\u00fbret\u00e9", "modAnswer": "o", "similarity": 0.5682849884033203}
+
+{"test case number": 363, "answer": ".", "modAnswer": "matter", "similarity": 0.6042162775993347}
+
+{"test case number": 363, "answer": "i", "modAnswer": "matter", "similarity": 0.4496443569660187}
+
+{"test case number": 363, "answer": "d", "modAnswer": "matter", "similarity": 0.43611815571784973}
+
+{"test case number": 363, "answer": ".", "modAnswer": "i", "similarity": 0.7269445657730103}
+
+{"test case number": 363, "answer": ".", "modAnswer": "d", "similarity": 0.7229452729225159}
+
+{"test case number": 363, "answer": ".", "modAnswer": "e", "similarity": 0.7125334739685059}
+
+{"test case number": 363, "answer": ".", "modAnswer": "a", "similarity": 0.8141911029815674}
+
+{"test case number": 364, "answer": "no answer>", "modAnswer": ".", "similarity": 0.7051514387130737}
+
+{"test case number": 364, "answer": "t", "modAnswer": ".", "similarity": 0.7777215242385864}
+
+{"test case number": 364, "answer": "no answer>", "modAnswer": "t", "similarity": 0.6656343936920166}
+
+{"test case number": 364, "answer": "no answer>", "modAnswer": "h", "similarity": 0.6539949774742126}
+
+{"test case number": 366, "answer": "other parts of an object", "modAnswer": "other parts of the same object", "similarity": 0.9756932854652405}
+
+{"test case number": 367, "answer": ".", "modAnswer": "a complex structure", "similarity": 0.5037551522254944}
+
+{"test case number": 367, "answer": ".", "modAnswer": "e", "similarity": 0.7125334739685059}
+
+{"test case number": 367, "answer": ".", "modAnswer": "x", "similarity": 0.7288268208503723}
+
+{"test case number": 367, "answer": ".", "modAnswer": "t", "similarity": 0.7777215242385864}
+
+{"test case number": 368, "answer": "no answer>", "modAnswer": "idealized point particles", "similarity": 0.4131946265697479}
+
+{"test case number": 368, "answer": "<", "modAnswer": "idealized point particles", "similarity": 0.3804800808429718}
+
+{"test case number": 368, "answer": "no answer>", "modAnswer": "<", "similarity": 0.7895853519439697}
+
+{"test case number": 369, "answer": "idealized point particles", "modAnswer": "objects in three dimensions", "similarity": 0.6375382542610168}
+
+{"test case number": 369, "answer": "<", "modAnswer": "objects in three dimensions", "similarity": 0.46230214834213257}
+
+{"test case number": 369, "answer": "idealized point particles", "modAnswer": "<", "similarity": 0.3804800808429718}
+
+{"test case number": 370, "answer": "along the pressure gradients", "modAnswer": "the lattice holding atoms together can change shape, expand, contract, or", "similarity": 0.5549576282501221}
+
+{"test case number": 370, "answer": "<", "modAnswer": "the lattice holding atoms together can change shape, expand, contract, or", "similarity": 0.3371974229812622}
+
+{"test case number": 370, "answer": "along the pressure gradients", "modAnswer": "<", "similarity": 0.34124988317489624}
+
+{"test case number": 371, "answer": "newton's laws", "modAnswer": "newton's mechanics", "similarity": 0.8471348285675049}
+
+{"test case number": 373, "answer": "international law and public law", "modAnswer": "the principle of legal certainty", "similarity": 0.7145212888717651}
+
+{"test case number": 374, "answer": "a proper legal basis", "modAnswer": "a sound legal foundation", "similarity": 0.8967630863189697}
+
+{"test case number": 375, "answer": "principles of legal certainty and good faith", "modAnswer": "the doctrine of legitimate expectation has roots in international law and public law.", "similarity": 0.8180279731750488}
+
+{"test case number": 376, "answer": "ex post facto laws", "modAnswer": "a law that retroactively criminalizes an action that was legal at the time it", "similarity": 0.7353561520576477}
+
+{"test case number": 376, "answer": "<", "modAnswer": "a law that retroactively criminalizes an action that was legal at the time it", "similarity": 0.36376574635505676}
+
+{"test case number": 376, "answer": "ex post facto laws", "modAnswer": "<", "similarity": 0.5015332102775574}
+
+{"test case number": 376, "answer": "ex post facto laws", "modAnswer": "n", "similarity": 0.4770965576171875}
+
+{"test case number": 377, "answer": "no answer>", "modAnswer": "the principle of legal certainty", "similarity": 0.40779730677604675}
+
+{"test case number": 377, "answer": "<", "modAnswer": "the principle of legal certainty", "similarity": 0.3955816626548767}
+
+{"test case number": 377, "answer": "no answer>", "modAnswer": "<", "similarity": 0.7895853519439697}
+
+{"test case number": 378, "answer": ".", "modAnswer": "the edicts of 1968", "similarity": 0.3517181873321533}
+
+{"test case number": 378, "answer": "<", "modAnswer": "the edicts of 1968", "similarity": 0.2502330541610718}
+
+{"test case number": 378, "answer": "n", "modAnswer": "the edicts of 1968", "similarity": 0.27947017550468445}
+
+{"test case number": 378, "answer": ".", "modAnswer": "<", "similarity": 0.7896820902824402}
+
+{"test case number": 379, "answer": "a proper legal basis", "modAnswer": "a sound legal foundation", "similarity": 0.8967630863189697}
+
+{"test case number": 380, "answer": "no answer>", "modAnswer": "legislation that retroactively criminalizes an action that was legal at the time it was committed", "similarity": 0.3544979393482208}
+
+{"test case number": 380, "answer": "<", "modAnswer": "legislation that retroactively criminalizes an action that was legal at the time it was committed", "similarity": 0.33753710985183716}
+
+{"test case number": 380, "answer": "no answer>", "modAnswer": "<", "similarity": 0.7895853519439697}
+
+{"test case number": 381, "answer": "khanbaliq", "modAnswer": "in a cave", "similarity": 0.5346540212631226}
+
+{"test case number": 381, "answer": "s", "modAnswer": "in a cave", "similarity": 0.4382495582103729}
+
+{"test case number": 381, "answer": "h", "modAnswer": "in a cave", "similarity": 0.5036590695381165}
+
+{"test case number": 381, "answer": "khanbaliq", "modAnswer": "s", "similarity": 0.5877012610435486}
+
+{"test case number": 386, "answer": "yes\u00fcn temur", "modAnswer": "he was killed by a poisoned horse.", "similarity": 0.5250033736228943}
+
+{"test case number": 386, "answer": "<", "modAnswer": "he was killed by a poisoned horse.", "similarity": 0.39354100823402405}
+
+{"test case number": 386, "answer": "yes\u00fcn temur", "modAnswer": "<", "similarity": 0.6602287292480469}
+
+{"test case number": 389, "answer": "yes\u00fcn tem\u00fcr", "modAnswer": "yes\u00fcn temur", "similarity": 1.0}
+
+{"test case number": 393, "answer": "income inequality", "modAnswer": "because of the ad valorem property tax policy and increasing prices", "similarity": 0.674071192741394}
+
+{"test case number": 393, "answer": "income inequality", "modAnswer": "d", "similarity": 0.3718408942222595}
+
+{"test case number": 396, "answer": "no answer>", "modAnswer": "a shortage of affordable housing", "similarity": 0.4805658161640167}
+
+{"test case number": 396, "answer": "<", "modAnswer": "a shortage of affordable housing", "similarity": 0.41338884830474854}
+
+{"test case number": 396, "answer": "no answer>", "modAnswer": "<", "similarity": 0.7895853519439697}
+
+{"test case number": 398, "answer": "income inequality", "modAnswer": "because of the ad valorem property tax policy and increasing prices", "similarity": 0.674071192741394}
+
+{"test case number": 398, "answer": "<", "modAnswer": "because of the ad valorem property tax policy and increasing prices", "similarity": 0.3077080249786377}
+
+{"test case number": 398, "answer": "income inequality", "modAnswer": "<", "similarity": 0.41348838806152344}
+
+{"test case number": 403, "answer": "1695\u20131696", "modAnswer": "1695 to 1696", "similarity": 0.9520276784896851}
+
+{"test case number": 404, "answer": "the city council", "modAnswer": "the residents of centrum", "similarity": 0.6131207346916199}
+
+{"test case number": 408, "answer": "1994\u20131999", "modAnswer": "1994 to 1999", "similarity": 0.8747397065162659}
+
+{"test case number": 409, "answer": "the city council", "modAnswer": "the residents of centrum", "similarity": 0.6131207346916199}
+
+{"test case number": 409, "answer": "<", "modAnswer": "the residents of centrum", "similarity": 0.4023669958114624}
+
+{"test case number": 409, "answer": "the city council", "modAnswer": "<", "similarity": 0.394275963306427}
+
+{"test case number": 412, "answer": "several d&b contractors", "modAnswer": "various d&b contractors", "similarity": 0.959702730178833}
+
+{"test case number": 414, "answer": "a consortium of several contractors", "modAnswer": "multiple contractors", "similarity": 0.8839271068572998}
+
+{"test case number": 415, "answer": "the owner produces a list of requirements for a project", "modAnswer": "they plan and develop phase 2.", "similarity": 0.6352347135543823}
+
+{"test case number": 416, "answer": "a list of requirements", "modAnswer": "a comprehensive list of requirements", "similarity": 0.9607594013214111}
+
+{"test case number": 417, "answer": "a list of requirements", "modAnswer": "a comprehensive list of requirements", "similarity": 0.9607594013214111}
+
+{"test case number": 418, "answer": "a list of requirements", "modAnswer": "they provide a comprehensive list of requirements", "similarity": 0.8546508550643921}
+
+{"test case number": 419, "answer": "a consortium of several contractors", "modAnswer": "a group of contractors", "similarity": 0.865060031414032}
+
+{"test case number": 420, "answer": "the project is completely designed by the owner, then bid on, then completed", "modAnswer": "phase 2 is where the owner completes the design, puts it out for bidding, and", "similarity": 0.8427459597587585}
+
+{"test case number": 421, "answer": "thoreau", "modAnswer": "the author argues that individuals have a moral duty to act according to their conscience.", "similarity": 0.41129833459854126}
+
+{"test case number": 423, "answer": "the collective", "modAnswer": "individuals have a moral duty to resist unjust laws.", "similarity": 0.5155365467071533}
+
+{"test case number": 423, "answer": "the collective", "modAnswer": "n", "similarity": 0.46934759616851807}
+
+{"test case number": 424, "answer": "resign", "modAnswer": "to resist unjust laws.", "similarity": 0.49508240818977356}
+
+{"test case number": 425, "answer": "elite politicians", "modAnswer": "a majority", "similarity": 0.49813181161880493}
+
+{"test case number": 425, "answer": "e", "modAnswer": "a majority", "similarity": 0.3817157745361328}
+
+{"test case number": 425, "answer": "l", "modAnswer": "a majority", "similarity": 0.4243471920490265}
+
+{"test case number": 427, "answer": "the individual", "modAnswer": "individuals", "similarity": 0.8863667249679565}
+
+{"test case number": 428, "answer": "no answer>", "modAnswer": "martin luther", "similarity": 0.35837745666503906}
+
+{"test case number": 428, "answer": "no answer>", "modAnswer": "t", "similarity": 0.6656343936920166}
+
+{"test case number": 428, "answer": "no answer>", "modAnswer": "h", "similarity": 0.6539949774742126}
+
+{"test case number": 429, "answer": "\"resign.\"", "modAnswer": "to resign.", "similarity": 0.8975204229354858}
+
+{"test case number": 430, "answer": "the collective", "modAnswer": "that individuals have a moral duty to resist unjust laws even if it means def", "similarity": 0.46406492590904236}
+
+{"test case number": 430, "answer": "the collective", "modAnswer": "n", "similarity": 0.46934759616851807}
+
+{"test case number": 431, "answer": "the collective", "modAnswer": "he believed that individuals have a moral duty to resist unjust laws.", "similarity": 0.43916139006614685}
+
+{"test case number": 431, "answer": "<", "modAnswer": "he believed that individuals have a moral duty to resist unjust laws.", "similarity": 0.2646454870700836}
+
+{"test case number": 431, "answer": "the collective", "modAnswer": "<", "similarity": 0.46098077297210693}
+
+{"test case number": 431, "answer": "the collective", "modAnswer": "n", "similarity": 0.46934759616851807}
+
+{"test case number": 433, "answer": "the individual", "modAnswer": "the tax collector", "similarity": 0.5881657004356384}
+
+{"test case number": 433, "answer": "<", "modAnswer": "the tax collector", "similarity": 0.45974045991897583}
+
+{"test case number": 433, "answer": "n", "modAnswer": "the tax collector", "similarity": 0.4399307668209076}
+
+{"test case number": 433, "answer": "the individual", "modAnswer": "<", "similarity": 0.5430419445037842}
+
+{"test case number": 434, "answer": "resign", "modAnswer": "to resist unjust laws.", "similarity": 0.49508240818977356}
+
+{"test case number": 434, "answer": "<", "modAnswer": "to resist unjust laws.", "similarity": 0.3742193877696991}
+
+{"test case number": 434, "answer": "resign", "modAnswer": "<", "similarity": 0.41259652376174927}
+
+{"test case number": 435, "answer": "the majority", "modAnswer": "the people", "similarity": 0.6000086665153503}
+
+{"test case number": 435, "answer": "<", "modAnswer": "the people", "similarity": 0.5198982954025269}
+
+{"test case number": 435, "answer": "n", "modAnswer": "the people", "similarity": 0.5174124836921692}
+
+{"test case number": 435, "answer": "the majority", "modAnswer": "<", "similarity": 0.4709705412387848}
+
+{"test case number": 435, "answer": "the majority", "modAnswer": "n", "similarity": 0.41415512561798096}
+
+{"test case number": 439, "answer": "gastric acid and proteases", "modAnswer": "stomach acid and proteases", "similarity": 0.9486663341522217}
+
+{"test case number": 443, "answer": "-defensins", "modAnswer": "breast milk", "similarity": 0.5445876717567444}
+
+{"test case number": 443, "answer": "<", "modAnswer": "breast milk", "similarity": 0.550776481628418}
+
+{"test case number": 443, "answer": "n", "modAnswer": "breast milk", "similarity": 0.5704706311225891}
+
+{"test case number": 443, "answer": "o", "modAnswer": "breast milk", "similarity": 0.5078386664390564}
+
+{"test case number": 443, "answer": "-defensins", "modAnswer": "<", "similarity": 0.6466439366340637}
+
+{"test case number": 444, "answer": "when they become slightly acidic", "modAnswer": "after the onset of menarche", "similarity": 0.4464704990386963}
+
+{"test case number": 444, "answer": "<", "modAnswer": "after the onset of menarche", "similarity": 0.37159445881843567}
+
+{"test case number": 444, "answer": "when they become slightly acidic", "modAnswer": "<", "similarity": 0.41770440340042114}
+
+{"test case number": 445, "answer": "-defensins", "modAnswer": "stomach acid and proteases in the stomach", "similarity": 0.6350275278091431}
+
+{"test case number": 445, "answer": "<", "modAnswer": "stomach acid and proteases in the stomach", "similarity": 0.5150517821311951}
+
+{"test case number": 445, "answer": "-defensins", "modAnswer": "<", "similarity": 0.6466439366340637}
+
+{"test case number": 450, "answer": ".", "modAnswer": "neurology", "similarity": 0.5269315838813782}
+
+{"test case number": 450, "answer": "<", "modAnswer": "neurology", "similarity": 0.4711149334907532}
+
+{"test case number": 450, "answer": ".", "modAnswer": "<", "similarity": 0.7896820902824402}
+
+{"test case number": 451, "answer": "no answer>", "modAnswer": "in 1901", "similarity": 0.11660491675138474}
+
+{"test case number": 451, "answer": "<", "modAnswer": "in 1901", "similarity": 0.18050915002822876}
+
+{"test case number": 451, "answer": "no answer>", "modAnswer": "<", "similarity": 0.7895853519439697}
+
+{"test case number": 453, "answer": ".........", "modAnswer": "pasteur", "similarity": 0.5394360423088074}
+
+{"test case number": 453, "answer": "<", "modAnswer": "pasteur", "similarity": 0.5022389888763428}
+
+{"test case number": 453, "answer": "n", "modAnswer": "pasteur", "similarity": 0.5125898718833923}
+
+{"test case number": 453, "answer": "o", "modAnswer": "pasteur", "similarity": 0.4654124081134796}
+
+{"test case number": 453, "answer": ".........", "modAnswer": "<", "similarity": 0.7876834273338318}
+
+{"test case number": 456, "answer": "the scottish government", "modAnswer": "members of the scottish parliament", "similarity": 0.7621127367019653}
+
+{"test case number": 457, "answer": "a private member", "modAnswer": "private members", "similarity": 0.918893575668335}
+
+{"test case number": 458, "answer": "an outside proposer", "modAnswer": "outside individuals or organizations", "similarity": 0.5178292989730835}
+
+{"test case number": 459, "answer": "in a number of stages", "modAnswer": "as private members", "similarity": 0.27146339416503906}
+
+{"test case number": 460, "answer": "no answer>", "modAnswer": "bills", "similarity": 0.48391276597976685}
+
+{"test case number": 460, "answer": "<", "modAnswer": "bills", "similarity": 0.5102128386497498}
+
+{"test case number": 460, "answer": "n", "modAnswer": "bills", "similarity": 0.45921656489372253}
+
+{"test case number": 460, "answer": "o", "modAnswer": "bills", "similarity": 0.4250844419002533}
+
+{"test case number": 460, "answer": "no answer>", "modAnswer": "<", "similarity": 0.7895853519439697}
+
+{"test case number": 461, "answer": "a bill in one of the areas under its remit", "modAnswer": "a bill within its specific area of responsibility", "similarity": 0.9146461486816406}
+
+{"test case number": 462, "answer": "no answer>", "modAnswer": "a committee of the parliament", "similarity": 0.40614426136016846}
+
+{"test case number": 462, "answer": "<", "modAnswer": "a committee of the parliament", "similarity": 0.40878570079803467}
+
+{"test case number": 462, "answer": "no answer>", "modAnswer": "<", "similarity": 0.7895853519439697}
+
+{"test case number": 463, "answer": "no answer>", "modAnswer": "a committee of the parliament", "similarity": 0.40614426136016846}
+
+{"test case number": 463, "answer": "<", "modAnswer": "a committee of the parliament", "similarity": 0.40878570079803467}
+
+{"test case number": 463, "answer": "no answer>", "modAnswer": "<", "similarity": 0.7895853519439697}
+
+{"test case number": 469, "answer": "no answer>", "modAnswer": "western khanates", "similarity": 0.3933071494102478}
+
+{"test case number": 471, "answer": "tibetan buddhism", "modAnswer": "religion", "similarity": 0.7006058692932129}
+
+{"test case number": 471, "answer": "t", "modAnswer": "religion", "similarity": 0.43843013048171997}
+
+{"test case number": 474, "answer": "the yuan dynasty", "modAnswer": "western khanates", "similarity": 0.5599079728126526}
+
+{"test case number": 474, "answer": "<", "modAnswer": "western khanates", "similarity": 0.39273273944854736}
+
+{"test case number": 474, "answer": "the yuan dynasty", "modAnswer": "<", "similarity": 0.4688616394996643}
+
+{"test case number": 477, "answer": "islam", "modAnswer": "the yuan sect", "similarity": 0.7054051160812378}
+
+{"test case number": 477, "answer": "<", "modAnswer": "the yuan sect", "similarity": 0.5458974838256836}
+
+{"test case number": 477, "answer": "islam", "modAnswer": "<", "similarity": 0.4871378242969513}
+
+{"test case number": 477, "answer": "islam", "modAnswer": "n", "similarity": 0.44414597749710083}
+
+{"test case number": 477, "answer": "islam", "modAnswer": "o", "similarity": 0.45932579040527344}
+
+{"test case number": 479, "answer": "up to four minutes", "modAnswer": "maximum of four minutes", "similarity": 0.8992681503295898}
+
+{"test case number": 482, "answer": "nominate speakers", "modAnswer": "to put forward speakers for nomination.", "similarity": 0.7584318518638611}
+
+{"test case number": 483, "answer": "no answer>", "modAnswer": "prayer", "similarity": 0.6071541905403137}
+
+{"test case number": 483, "answer": "<", "modAnswer": "prayer", "similarity": 0.5603243112564087}
+
+{"test case number": 483, "answer": "n", "modAnswer": "prayer", "similarity": 0.4615331292152405}
+
+{"test case number": 483, "answer": "o", "modAnswer": "prayer", "similarity": 0.4959940016269684}
+
+{"test case number": 483, "answer": "no answer>", "modAnswer": "<", "similarity": 0.7895853519439697}
+
+{"test case number": 485, "answer": "prayer", "modAnswer": "time for reflection", "similarity": 0.5514659285545349}
+
+{"test case number": 485, "answer": "<", "modAnswer": "time for reflection", "similarity": 0.4895550012588501}
+
+{"test case number": 485, "answer": "prayer", "modAnswer": "<", "similarity": 0.5603243112564087}
+
+{"test case number": 485, "answer": "prayer", "modAnswer": "n", "similarity": 0.4615331292152405}
+
+{"test case number": 485, "answer": "prayer", "modAnswer": "o", "similarity": 0.4959940016269684}
+
+{"test case number": 489, "answer": "economic center", "modAnswer": "economic hub", "similarity": 0.9290927052497864}
+
+{"test case number": 491, "answer": "demographics and economic ties", "modAnswer": "demographics and economic connections", "similarity": 0.9796279072761536}
+
+{"test case number": 496, "answer": "medicines, tobacco and patent medicines", "modAnswer": "medicines and tobacco", "similarity": 0.8971916437149048}
+
+{"test case number": 497, "answer": "sorcery or even poison", "modAnswer": "sorcery or even toxicity", "similarity": 0.9269452095031738}
+
+{"test case number": 498, "answer": "outdated or only approproriate", "modAnswer": "it is now considered outdated.", "similarity": 0.79144287109375}
+
+{"test case number": 499, "answer": "many other herbs not listed", "modAnswer": "various other herbs", "similarity": 0.8980478048324585}
+
+{"test case number": 500, "answer": "no answer>", "modAnswer": "tainted or noxious products", "similarity": 0.46882694959640503}
+
+{"test case number": 500, "answer": "<", "modAnswer": "tainted or noxious products", "similarity": 0.47982802987098694}
+
+{"test case number": 500, "answer": "no answer>", "modAnswer": "<", "similarity": 0.7895853519439697}
+['{"test case number": 1, "answer": "the united nations environment programme (unep) and the world meteorological organization (w", "modAnswer": "the unenep and the world meteorological organization (wmo)", "similarity": 0.9260661005973816}\n', '{"test case number": 6, "answer": "unep", "modAnswer": "the world meteorological organization (wmo) covers the expenses related to the secretary", "similarity": 0.4210992455482483}\n', '{"test case number": 6, "answer": "<", "modAnswer": "the world meteorological organization (wmo) covers the expenses related to the secretary", "similarity": 0.36362379789352417}\n', '{"test case number": 6, "answer": "unep", "modAnswer": "<", "similarity": 0.7310936450958252}\n', '{"test case number": 8, "answer": "the wmo, by unep, and by ipcc members", "modAnswer": "the ipcc panel", "similarity": 0.8091877102851868}\n', '{"test case number": 10, "answer": "everyone", "modAnswer": "people with lower incomes often have to borrow money to cover the costs.", "similarity": 0.3312848210334778}\n', '{"test case number": 10, "answer": "everyone", "modAnswer": "b", "similarity": 0.441209077835083}\n', '{"test case number": 13, "answer": "taking on debt", "modAnswer": "incurring debt", "similarity": 0.9510738253593445}\n', '{"test case number": 15, "answer": ".. for those on lower incomes, the costs must be borrowed", "modAnswer": "the burden of debt is shared.", "similarity": 0.7608547210693359}\n', '{"test case number": 16, "answer": ".", "modAnswer": "housing, pensions, education, and healthcare costs", "similarity": 0.4022673964500427}\n', '{"test case number": 16, "answer": "<", "modAnswer": "housing, pensions, education, and healthcare costs", "similarity": 0.40878206491470337}\n', '{"test case number": 16, "answer": ".", "modAnswer": "<", "similarity": 0.7896820902824402}\n', '{"test case number": 18, "answer": "taking on debt", "modAnswer": "borrowing", "similarity": 0.6220130324363708}\n', '{"test case number": 18, "answer": "<", "modAnswer": "borrowing", "similarity": 0.480075478553772}\n', '{"test case number": 18, "answer": "taking on debt", "modAnswer": "<", "similarity": 0.35786086320877075}\n', '{"test case number": 20, "answer": "reminder of injustice", "modAnswer": "because they want to keep protesting", "similarity": 0.5485830903053284}\n', '{"test case number": 20, "answer": "reminder of injustice", "modAnswer": "a", "similarity": 0.4516507685184479}\n', '{"test case number": 21, "answer": "reminding their countrymen of injustice", "modAnswer": "to keep protesting and to remind their fellow citizens of the presence of injustice.", "similarity": 0.8435719013214111}\n', '{"test case number": 22, "answer": "the spirit of protest", "modAnswer": "the most important item is the incarceration.", "similarity": 0.5521720051765442}\n', '{"test case number": 23, "answer": "neo-conservative insistence on a guilty plea", "modAnswer": "because they will not be able to pay their way out.", "similarity": 0.44857364892959595}\n', '{"test case number": 24, "answer": "a way of reminding their countrymen of injustice", "modAnswer": "to keep protesting and to serve as a reminder to their fellow citizens of the presence of", "similarity": 0.8120347261428833}\n', '{"test case number": 25, "answer": "spirit of protest should be maintained all the way", "modAnswer": "to keep the spirit of protest alive.", "similarity": 0.8520209789276123}\n', '{"test case number": 26, "answer": "the neo-conservative insistence on a guilty plea", "modAnswer": "the neo-conservative demand for a guilty plea.", "similarity": 0.9603620767593384}\n', '{"test case number": 28, "answer": "demean", "modAnswer": "it reduces the seriousness of a protest.", "similarity": 0.5529991984367371}\n', '{"test case number": 28, "answer": "<", "modAnswer": "it reduces the seriousness of a protest.", "similarity": 0.3695881962776184}\n', '{"test case number": 28, "answer": "demean", "modAnswer": "<", "similarity": 0.4633360803127289}\n', '{"test case number": 30, "answer": "nestorianism and roman catholicism", "modAnswer": "roman catholicism and nestorianism", "similarity": 0.9934014081954956}\n', '{"test case number": 36, "answer": "taoism", "modAnswer": "islam", "similarity": 0.7297340631484985}\n', '{"test case number": 36, "answer": "<", "modAnswer": "islam", "similarity": 0.4871378242969513}\n', '{"test case number": 36, "answer": "n", "modAnswer": "islam", "similarity": 0.44414597749710083}\n', '{"test case number": 36, "answer": "o", "modAnswer": "islam", "similarity": 0.45932579040527344}\n', '{"test case number": 36, "answer": "taoism", "modAnswer": "<", "similarity": 0.536447286605835}\n', '{"test case number": 36, "answer": "taoism", "modAnswer": "n", "similarity": 0.49743732810020447}\n', '{"test case number": 38, "answer": "no answer>", "modAnswer": "western fields of study", "similarity": 0.3384804129600525}\n', '{"test case number": 38, "answer": "<", "modAnswer": "western fields of study", "similarity": 0.33139991760253906}\n', '{"test case number": 38, "answer": "no answer>", "modAnswer": "<", "similarity": 0.7895853519439697}\n', '{"test case number": 39, "answer": "recreational use", "modAnswer": "oxygen is used recreationally at oxygen bars and in various sports activities.", "similarity": 0.7172045707702637}\n', '{"test case number": 40, "answer": "mild euphoric", "modAnswer": "it is not known whether it will increase performance or cause side effects.", "similarity": 0.41631603240966797}\n', '{"test case number": 43, "answer": "euphoric", "modAnswer": "it is more likely that the effect is due to a placebo effect.", "similarity": 0.37595033645629883}\n', '{"test case number": 49, "answer": "all spheres", "modAnswer": "all aspects of life", "similarity": 0.6260327696800232}\n', '{"test case number": 50, "answer": "to implement islamic values in all spheres of life", "modAnswer": "to revive and uphold islamic principles across all domains.", "similarity": 0.9199623465538025}\n', '{"test case number": 51, "answer": "two poles", "modAnswer": "political islam and reformism", "similarity": 0.3173246681690216}\n', '{"test case number": 53, "answer": "islm siys", "modAnswer": "islamism", "similarity": 0.5124443769454956}\n', '{"test case number": 53, "answer": "<", "modAnswer": "islamism", "similarity": 0.44310250878334045}\n', '{"test case number": 53, "answer": "n", "modAnswer": "islamism", "similarity": 0.3876728117465973}\n', '{"test case number": 53, "answer": "o", "modAnswer": "islamism", "similarity": 0.39485886693000793}\n', '{"test case number": 53, "answer": "islm siys", "modAnswer": "<", "similarity": 0.6350203156471252}\n', '{"test case number": 53, "answer": "islm siys", "modAnswer": "n", "similarity": 0.6066624522209167}\n', '{"test case number": 53, "answer": "islm siys", "modAnswer": "o", "similarity": 0.6422263383865356}\n', '{"test case number": 54, "answer": "islm siys>", "modAnswer": "islamic religions", "similarity": 0.43597304821014404}\n', '{"test case number": 54, "answer": "<", "modAnswer": "islamic religions", "similarity": 0.44843971729278564}\n', '{"test case number": 54, "answer": "islm siys>", "modAnswer": "<", "similarity": 0.7852210402488708}\n', '{"test case number": 55, "answer": "islm siys>", "modAnswer": "a literal interpretation of islamic teachings", "similarity": 0.39215072989463806}\n', '{"test case number": 55, "answer": "<", "modAnswer": "a literal interpretation of islamic teachings", "similarity": 0.4004921317100525}\n', '{"test case number": 55, "answer": "islm siys>", "modAnswer": "<", "similarity": 0.7852210402488708}\n', '{"test case number": 58, "answer": "winters", "modAnswer": "during the warmest season", "similarity": 0.5353853702545166}\n', '{"test case number": 58, "answer": "winters", "modAnswer": "m", "similarity": 0.5100290775299072}\n', '{"test case number": 58, "answer": "winters", "modAnswer": "a", "similarity": 0.4916074275970459}\n', '{"test case number": 58, "answer": "winters", "modAnswer": "y", "similarity": 0.498365193605423}\n', '{"test case number": 62, "answer": "mild weather", "modAnswer": "mild winters", "similarity": 0.9233363270759583}\n', '{"test case number": 63, "answer": "no answer>", "modAnswer": "rainfall", "similarity": 0.47558432817459106}\n', '{"test case number": 63, "answer": "<", "modAnswer": "rainfall", "similarity": 0.4679829180240631}\n', '{"test case number": 63, "answer": "no answer>", "modAnswer": "<", "similarity": 0.7895853519439697}\n', '{"test case number": 67, "answer": "upper lake", "modAnswer": "lake constance", "similarity": 0.7681978940963745}\n', '{"test case number": 68, "answer": "lower lake", "modAnswer": "lake constance", "similarity": 0.7702008485794067}\n', '{"test case number": 69, "answer": "the swiss-austrian border", "modAnswer": "the seerhein", "similarity": 0.6496556997299194}\n', '{"test case number": 71, "answer": "austria", "modAnswer": "the alps", "similarity": 0.640303909778595}\n', '{"test case number": 73, "answer": "the upper lake", "modAnswer": "the lake is composed of three separate bodies of water - the obersee, the untersee", "similarity": 0.7600904703140259}\n', '{"test case number": 74, "answer": "baden-w\\u00fcrttemberg", "modAnswer": "the lower lake is the obersee.", "similarity": 0.623258113861084}\n', '{"test case number": 76, "answer": "the german states of bavaria and baden-w\\u00fcrttemberg", "modAnswer": "switzerland", "similarity": 0.6654708981513977}\n', '{"test case number": 76, "answer": "<", "modAnswer": "switzerland", "similarity": 0.4970724284648895}\n', '{"test case number": 76, "answer": "the german states of bavaria and baden-w\\u00fcrttemberg", "modAnswer": "<", "similarity": 0.33598440885543823}\n', '{"test case number": 77, "answer": "the swiss-austrian border", "modAnswer": "the alps", "similarity": 0.7241847515106201}\n', '{"test case number": 77, "answer": "<", "modAnswer": "the alps", "similarity": 0.45120781660079956}\n', '{"test case number": 77, "answer": "n", "modAnswer": "the alps", "similarity": 0.45011991262435913}\n', '{"test case number": 77, "answer": "o", "modAnswer": "the alps", "similarity": 0.4551210105419159}\n', '{"test case number": 77, "answer": "the swiss-austrian border", "modAnswer": "<", "similarity": 0.4149974584579468}\n', '{"test case number": 78, "answer": "no answer>", "modAnswer": "the upper lake is the obersee, while the lower lake is the untersee.", "similarity": 0.4971081614494324}\n', '{"test case number": 78, "answer": "<", "modAnswer": "the upper lake is the obersee, while the lower lake is the untersee.", "similarity": 0.5238785147666931}\n', '{"test case number": 78, "answer": "no answer>", "modAnswer": "<", "similarity": 0.7895853519439697}\n', '{"test case number": 80, "answer": "the united kingdom", "modAnswer": "england", "similarity": 0.8416901230812073}\n', '{"test case number": 82, "answer": "abercynon in south wales", "modAnswer": "abercynon in southern wales", "similarity": 0.9437418580055237}\n', '{"test case number": 85, "answer": "the united kingdom", "modAnswer": "england", "similarity": 0.8416901230812073}\n', '{"test case number": 89, "answer": "south wales", "modAnswer": "southern wales", "similarity": 0.8804828524589539}\n', '{"test case number": 91, "answer": "anti-communist fervor", "modAnswer": "anti-communist sentiment in poland.", "similarity": 0.7709856629371643}\n', '{"test case number": 92, "answer": "less than a year", "modAnswer": "just under a year", "similarity": 0.9466173052787781}\n', '{"test case number": 94, "answer": "the incentive for democratic changes", "modAnswer": "a catalyst for democratic transformations.", "similarity": 0.8757210969924927}\n', '{"test case number": 95, "answer": "no answer>", "modAnswer": "pope julia xv", "similarity": 0.4534038007259369}\n', '{"test case number": 95, "answer": "<", "modAnswer": "pope julia xv", "similarity": 0.4923103451728821}\n', '{"test case number": 95, "answer": "n", "modAnswer": "pope julia xv", "similarity": 0.3845180869102478}\n', '{"test case number": 95, "answer": "no answer>", "modAnswer": "<", "similarity": 0.7895853519439697}\n', '{"test case number": 96, "answer": "anti-communist fervor", "modAnswer": "anti-communist sentiment in poland.", "similarity": 0.7709856629371643}\n', '{"test case number": 97, "answer": "less than a year", "modAnswer": "just under a year", "similarity": 0.9466173052787781}\n', '{"test case number": 99, "answer": "a call to \\"renew the face\\" of poland", "modAnswer": "a catalyst for democratic transformations.", "similarity": 0.44088980555534363}\n', '{"test case number": 99, "answer": "<", "modAnswer": "a catalyst for democratic transformations.", "similarity": 0.32929539680480957}\n', '{"test case number": 99, "answer": "a call to \\"renew the face\\" of poland", "modAnswer": "<", "similarity": 0.367111474275589}\n', '{"test case number": 100, "answer": "southern and central parts of france", "modAnswer": "the southern and central regions of france", "similarity": 0.9824790358543396}\n', '{"test case number": 101, "answer": "one-eighth the number", "modAnswer": "one-eighth of the population", "similarity": 0.7044253945350647}\n', '{"test case number": 101, "answer": "one-eighth the number", "modAnswer": "a", "similarity": 0.564521849155426}\n', '{"test case number": 104, "answer": "granted the huguenots substantial religious, political and military autonomy", "modAnswer": "allowed for the end of the wars", "similarity": 0.6472370624542236}\n', '{"test case number": 104, "answer": "g", "modAnswer": "allowed for the end of the wars", "similarity": 0.2515445351600647}\n', '{"test case number": 106, "answer": "southern and central parts of france", "modAnswer": "southern and central regions", "similarity": 0.8285081386566162}\n', '{"test case number": 107, "answer": "no answer>", "modAnswer": "the french crown", "similarity": 0.3602293133735657}\n', '{"test case number": 107, "answer": "<", "modAnswer": "the french crown", "similarity": 0.43080422282218933}\n', '{"test case number": 107, "answer": "no answer>", "modAnswer": "<", "similarity": 0.7895853519439697}\n', '{"test case number": 108, "answer": "one-eighth the number of french catholics", "modAnswer": "two million", "similarity": 0.5127574801445007}\n', '{"test case number": 108, "answer": "<", "modAnswer": "two million", "similarity": 0.3569895029067993}\n', '{"test case number": 108, "answer": "one-eighth the number of french catholics", "modAnswer": "<", "similarity": 0.37434121966362}\n', '{"test case number": 109, "answer": "one-eighth the number", "modAnswer": "one-eighth of the population", "similarity": 0.7044253945350647}\n', '{"test case number": 109, "answer": "<", "modAnswer": "one-eighth of the population", "similarity": 0.3959709405899048}\n', '{"test case number": 109, "answer": "one-eighth the number", "modAnswer": "<", "similarity": 0.4928756356239319}\n', '{"test case number": 110, "answer": "8 february 2007", "modAnswer": "february 8, 2007", "similarity": 0.9097049832344055}\n', '{"test case number": 111, "answer": "march", "modAnswer": "february 8, 2007", "similarity": 0.5275532603263855}\n', '{"test case number": 111, "answer": "m", "modAnswer": "february 8, 2007", "similarity": 0.4742545485496521}\n', '{"test case number": 114, "answer": "sport (including premier league football), films, entertainment and news", "modAnswer": "sports, movies, entertainment, and news", "similarity": 0.8066742420196533}\n', '{"test case number": 115, "answer": "8 february 2007", "modAnswer": "february 8, 2007", "similarity": 0.9097049832344055}\n', '{"test case number": 116, "answer": "no answer>", "modAnswer": "february 8, 2007", "similarity": 0.3939099907875061}\n', '{"test case number": 116, "answer": "<", "modAnswer": "february 8, 2007", "similarity": 0.39931443333625793}\n', '{"test case number": 116, "answer": "n", "modAnswer": "february 8, 2007", "similarity": 0.42289260029792786}\n', '{"test case number": 116, "answer": "o", "modAnswer": "february 8, 2007", "similarity": 0.39585086703300476}\n', '{"test case number": 116, "answer": "no answer>", "modAnswer": "<", "similarity": 0.7895853519439697}\n', '{"test case number": 119, "answer": "freeview", "modAnswer": "setanta sports", "similarity": 0.5284165740013123}\n', '{"test case number": 119, "answer": "<", "modAnswer": "setanta sports", "similarity": 0.3850775361061096}\n', '{"test case number": 119, "answer": "freeview", "modAnswer": "<", "similarity": 0.4923979640007019}\n', '{"test case number": 119, "answer": "freeview", "modAnswer": "n", "similarity": 0.40757668018341064}\n', '{"test case number": 119, "answer": "freeview", "modAnswer": "o", "similarity": 0.43573781847953796}\n', '{"test case number": 120, "answer": "introductory stage", "modAnswer": "a comprehensive discussion in the chamber regarding the fundamental principles of the bill.", "similarity": 0.4451037049293518}\n', '{"test case number": 121, "answer": "explanatory notes, a policy memorandum setting out the policy underlying", "modAnswer": "documents such as explanatory notes, a policy memorandum explaining the", "similarity": 0.8878589868545532}\n', '{"test case number": 122, "answer": "whether the bill is within the legislative competence of the parliament", "modAnswer": "whether the bill falls within the parliament\'s legislative competence", "similarity": 0.9916990995407104}\n', '{"test case number": 123, "answer": "relevant committee or committees", "modAnswer": "in the respective committee or committees", "similarity": 0.8081467151641846}\n', '{"test case number": 125, "answer": "member in charge", "modAnswer": "the member responsible for the bill", "similarity": 0.7847394943237305}\n', '{"test case number": 126, "answer": "no answer>", "modAnswer": "stage 2.", "similarity": 0.4688956141471863}\n', '{"test case number": 126, "answer": "<", "modAnswer": "stage 2.", "similarity": 0.5508297085762024}\n', '{"test case number": 126, "answer": "n", "modAnswer": "stage 2.", "similarity": 0.5070518851280212}\n', '{"test case number": 126, "answer": "o", "modAnswer": "stage 2.", "similarity": 0.499483585357666}\n', '{"test case number": 126, "answer": "no answer>", "modAnswer": "<", "similarity": 0.7895853519439697}\n', '{"test case number": 127, "answer": "no answer>", "modAnswer": "stage 2", "similarity": 0.48226645588874817}\n', '{"test case number": 127, "answer": "<", "modAnswer": "stage 2", "similarity": 0.5617977380752563}\n', '{"test case number": 127, "answer": "n", "modAnswer": "stage 2", "similarity": 0.5221111178398132}\n', '{"test case number": 127, "answer": "o", "modAnswer": "stage 2", "similarity": 0.5032179951667786}\n', '{"test case number": 127, "answer": "no answer>", "modAnswer": "<", "similarity": 0.7895853519439697}\n', '{"test case number": 128, "answer": "no answer>", "modAnswer": "a bill that is not submitted to part of parliament for a full debate.", "similarity": 0.5069923996925354}\n', '{"test case number": 128, "answer": "<", "modAnswer": "a bill that is not submitted to part of parliament for a full debate.", "similarity": 0.4352837800979614}\n', '{"test case number": 128, "answer": "no answer>", "modAnswer": "<", "similarity": 0.7895853519439697}\n', '{"test case number": 132, "answer": "the mechanism by which y. pestis was usually transmitted", "modAnswer": "the black death", "similarity": 0.30203044414520264}\n', '{"test case number": 135, "answer": "1894", "modAnswer": "1898", "similarity": 0.9304353594779968}\n', '{"test case number": 137, "answer": "paul-louis simond", "modAnswer": "charles xavier", "similarity": 0.7510807514190674}\n', '{"test case number": 137, "answer": "<", "modAnswer": "charles xavier", "similarity": 0.46790364384651184}\n', '{"test case number": 137, "answer": "n", "modAnswer": "charles xavier", "similarity": 0.43058890104293823}\n', '{"test case number": 137, "answer": "o", "modAnswer": "charles xavier", "similarity": 0.43789976835250854}\n', '{"test case number": 137, "answer": "paul-louis simond", "modAnswer": "<", "similarity": 0.43124330043792725}\n', '{"test case number": 141, "answer": "to regulate the practice of pharmacists and pharmacy technicians", "modAnswer": "managing the pharmacy department and overseeing specialized areas in pharmacy practice", "similarity": 0.7786747813224792}\n', '{"test case number": 142, "answer": "a health care professional", "modAnswer": "healthcare professional", "similarity": 0.9396392107009888}\n', '{"test case number": 143, "answer": "responsibilities might a pharmacy technician have", "modAnswer": "they are entrusted with managing the pharmacy department and overseeing specialized areas in pharmacy", "similarity": 0.6811078190803528}\n', '{"test case number": 144, "answer": "a hospital pharmacy", "modAnswer": "a pharmacist", "similarity": 0.7526723742485046}\n', '{"test case number": 144, "answer": "<", "modAnswer": "a pharmacist", "similarity": 0.4914536774158478}\n', '{"test case number": 144, "answer": "n", "modAnswer": "a pharmacist", "similarity": 0.5021615624427795}\n', '{"test case number": 144, "answer": "o", "modAnswer": "a pharmacist", "similarity": 0.4392773509025574}\n', '{"test case number": 144, "answer": "a hospital pharmacy", "modAnswer": "<", "similarity": 0.45747989416122437}\n', '{"test case number": 144, "answer": "a hospital pharmacy", "modAnswer": "n", "similarity": 0.45740997791290283}\n', '{"test case number": 146, "answer": "pharmacy technicians", "modAnswer": "a pharmacy technician is a healthcare professional and may work independently in a hospital pharmacy without", "similarity": 0.7258272171020508}\n', '{"test case number": 146, "answer": "<", "modAnswer": "a pharmacy technician is a healthcare professional and may work independently in a hospital pharmacy without", "similarity": 0.39933234453201294}\n', '{"test case number": 146, "answer": "pharmacy technicians", "modAnswer": "<", "similarity": 0.4558841586112976}\n', '{"test case number": 147, "answer": "hospital pharmacy", "modAnswer": "direct supervision from a pharmacist", "similarity": 0.6113567352294922}\n', '{"test case number": 147, "answer": "<", "modAnswer": "direct supervision from a pharmacist", "similarity": 0.3986018896102905}\n', '{"test case number": 147, "answer": "hospital pharmacy", "modAnswer": "<", "similarity": 0.5060422420501709}\n', '{"test case number": 147, "answer": "hospital pharmacy", "modAnswer": "n", "similarity": 0.4811384677886963}\n', '{"test case number": 151, "answer": "e.g.", "modAnswer": "edwards", "similarity": 0.6506995558738708}\n', '{"test case number": 151, "answer": "m", "modAnswer": "edwards", "similarity": 0.5312680006027222}\n', '{"test case number": 151, "answer": "e.g.", "modAnswer": "m", "similarity": 0.7208840847015381}\n', '{"test case number": 151, "answer": "e.g.", "modAnswer": "a", "similarity": 0.7546041011810303}\n', '{"test case number": 151, "answer": "e.g.", "modAnswer": "u", "similarity": 0.7223491668701172}\n', '{"test case number": 151, "answer": "e.g.", "modAnswer": "r", "similarity": 0.7225257754325867}\n', '{"test case number": 151, "answer": "e.g.", "modAnswer": "u", "similarity": 0.7223491668701172}\n', '{"test case number": 151, "answer": "e.g.", "modAnswer": "s", "similarity": 0.7148129940032959}\n', '{"test case number": 152, "answer": "no answer>", "modAnswer": "1st century bc", "similarity": 0.3210771083831787}\n', '{"test case number": 152, "answer": "<", "modAnswer": "1st century bc", "similarity": 0.4358162581920624}\n', '{"test case number": 152, "answer": "no answer>", "modAnswer": "<", "similarity": 0.7895853519439697}\n', '{"test case number": 159, "answer": "ige", "modAnswer": "cytotoxic", "similarity": 0.5676329135894775}\n', '{"test case number": 161, "answer": "no answer>", "modAnswer": "a healing response that heals the body\'s own tissues.", "similarity": 0.4602608382701874}\n', '{"test case number": 161, "answer": "<", "modAnswer": "a healing response that heals the body\'s own tissues.", "similarity": 0.46410080790519714}\n', '{"test case number": 161, "answer": "no answer>", "modAnswer": "<", "similarity": 0.7895853519439697}\n', '{"test case number": 162, "answer": "no answer>", "modAnswer": "type i \\u2013 iv", "similarity": 0.5033113956451416}\n', '{"test case number": 162, "answer": "<", "modAnswer": "type i \\u2013 iv", "similarity": 0.6235798597335815}\n', '{"test case number": 162, "answer": "n", "modAnswer": "type i \\u2013 iv", "similarity": 0.5512917041778564}\n', '{"test case number": 162, "answer": "o", "modAnswer": "type i \\u2013 iv", "similarity": 0.5491670966148376}\n', '{"test case number": 162, "answer": "no answer>", "modAnswer": "<", "similarity": 0.7895853519439697}\n', '{"test case number": 163, "answer": ".........", "modAnswer": "a disease that causes harm to the body\'s own tissues.", "similarity": 0.5132593512535095}\n', '{"test case number": 163, "answer": "<", "modAnswer": "a disease that causes harm to the body\'s own tissues.", "similarity": 0.49232494831085205}\n', '{"test case number": 163, "answer": ".........", "modAnswer": "<", "similarity": 0.7876834273338318}\n', '{"test case number": 164, "answer": ".........", "modAnswer": "type iv hypersensitivity", "similarity": 0.48728200793266296}\n', '{"test case number": 164, "answer": "<", "modAnswer": "type iv hypersensitivity", "similarity": 0.49754512310028076}\n', '{"test case number": 164, "answer": ".........", "modAnswer": "<", "similarity": 0.7876834273338318}\n', '{"test case number": 165, "answer": ".........", "modAnswer": "cytotoxic hypersensitivity", "similarity": 0.5133191347122192}\n', '{"test case number": 165, "answer": "<", "modAnswer": "cytotoxic hypersensitivity", "similarity": 0.4955330193042755}\n', '{"test case number": 165, "answer": ".........", "modAnswer": "<", "similarity": 0.7876834273338318}\n', '{"test case number": 169, "answer": "port of long beach", "modAnswer": "port of los angeles", "similarity": 0.7848041653633118}\n', '{"test case number": 173, "answer": ". frontiers from between nova scotia and acadia in the north, to the ohio country", "modAnswer": "the treaty of aix-la-chapelle ended the war of the austrian", "similarity": 0.3648567199707031}\n', '{"test case number": 173, "answer": "k", "modAnswer": "the treaty of aix-la-chapelle ended the war of the austrian", "similarity": 0.2890448272228241}\n', '{"test case number": 173, "answer": ". frontiers from between nova scotia and acadia in the north, to the ohio country", "modAnswer": "k", "similarity": 0.26992595195770264}\n', '{"test case number": 175, "answer": ". frontiers from between nova scotia and acadia in the north, to the ohio country", "modAnswer": "a commission for resolution of disputes over territorial claims", "similarity": 0.4522338807582855}\n', '{"test case number": 176, "answer": "both powers wanted access to the rich fisheries of the grand banks off newfoundl", "modAnswer": "the unresolved disputes over territorial claims between british and french colonies in north america were", "similarity": 0.5224167108535767}\n', '{"test case number": 178, "answer": ". frontiers from between nova scotia and acadia in the north, to the ohio country", "modAnswer": "the treaty of aix-la-chapelle ended the war of australian success", "similarity": 0.33366331458091736}\n', '{"test case number": 178, "answer": "<", "modAnswer": "the treaty of aix-la-chapelle ended the war of australian success", "similarity": 0.1657162308692932}\n', '{"test case number": 178, "answer": ". frontiers from between nova scotia and acadia in the north, to the ohio country", "modAnswer": "<", "similarity": 0.25473731756210327}\n', '{"test case number": 179, "answer": "no answer>", "modAnswer": "the treaty of aix-la-chapelle", "similarity": 0.4325993061065674}\n', '{"test case number": 179, "answer": "<", "modAnswer": "the treaty of aix-la-chapelle", "similarity": 0.43841278553009033}\n', '{"test case number": 179, "answer": "n", "modAnswer": "the treaty of aix-la-chapelle", "similarity": 0.39917969703674316}\n', '{"test case number": 179, "answer": "no answer>", "modAnswer": "<", "similarity": 0.7895853519439697}\n', '{"test case number": 180, "answer": "the issues of conflicting territorial claims between british and french colonies in north america", "modAnswer": "the unresolved disputes over territorial claims between british and french colonies in north america were", "similarity": 0.9555224776268005}\n', '{"test case number": 181, "answer": "it reached no decision", "modAnswer": "no decision was reached", "similarity": 0.8920863270759583}\n', '{"test case number": 186, "answer": "no answer>", "modAnswer": "confrontational approaches", "similarity": 0.4563821256160736}\n', '{"test case number": 186, "answer": "<", "modAnswer": "confrontational approaches", "similarity": 0.39053279161453247}\n', '{"test case number": 186, "answer": "no answer>", "modAnswer": "<", "similarity": 0.7895853519439697}\n', '{"test case number": 188, "answer": "co-operative relationship between the principal and contractor and other stakeholders", "modAnswer": "the principal, contractor, and other stakeholders in a construction project", "similarity": 0.8673185110092163}\n', '{"test case number": 189, "answer": "public-private partnership", "modAnswer": "confrontational practices", "similarity": 0.5039240121841431}\n', '{"test case number": 189, "answer": "<", "modAnswer": "confrontational practices", "similarity": 0.3487704396247864}\n', '{"test case number": 189, "answer": "public-private partnership", "modAnswer": "<", "similarity": 0.4336032569408417}\n', '{"test case number": 191, "answer": "wianki", "modAnswer": "floating", "similarity": 0.4679240882396698}\n', '{"test case number": 191, "answer": "w", "modAnswer": "floating", "similarity": 0.41221141815185547}\n', '{"test case number": 194, "answer": "when they will be married", "modAnswer": "the timing of their marriages", "similarity": 0.7525997757911682}\n', '{"test case number": 194, "answer": "w", "modAnswer": "the timing of their marriages", "similarity": 0.28538382053375244}\n', '{"test case number": 196, "answer": "no answer>", "modAnswer": "music", "similarity": 0.4726495146751404}\n', '{"test case number": 196, "answer": "<", "modAnswer": "music", "similarity": 0.43628525733947754}\n', '{"test case number": 196, "answer": "n", "modAnswer": "music", "similarity": 0.4127345085144043}\n', '{"test case number": 196, "answer": "o", "modAnswer": "music", "similarity": 0.40706324577331543}\n', '{"test case number": 196, "answer": "no answer>", "modAnswer": "<", "similarity": 0.7895853519439697}\n', '{"test case number": 199, "answer": "when they will be married", "modAnswer": "the future of their spouses", "similarity": 0.7727175951004028}\n', '{"test case number": 204, "answer": "tolerance", "modAnswer": "acceptance of civil disobedience", "similarity": 0.6740388870239258}\n', '{"test case number": 207, "answer": "no answer>", "modAnswer": "non-violence", "similarity": 0.541337788105011}\n', '{"test case number": 207, "answer": "no answer>", "modAnswer": "c", "similarity": 0.5954132080078125}\n', '{"test case number": 207, "answer": "no answer>", "modAnswer": "i", "similarity": 0.5060669779777527}\n', '{"test case number": 207, "answer": "no answer>", "modAnswer": "v", "similarity": 0.6174816489219666}\n', '{"test case number": 207, "answer": "no answer>", "modAnswer": "i", "similarity": 0.5060669779777527}\n', '{"test case number": 207, "answer": "no answer>", "modAnswer": "l", "similarity": 0.5804510712623596}\n', '{"test case number": 209, "answer": "to help preserve society\'s tolerance", "modAnswer": "it is believed that the act of refraining from violence contributes to the maintenance of society\'", "similarity": 0.7870572805404663}\n', '{"test case number": 212, "answer": ".", "modAnswer": "a more severe defect", "similarity": 0.48333683609962463}\n', '{"test case number": 212, "answer": "<", "modAnswer": "a more severe defect", "similarity": 0.4488565921783447}\n', '{"test case number": 212, "answer": "n", "modAnswer": "a more severe defect", "similarity": 0.4256303310394287}\n', '{"test case number": 212, "answer": ".", "modAnswer": "<", "similarity": 0.7896820902824402}\n', '{"test case number": 213, "answer": "non-violent", "modAnswer": "violence", "similarity": 0.7359187602996826}\n', '{"test case number": 213, "answer": "<", "modAnswer": "violence", "similarity": 0.47050824761390686}\n', '{"test case number": 213, "answer": "non-violent", "modAnswer": "<", "similarity": 0.485181987285614}\n', '{"test case number": 214, "answer": "rebellion is much more destructive", "modAnswer": "it is more destructive than disobedience.", "similarity": 0.8548859357833862}\n', '{"test case number": 218, "answer": "the british landgrave edmund bellinger", "modAnswer": "the british crown", "similarity": 0.7206451296806335}\n', '{"test case number": 220, "answer": "pons", "modAnswer": "orsement", "similarity": 0.5389134287834167}\n', '{"test case number": 220, "answer": "<", "modAnswer": "orsement", "similarity": 0.6587415337562561}\n', '{"test case number": 220, "answer": "pons", "modAnswer": "<", "similarity": 0.5435097217559814}\n', '{"test case number": 230, "answer": "amtrak", "modAnswer": "san joaquin valley railroad", "similarity": 0.6561857461929321}\n', '{"test case number": 230, "answer": "<", "modAnswer": "san joaquin valley railroad", "similarity": 0.390938401222229}\n', '{"test case number": 230, "answer": "amtrak", "modAnswer": "<", "similarity": 0.5065268874168396}\n', '{"test case number": 230, "answer": "amtrak", "modAnswer": "n", "similarity": 0.4813518226146698}\n', '{"test case number": 230, "answer": "amtrak", "modAnswer": "o", "similarity": 0.49625876545906067}\n', '{"test case number": 231, "answer": "burlington northern santa fe railway and union pacific railroad", "modAnswer": "the burlington northern santa fe railway and the union pacific railroad", "similarity": 0.989680290222168}\n', '{"test case number": 233, "answer": "southern pacific", "modAnswer": "the san joaquin valley railroad", "similarity": 0.5810251832008362}\n', '{"test case number": 233, "answer": "<", "modAnswer": "the san joaquin valley railroad", "similarity": 0.37508976459503174}\n', '{"test case number": 233, "answer": "southern pacific", "modAnswer": "<", "similarity": 0.3527795076370239}\n', '{"test case number": 234, "answer": "southern pacific", "modAnswer": "amtrak", "similarity": 0.4201468229293823}\n', '{"test case number": 234, "answer": "<", "modAnswer": "amtrak", "similarity": 0.5065268874168396}\n', '{"test case number": 234, "answer": "n", "modAnswer": "amtrak", "similarity": 0.4813518226146698}\n', '{"test case number": 234, "answer": "o", "modAnswer": "amtrak", "similarity": 0.49625876545906067}\n', '{"test case number": 234, "answer": "southern pacific", "modAnswer": "<", "similarity": 0.3527795076370239}\n', '{"test case number": 235, "answer": "the presiding officer (or deputy presiding officer)", "modAnswer": "the presiding officer or deputy presiding officer", "similarity": 0.9886519908905029}\n', '{"test case number": 236, "answer": "the amount of time for which they are allowed to speak", "modAnswer": "the order of speakers and allocating speaking time in chamber debates", "similarity": 0.6387960910797119}\n', '{"test case number": 237, "answer": "different viewpoints and political parties", "modAnswer": "the order of speakers and the length of time allotted to each speaker.", "similarity": 0.4556368291378021}\n', '{"test case number": 240, "answer": "political parties", "modAnswer": "the speaker\'s position and the time allotted.", "similarity": 0.4033741354942322}\n', '{"test case number": 240, "answer": "<", "modAnswer": "the speaker\'s position and the time allotted.", "similarity": 0.47643813490867615}\n', '{"test case number": 240, "answer": "political parties", "modAnswer": "<", "similarity": 0.37956497073173523}\n', '{"test case number": 240, "answer": "political parties", "modAnswer": "n", "similarity": 0.3717130422592163}\n', '{"test case number": 243, "answer": "less time", "modAnswer": "5 to 20 minutes", "similarity": 0.6503568887710571}\n', '{"test case number": 243, "answer": "<", "modAnswer": "5 to 20 minutes", "similarity": 0.3462390601634979}\n', '{"test case number": 243, "answer": "less time", "modAnswer": "<", "similarity": 0.42968782782554626}\n', '{"test case number": 243, "answer": "less time", "modAnswer": "n", "similarity": 0.4761658310890198}\n', '{"test case number": 243, "answer": "less time", "modAnswer": "o", "similarity": 0.3833250403404236}\n', '{"test case number": 244, "answer": "no answer>", "modAnswer": "if necessary", "similarity": 0.4959964156150818}\n', '{"test case number": 244, "answer": "<", "modAnswer": "if necessary", "similarity": 0.5238804221153259}\n', '{"test case number": 244, "answer": "no answer>", "modAnswer": "<", "similarity": 0.7895853519439697}\n', '{"test case number": 246, "answer": "1974", "modAnswer": "1973", "similarity": 0.9604876637458801}\n', '{"test case number": 247, "answer": "to coordinate the response to the embargo", "modAnswer": "to facilitate the cooperation and management of the response to the oil embargo.", "similarity": 0.836155354976654}\n', '{"test case number": 248, "answer": "20%", "modAnswer": "one fifth", "similarity": 0.5886032581329346}\n', '{"test case number": 248, "answer": "l", "modAnswer": "one fifth", "similarity": 0.4677565097808838}\n', '{"test case number": 248, "answer": "a", "modAnswer": "one fifth", "similarity": 0.539031445980072}\n', '{"test case number": 248, "answer": "s", "modAnswer": "one fifth", "similarity": 0.47331562638282776}\n', '{"test case number": 248, "answer": "20%", "modAnswer": "l", "similarity": 0.4396097660064697}\n', '{"test case number": 248, "answer": "20%", "modAnswer": "a", "similarity": 0.42120957374572754}\n', '{"test case number": 248, "answer": "20%", "modAnswer": "s", "similarity": 0.4687338173389435}\n', '{"test case number": 248, "answer": "20%", "modAnswer": "t", "similarity": 0.4410116374492645}\n', '{"test case number": 249, "answer": "20%", "modAnswer": "one fifth", "similarity": 0.5886032581329346}\n', '{"test case number": 249, "answer": "<", "modAnswer": "one fifth", "similarity": 0.42222166061401367}\n', '{"test case number": 249, "answer": "20%", "modAnswer": "<", "similarity": 0.4713694453239441}\n', '{"test case number": 249, "answer": "20%", "modAnswer": "n", "similarity": 0.4339679777622223}\n', '{"test case number": 249, "answer": "20%", "modAnswer": "o", "similarity": 0.3843844532966614}\n', '{"test case number": 250, "answer": "first administrator of the federal energy office", "modAnswer": "the inaugural administrator of the federal energy office", "similarity": 0.8880700469017029}\n', '{"test case number": 251, "answer": "coordinate the response to the embargo", "modAnswer": "to provide transportation for all", "similarity": 0.48296838998794556}\n', '{"test case number": 251, "answer": "<", "modAnswer": "to provide transportation for all", "similarity": 0.3712906539440155}\n', '{"test case number": 251, "answer": "coordinate the response to the embargo", "modAnswer": "<", "similarity": 0.28749585151672363}\n', '{"test case number": 252, "answer": "the same amount", "modAnswer": "1 million barrel", "similarity": 0.6416136026382446}\n', '{"test case number": 252, "answer": "<", "modAnswer": "1 million barrel", "similarity": 0.5218166708946228}\n', '{"test case number": 252, "answer": "the same amount", "modAnswer": "<", "similarity": 0.4411661922931671}\n', '{"test case number": 254, "answer": "1999", "modAnswer": "1998", "similarity": 0.9602130055427551}\n', '{"test case number": 255, "answer": "michael e. mann, raymond s. bradley and malcolm k. hughes", "modAnswer": "raymond s. mann", "similarity": 0.9167214632034302}\n', '{"test case number": 256, "answer": "hockey stick graph", "modAnswer": "millennial", "similarity": 0.3532083332538605}\n', '{"test case number": 256, "answer": "t", "modAnswer": "millennial", "similarity": 0.4905064105987549}\n', '{"test case number": 256, "answer": "h", "modAnswer": "millennial", "similarity": 0.4802303612232208}\n', '{"test case number": 257, "answer": "jones et al. 1998, pollack, huang & shen 1998, crow", "modAnswer": "the reconstructions of mann et al. (1998) and briffa et", "similarity": 0.6789594888687134}\n', '{"test case number": 257, "answer": "j", "modAnswer": "the reconstructions of mann et al. (1998) and briffa et", "similarity": 0.4647396206855774}\n', '{"test case number": 259, "answer": "1999", "modAnswer": "1998", "similarity": 0.9602130055427551}\n', '{"test case number": 261, "answer": "no answer>", "modAnswer": "the second assessment report of 1995", "similarity": 0.2837078869342804}\n', '{"test case number": 261, "answer": "<", "modAnswer": "the second assessment report of 1995", "similarity": 0.24898716807365417}\n', '{"test case number": 261, "answer": "no answer>", "modAnswer": "<", "similarity": 0.7895853519439697}\n', '{"test case number": 266, "answer": "artisans and farmers", "modAnswer": "skilled craftsmen and agricultural workers", "similarity": 0.9286807775497437}\n', '{"test case number": 267, "answer": "the mongol", "modAnswer": "the governor of samarqand was king ayman", "similarity": 0.5340446829795837}\n', '{"test case number": 267, "answer": "the mongol", "modAnswer": "a", "similarity": 0.5201234817504883}\n', '{"test case number": 269, "answer": "no answer>", "modAnswer": "non-muslims", "similarity": 0.5274131894111633}\n', '{"test case number": 269, "answer": "<", "modAnswer": "non-muslims", "similarity": 0.47515803575515747}\n', '{"test case number": 269, "answer": "no answer>", "modAnswer": "<", "similarity": 0.7895853519439697}\n', '{"test case number": 270, "answer": "no answer>", "modAnswer": "zhejiang", "similarity": 0.4773220717906952}\n', '{"test case number": 270, "answer": "<", "modAnswer": "zhejiang", "similarity": 0.5511693358421326}\n', '{"test case number": 270, "answer": "no answer>", "modAnswer": "<", "similarity": 0.7895853519439697}\n', '{"test case number": 271, "answer": "artisans and farmers", "modAnswer": "agricultural workers and skilled craftsmen", "similarity": 0.9394621253013611}\n', '{"test case number": 274, "answer": "all numbers up to n = 2  1017", "modAnswer": "four", "similarity": 0.5596228241920471}\n', '{"test case number": 274, "answer": "a", "modAnswer": "four", "similarity": 0.5211275219917297}\n', '{"test case number": 274, "answer": "l", "modAnswer": "four", "similarity": 0.46119728684425354}\n', '{"test case number": 274, "answer": "l", "modAnswer": "four", "similarity": 0.46119728684425354}\n', '{"test case number": 279, "answer": "n = 2  1017", "modAnswer": "four", "similarity": 0.5865350365638733}\n', '{"test case number": 279, "answer": "<", "modAnswer": "four", "similarity": 0.3930912911891937}\n', '{"test case number": 279, "answer": "n", "modAnswer": "four", "similarity": 0.4794582724571228}\n', '{"test case number": 279, "answer": "n = 2  1017", "modAnswer": "<", "similarity": 0.6687718033790588}\n', '{"test case number": 282, "answer": "a not-for-profit united states computer networking consortium", "modAnswer": "a non-profit consortium in the united states that operates computer networking", "similarity": 0.9434078931808472}\n', '{"test case number": 283, "answer": "level 3 communications", "modAnswer": "the internet2 community and qwest", "similarity": 0.521645724773407}\n', '{"test case number": 285, "answer": "level 3 communications", "modAnswer": "the internet2 community and qwest", "similarity": 0.521645724773407}\n', '{"test case number": 287, "answer": "no answer>", "modAnswer": "the internet2 community", "similarity": 0.4594097435474396}\n', '{"test case number": 287, "answer": "<", "modAnswer": "the internet2 community", "similarity": 0.47763732075691223}\n', '{"test case number": 287, "answer": "no answer>", "modAnswer": "<", "similarity": 0.7895853519439697}\n', '{"test case number": 288, "answer": "the internet2 network", "modAnswer": "the first state-of-the-art network", "similarity": 0.6876524686813354}\n', '{"test case number": 288, "answer": "<", "modAnswer": "the first state-of-the-art network", "similarity": 0.373141884803772}\n', '{"test case number": 288, "answer": "the internet2 network", "modAnswer": "<", "similarity": 0.44116732478141785}\n', '{"test case number": 290, "answer": "the internet2 network", "modAnswer": "abilene", "similarity": 0.3930600881576538}\n', '{"test case number": 290, "answer": "<", "modAnswer": "abilene", "similarity": 0.44645991921424866}\n', '{"test case number": 290, "answer": "the internet2 network", "modAnswer": "<", "similarity": 0.44116732478141785}\n', '{"test case number": 293, "answer": "no answer>", "modAnswer": "level 3 communications", "similarity": 0.46702051162719727}\n', '{"test case number": 293, "answer": "<", "modAnswer": "level 3 communications", "similarity": 0.4633312225341797}\n', '{"test case number": 293, "answer": "no answer>", "modAnswer": "<", "similarity": 0.7895853519439697}\n', '{"test case number": 294, "answer": "no answer>", "modAnswer": "john edwards", "similarity": 0.4397103488445282}\n', '{"test case number": 294, "answer": "<", "modAnswer": "john edwards", "similarity": 0.43634822964668274}\n', '{"test case number": 294, "answer": "no answer>", "modAnswer": "<", "similarity": 0.7895853519439697}\n', '{"test case number": 297, "answer": "the end itself", "modAnswer": "being the ultimate objective", "similarity": 0.6132317185401917}\n', '{"test case number": 298, "answer": "wide[en] people\\u2019s choices and the level of their achieved well-being", "modAnswer": "to enhance individuals\' options and the degree of their overall well-being", "similarity": 0.7769956588745117}\n', '{"test case number": 299, "answer": "through increasing functionings", "modAnswer": "by expanding individuals\' options and freedoms to engage in those activities.", "similarity": 0.7186548113822937}\n', '{"test case number": 300, "answer": "the ability to pursue valued goals", "modAnswer": "the capabilities approach", "similarity": 0.6824408769607544}\n', '{"test case number": 301, "answer": "neoliberalism", "modAnswer": "a form of \\"capability deprivation\\"", "similarity": 0.5256128311157227}\n', '{"test case number": 301, "answer": "<", "modAnswer": "a form of \\"capability deprivation\\"", "similarity": 0.4387408196926117}\n', '{"test case number": 301, "answer": "neoliberalism", "modAnswer": "<", "similarity": 0.4197850823402405}\n', '{"test case number": 302, "answer": "neoliberalism", "modAnswer": "to achieve a specific goal", "similarity": 0.4511106312274933}\n', '{"test case number": 302, "answer": "<", "modAnswer": "to achieve a specific goal", "similarity": 0.43674322962760925}\n', '{"test case number": 302, "answer": "n", "modAnswer": "to achieve a specific goal", "similarity": 0.37003734707832336}\n', '{"test case number": 302, "answer": "neoliberalism", "modAnswer": "<", "similarity": 0.4197850823402405}\n', '{"test case number": 303, "answer": "no answer>", "modAnswer": "to increase individuals\' options and the degree of their overall well-being", "similarity": 0.3410490155220032}\n', '{"test case number": 303, "answer": "<", "modAnswer": "to increase individuals\' options and the degree of their overall well-being", "similarity": 0.34849369525909424}\n', '{"test case number": 303, "answer": "no answer>", "modAnswer": "<", "similarity": 0.7895853519439697}\n', '{"test case number": 304, "answer": "no answer>", "modAnswer": "if it were not for the opportunities approach, it would be a form of \\"cap", "similarity": 0.3747560679912567}\n', '{"test case number": 304, "answer": "<", "modAnswer": "if it were not for the opportunities approach, it would be a form of \\"cap", "similarity": 0.38000115752220154}\n', '{"test case number": 304, "answer": "no answer>", "modAnswer": "<", "similarity": 0.7895853519439697}\n', '{"test case number": 305, "answer": "no answer>", "modAnswer": "capacity deprivation", "similarity": 0.5153697729110718}\n', '{"test case number": 305, "answer": "<", "modAnswer": "capacity deprivation", "similarity": 0.4722042679786682}\n', '{"test case number": 305, "answer": "no answer>", "modAnswer": "<", "similarity": 0.7895853519439697}\n', '{"test case number": 312, "answer": "systemic acquired resistance", "modAnswer": "plants have their own mechanism to defend against diseases", "similarity": 0.655794620513916}\n', '{"test case number": 312, "answer": "<", "modAnswer": "plants have their own mechanism to defend against diseases", "similarity": 0.35247114300727844}\n', '{"test case number": 312, "answer": "systemic acquired resistance", "modAnswer": "<", "similarity": 0.3539360761642456}\n', '{"test case number": 314, "answer": "no answer>", "modAnswer": "phagocytic cells", "similarity": 0.46365290880203247}\n', '{"test case number": 314, "answer": "<", "modAnswer": "phagocytic cells", "similarity": 0.4690393805503845}\n', '{"test case number": 314, "answer": "n", "modAnswer": "phagocytic cells", "similarity": 0.5015990734100342}\n', '{"test case number": 314, "answer": "no answer>", "modAnswer": "<", "similarity": 0.7895853519439697}\n', '{"test case number": 315, "answer": "phagocytic cells", "modAnswer": "animals", "similarity": 0.6429303884506226}\n', '{"test case number": 315, "answer": "<", "modAnswer": "animals", "similarity": 0.466841459274292}\n', '{"test case number": 315, "answer": "phagocytic cells", "modAnswer": "<", "similarity": 0.4690393805503845}\n', '{"test case number": 315, "answer": "phagocytic cells", "modAnswer": "n", "similarity": 0.5015990734100342}\n', '{"test case number": 316, "answer": "simple expansion steam engine", "modAnswer": "oscillating cylinder steam engine", "similarity": 0.900300145149231}\n', '{"test case number": 318, "answer": "models", "modAnswer": "ships", "similarity": 0.4330058693885803}\n', '{"test case number": 318, "answer": "m", "modAnswer": "ships", "similarity": 0.3711727261543274}\n', '{"test case number": 318, "answer": "o", "modAnswer": "ships", "similarity": 0.3691472113132477}\n', '{"test case number": 318, "answer": "d", "modAnswer": "ships", "similarity": 0.32206785678863525}\n', '{"test case number": 318, "answer": "e", "modAnswer": "ships", "similarity": 0.32001635432243347}\n', '{"test case number": 318, "answer": "l", "modAnswer": "ships", "similarity": 0.3705635070800781}\n', '{"test case number": 320, "answer": "simple expansion steam engine", "modAnswer": "oscillating cylinder steam engine", "similarity": 0.900300145149231}\n', '{"test case number": 321, "answer": "trunnion", "modAnswer": "stationary port face", "similarity": 0.5004469752311707}\n', '{"test case number": 321, "answer": "<", "modAnswer": "stationary port face", "similarity": 0.5157961249351501}\n', '{"test case number": 321, "answer": "trunnion", "modAnswer": "<", "similarity": 0.586578369140625}\n', '{"test case number": 322, "answer": "models", "modAnswer": "ships", "similarity": 0.4330058693885803}\n', '{"test case number": 322, "answer": "<", "modAnswer": "ships", "similarity": 0.411101758480072}\n', '{"test case number": 322, "answer": "n", "modAnswer": "ships", "similarity": 0.3570747673511505}\n', '{"test case number": 322, "answer": "o", "modAnswer": "ships", "similarity": 0.3691472113132477}\n', '{"test case number": 322, "answer": "models", "modAnswer": "<", "similarity": 0.4643811583518982}\n', '{"test case number": 322, "answer": "models", "modAnswer": "n", "similarity": 0.4638293385505676}\n', '{"test case number": 324, "answer": "trunnion", "modAnswer": "oscillating cylinder steam engine", "similarity": 0.5518600940704346}\n', '{"test case number": 324, "answer": "<", "modAnswer": "oscillating cylinder steam engine", "similarity": 0.4346453547477722}\n', '{"test case number": 324, "answer": "trunnion", "modAnswer": "<", "similarity": 0.586578369140625}\n', '{"test case number": 325, "answer": "forces that act normal to the cross-sectional area", "modAnswer": "the cross-sectional area is perpendicular to the cross-sectional area", "similarity": 0.7928252220153809}\n', '{"test case number": 326, "answer": "the stress-tensor", "modAnswer": "the volume", "similarity": 0.44780591130256653}\n', '{"test case number": 326, "answer": "p", "modAnswer": "the volume", "similarity": 0.5345156788825989}\n', '{"test case number": 326, "answer": "r", "modAnswer": "the volume", "similarity": 0.42005330324172974}\n', '{"test case number": 326, "answer": "the stress-tensor", "modAnswer": "p", "similarity": 0.5155011415481567}\n', '{"test case number": 327, "answer": "pressure terms", "modAnswer": "the cross-sectional area is perpendicular to the cross-sectional area", "similarity": 0.5200567841529846}\n', '{"test case number": 328, "answer": "formalism", "modAnswer": "the stress-tensor", "similarity": 0.5545263886451721}\n', '{"test case number": 328, "answer": "f", "modAnswer": "the stress-tensor", "similarity": 0.5553846955299377}\n', '{"test case number": 329, "answer": "no answer>", "modAnswer": "the cross-sectional area is perpendicular to the cross-sectional area", "similarity": 0.38672909140586853}\n', '{"test case number": 329, "answer": "<", "modAnswer": "the cross-sectional area is perpendicular to the cross-sectional area", "similarity": 0.4541688561439514}\n', '{"test case number": 329, "answer": "no answer>", "modAnswer": "<", "similarity": 0.7895853519439697}\n', '{"test case number": 330, "answer": "tensile stresses and compressions", "modAnswer": "the stress-tensor takes into account all forces that lead to various strains,", "similarity": 0.7433106899261475}\n', '{"test case number": 330, "answer": "<", "modAnswer": "the stress-tensor takes into account all forces that lead to various strains,", "similarity": 0.3830319046974182}\n', '{"test case number": 330, "answer": "tensile stresses and compressions", "modAnswer": "<", "similarity": 0.4174709916114807}\n', '{"test case number": 331, "answer": "no answer>", "modAnswer": "the cross-sectional area is perpendicular to the cross-sectional area", "similarity": 0.38672909140586853}\n', '{"test case number": 331, "answer": "<", "modAnswer": "the cross-sectional area is perpendicular to the cross-sectional area", "similarity": 0.4541688561439514}\n', '{"test case number": 331, "answer": "no answer>", "modAnswer": "<", "similarity": 0.7895853519439697}\n', '{"test case number": 332, "answer": "off-diagonal elements", "modAnswer": "the cross-sectional area is perpendicular to the area", "similarity": 0.7329006195068359}\n', '{"test case number": 332, "answer": "<", "modAnswer": "the cross-sectional area is perpendicular to the area", "similarity": 0.43065404891967773}\n', '{"test case number": 332, "answer": "off-diagonal elements", "modAnswer": "<", "similarity": 0.42086637020111084}\n', '{"test case number": 333, "answer": "86.66%", "modAnswer": "7 square miles or 1,962 square kilometers", "similarity": 0.5449327826499939}\n', '{"test case number": 333, "answer": "8", "modAnswer": "7 square miles or 1,962 square kilometers", "similarity": 0.5214015245437622}\n', '{"test case number": 334, "answer": "the st. johns river", "modAnswer": "the johns river", "similarity": 0.8777493238449097}\n', '{"test case number": 335, "answer": "the trout river", "modAnswer": "the johns river", "similarity": 0.8086216449737549}\n', '{"test case number": 336, "answer": "13.34%", "modAnswer": "7 square miles or 302 square kilometers", "similarity": 0.5122371315956116}\n', '{"test case number": 336, "answer": "1", "modAnswer": "7 square miles or 302 square kilometers", "similarity": 0.41107112169265747}\n', '{"test case number": 338, "answer": "yes", "modAnswer": "no", "similarity": 0.7259047031402588}\n', '{"test case number": 338, "answer": "<", "modAnswer": "no", "similarity": 0.6826366782188416}\n', '{"test case number": 338, "answer": "yes", "modAnswer": "<", "similarity": 0.6863870024681091}\n', '{"test case number": 338, "answer": "yes", "modAnswer": "n", "similarity": 0.6238840222358704}\n', '{"test case number": 338, "answer": "yes", "modAnswer": "o", "similarity": 0.6922246813774109}\n', '{"test case number": 339, "answer": "st. johns river", "modAnswer": "the johns river", "similarity": 0.8688827753067017}\n', '{"test case number": 340, "answer": "874.3 square miles", "modAnswer": "acreage", "similarity": 0.3755936026573181}\n', '{"test case number": 340, "answer": "<", "modAnswer": "acreage", "similarity": 0.4122515916824341}\n', '{"test case number": 340, "answer": "n", "modAnswer": "acreage", "similarity": 0.4168736934661865}\n', '{"test case number": 340, "answer": "o", "modAnswer": "acreage", "similarity": 0.3356635570526123}\n', '{"test case number": 340, "answer": "874.3 square miles", "modAnswer": "<", "similarity": 0.24856987595558167}\n', '{"test case number": 340, "answer": "874.3 square miles", "modAnswer": "n", "similarity": 0.2982974946498871}\n', '{"test case number": 340, "answer": "874.3 square miles", "modAnswer": "o", "similarity": 0.25337842106819153}\n', '{"test case number": 341, "answer": "st. john\'s river", "modAnswer": "the johns river", "similarity": 0.7864941358566284}\n', '{"test case number": 343, "answer": "the bible in vernacular languages", "modAnswer": "having the bible accessible in vernacular languages.", "similarity": 0.8854460120201111}\n', '{"test case number": 344, "answer": "1294", "modAnswer": "1487", "similarity": 0.8489067554473877}\n', '{"test case number": 345, "answer": "guyard de moulin", "modAnswer": "a french translator", "similarity": 0.6497721076011658}\n', '{"test case number": 345, "answer": "g", "modAnswer": "a french translator", "similarity": 0.4354466199874878}\n', '{"test case number": 345, "answer": "u", "modAnswer": "a french translator", "similarity": 0.48834294080734253}\n', '{"test case number": 345, "answer": "y", "modAnswer": "a french translator", "similarity": 0.49126508831977844}\n', '{"test case number": 348, "answer": "1487", "modAnswer": "1294", "similarity": 0.8489067554473877}\n', '{"test case number": 358, "answer": "protestant rule was dead", "modAnswer": "the city of montpellier was given control over the political institutions and the university.", "similarity": 0.5395099520683289}\n', '{"test case number": 358, "answer": "<", "modAnswer": "the city of montpellier was given control over the political institutions and the university.", "similarity": 0.27543389797210693}\n', '{"test case number": 358, "answer": "protestant rule was dead", "modAnswer": "<", "similarity": 0.28134697675704956}\n', '{"test case number": 359, "answer": "ville de s\\u00fbret\\u00e9", "modAnswer": "the city of montpellier", "similarity": 0.7137035131454468}\n', '{"test case number": 359, "answer": "<", "modAnswer": "the city of montpellier", "similarity": 0.41509395837783813}\n', '{"test case number": 359, "answer": "ville de s\\u00fbret\\u00e9", "modAnswer": "<", "similarity": 0.5661022663116455}\n', '{"test case number": 359, "answer": "ville de s\\u00fbret\\u00e9", "modAnswer": "n", "similarity": 0.5483440160751343}\n', '{"test case number": 359, "answer": "ville de s\\u00fbret\\u00e9", "modAnswer": "o", "similarity": 0.5682849884033203}\n', '{"test case number": 363, "answer": ".", "modAnswer": "matter", "similarity": 0.6042162775993347}\n', '{"test case number": 363, "answer": "i", "modAnswer": "matter", "similarity": 0.4496443569660187}\n', '{"test case number": 363, "answer": "d", "modAnswer": "matter", "similarity": 0.43611815571784973}\n', '{"test case number": 363, "answer": ".", "modAnswer": "i", "similarity": 0.7269445657730103}\n', '{"test case number": 363, "answer": ".", "modAnswer": "d", "similarity": 0.7229452729225159}\n', '{"test case number": 363, "answer": ".", "modAnswer": "e", "similarity": 0.7125334739685059}\n', '{"test case number": 363, "answer": ".", "modAnswer": "a", "similarity": 0.8141911029815674}\n', '{"test case number": 364, "answer": "no answer>", "modAnswer": ".", "similarity": 0.7051514387130737}\n', '{"test case number": 364, "answer": "t", "modAnswer": ".", "similarity": 0.7777215242385864}\n', '{"test case number": 364, "answer": "no answer>", "modAnswer": "t", "similarity": 0.6656343936920166}\n', '{"test case number": 364, "answer": "no answer>", "modAnswer": "h", "similarity": 0.6539949774742126}\n', '{"test case number": 366, "answer": "other parts of an object", "modAnswer": "other parts of the same object", "similarity": 0.9756932854652405}\n', '{"test case number": 367, "answer": ".", "modAnswer": "a complex structure", "similarity": 0.5037551522254944}\n', '{"test case number": 367, "answer": ".", "modAnswer": "e", "similarity": 0.7125334739685059}\n', '{"test case number": 367, "answer": ".", "modAnswer": "x", "similarity": 0.7288268208503723}\n', '{"test case number": 367, "answer": ".", "modAnswer": "t", "similarity": 0.7777215242385864}\n', '{"test case number": 368, "answer": "no answer>", "modAnswer": "idealized point particles", "similarity": 0.4131946265697479}\n', '{"test case number": 368, "answer": "<", "modAnswer": "idealized point particles", "similarity": 0.3804800808429718}\n', '{"test case number": 368, "answer": "no answer>", "modAnswer": "<", "similarity": 0.7895853519439697}\n', '{"test case number": 369, "answer": "idealized point particles", "modAnswer": "objects in three dimensions", "similarity": 0.6375382542610168}\n', '{"test case number": 369, "answer": "<", "modAnswer": "objects in three dimensions", "similarity": 0.46230214834213257}\n', '{"test case number": 369, "answer": "idealized point particles", "modAnswer": "<", "similarity": 0.3804800808429718}\n', '{"test case number": 370, "answer": "along the pressure gradients", "modAnswer": "the lattice holding atoms together can change shape, expand, contract, or", "similarity": 0.5549576282501221}\n', '{"test case number": 370, "answer": "<", "modAnswer": "the lattice holding atoms together can change shape, expand, contract, or", "similarity": 0.3371974229812622}\n', '{"test case number": 370, "answer": "along the pressure gradients", "modAnswer": "<", "similarity": 0.34124988317489624}\n', '{"test case number": 371, "answer": "newton\'s laws", "modAnswer": "newton\'s mechanics", "similarity": 0.8471348285675049}\n', '{"test case number": 373, "answer": "international law and public law", "modAnswer": "the principle of legal certainty", "similarity": 0.7145212888717651}\n', '{"test case number": 374, "answer": "a proper legal basis", "modAnswer": "a sound legal foundation", "similarity": 0.8967630863189697}\n', '{"test case number": 375, "answer": "principles of legal certainty and good faith", "modAnswer": "the doctrine of legitimate expectation has roots in international law and public law.", "similarity": 0.8180279731750488}\n', '{"test case number": 376, "answer": "ex post facto laws", "modAnswer": "a law that retroactively criminalizes an action that was legal at the time it", "similarity": 0.7353561520576477}\n', '{"test case number": 376, "answer": "<", "modAnswer": "a law that retroactively criminalizes an action that was legal at the time it", "similarity": 0.36376574635505676}\n', '{"test case number": 376, "answer": "ex post facto laws", "modAnswer": "<", "similarity": 0.5015332102775574}\n', '{"test case number": 376, "answer": "ex post facto laws", "modAnswer": "n", "similarity": 0.4770965576171875}\n', '{"test case number": 377, "answer": "no answer>", "modAnswer": "the principle of legal certainty", "similarity": 0.40779730677604675}\n', '{"test case number": 377, "answer": "<", "modAnswer": "the principle of legal certainty", "similarity": 0.3955816626548767}\n', '{"test case number": 377, "answer": "no answer>", "modAnswer": "<", "similarity": 0.7895853519439697}\n', '{"test case number": 378, "answer": ".", "modAnswer": "the edicts of 1968", "similarity": 0.3517181873321533}\n', '{"test case number": 378, "answer": "<", "modAnswer": "the edicts of 1968", "similarity": 0.2502330541610718}\n', '{"test case number": 378, "answer": "n", "modAnswer": "the edicts of 1968", "similarity": 0.27947017550468445}\n', '{"test case number": 378, "answer": ".", "modAnswer": "<", "similarity": 0.7896820902824402}\n', '{"test case number": 379, "answer": "a proper legal basis", "modAnswer": "a sound legal foundation", "similarity": 0.8967630863189697}\n', '{"test case number": 380, "answer": "no answer>", "modAnswer": "legislation that retroactively criminalizes an action that was legal at the time it was committed", "similarity": 0.3544979393482208}\n', '{"test case number": 380, "answer": "<", "modAnswer": "legislation that retroactively criminalizes an action that was legal at the time it was committed", "similarity": 0.33753710985183716}\n', '{"test case number": 380, "answer": "no answer>", "modAnswer": "<", "similarity": 0.7895853519439697}\n', '{"test case number": 381, "answer": "khanbaliq", "modAnswer": "in a cave", "similarity": 0.5346540212631226}\n', '{"test case number": 381, "answer": "s", "modAnswer": "in a cave", "similarity": 0.4382495582103729}\n', '{"test case number": 381, "answer": "h", "modAnswer": "in a cave", "similarity": 0.5036590695381165}\n', '{"test case number": 381, "answer": "khanbaliq", "modAnswer": "s", "similarity": 0.5877012610435486}\n', '{"test case number": 386, "answer": "yes\\u00fcn temur", "modAnswer": "he was killed by a poisoned horse.", "similarity": 0.5250033736228943}\n', '{"test case number": 386, "answer": "<", "modAnswer": "he was killed by a poisoned horse.", "similarity": 0.39354100823402405}\n', '{"test case number": 386, "answer": "yes\\u00fcn temur", "modAnswer": "<", "similarity": 0.6602287292480469}\n', '{"test case number": 389, "answer": "yes\\u00fcn tem\\u00fcr", "modAnswer": "yes\\u00fcn temur", "similarity": 1.0}\n', '{"test case number": 393, "answer": "income inequality", "modAnswer": "because of the ad valorem property tax policy and increasing prices", "similarity": 0.674071192741394}\n', '{"test case number": 393, "answer": "income inequality", "modAnswer": "d", "similarity": 0.3718408942222595}\n', '{"test case number": 396, "answer": "no answer>", "modAnswer": "a shortage of affordable housing", "similarity": 0.4805658161640167}\n', '{"test case number": 396, "answer": "<", "modAnswer": "a shortage of affordable housing", "similarity": 0.41338884830474854}\n', '{"test case number": 396, "answer": "no answer>", "modAnswer": "<", "similarity": 0.7895853519439697}\n', '{"test case number": 398, "answer": "income inequality", "modAnswer": "because of the ad valorem property tax policy and increasing prices", "similarity": 0.674071192741394}\n', '{"test case number": 398, "answer": "<", "modAnswer": "because of the ad valorem property tax policy and increasing prices", "similarity": 0.3077080249786377}\n', '{"test case number": 398, "answer": "income inequality", "modAnswer": "<", "similarity": 0.41348838806152344}\n', '{"test case number": 403, "answer": "1695\\u20131696", "modAnswer": "1695 to 1696", "similarity": 0.9520276784896851}\n', '{"test case number": 404, "answer": "the city council", "modAnswer": "the residents of centrum", "similarity": 0.6131207346916199}\n', '{"test case number": 408, "answer": "1994\\u20131999", "modAnswer": "1994 to 1999", "similarity": 0.8747397065162659}\n', '{"test case number": 409, "answer": "the city council", "modAnswer": "the residents of centrum", "similarity": 0.6131207346916199}\n', '{"test case number": 409, "answer": "<", "modAnswer": "the residents of centrum", "similarity": 0.4023669958114624}\n', '{"test case number": 409, "answer": "the city council", "modAnswer": "<", "similarity": 0.394275963306427}\n', '{"test case number": 412, "answer": "several d&b contractors", "modAnswer": "various d&b contractors", "similarity": 0.959702730178833}\n', '{"test case number": 414, "answer": "a consortium of several contractors", "modAnswer": "multiple contractors", "similarity": 0.8839271068572998}\n', '{"test case number": 415, "answer": "the owner produces a list of requirements for a project", "modAnswer": "they plan and develop phase 2.", "similarity": 0.6352347135543823}\n', '{"test case number": 416, "answer": "a list of requirements", "modAnswer": "a comprehensive list of requirements", "similarity": 0.9607594013214111}\n', '{"test case number": 417, "answer": "a list of requirements", "modAnswer": "a comprehensive list of requirements", "similarity": 0.9607594013214111}\n', '{"test case number": 418, "answer": "a list of requirements", "modAnswer": "they provide a comprehensive list of requirements", "similarity": 0.8546508550643921}\n', '{"test case number": 419, "answer": "a consortium of several contractors", "modAnswer": "a group of contractors", "similarity": 0.865060031414032}\n', '{"test case number": 420, "answer": "the project is completely designed by the owner, then bid on, then completed", "modAnswer": "phase 2 is where the owner completes the design, puts it out for bidding, and", "similarity": 0.8427459597587585}\n', '{"test case number": 421, "answer": "thoreau", "modAnswer": "the author argues that individuals have a moral duty to act according to their conscience.", "similarity": 0.41129833459854126}\n', '{"test case number": 423, "answer": "the collective", "modAnswer": "individuals have a moral duty to resist unjust laws.", "similarity": 0.5155365467071533}\n', '{"test case number": 423, "answer": "the collective", "modAnswer": "n", "similarity": 0.46934759616851807}\n', '{"test case number": 424, "answer": "resign", "modAnswer": "to resist unjust laws.", "similarity": 0.49508240818977356}\n', '{"test case number": 425, "answer": "elite politicians", "modAnswer": "a majority", "similarity": 0.49813181161880493}\n', '{"test case number": 425, "answer": "e", "modAnswer": "a majority", "similarity": 0.3817157745361328}\n', '{"test case number": 425, "answer": "l", "modAnswer": "a majority", "similarity": 0.4243471920490265}\n', '{"test case number": 427, "answer": "the individual", "modAnswer": "individuals", "similarity": 0.8863667249679565}\n', '{"test case number": 428, "answer": "no answer>", "modAnswer": "martin luther", "similarity": 0.35837745666503906}\n', '{"test case number": 428, "answer": "no answer>", "modAnswer": "t", "similarity": 0.6656343936920166}\n', '{"test case number": 428, "answer": "no answer>", "modAnswer": "h", "similarity": 0.6539949774742126}\n', '{"test case number": 429, "answer": "\\"resign.\\"", "modAnswer": "to resign.", "similarity": 0.8975204229354858}\n', '{"test case number": 430, "answer": "the collective", "modAnswer": "that individuals have a moral duty to resist unjust laws even if it means def", "similarity": 0.46406492590904236}\n', '{"test case number": 430, "answer": "the collective", "modAnswer": "n", "similarity": 0.46934759616851807}\n', '{"test case number": 431, "answer": "the collective", "modAnswer": "he believed that individuals have a moral duty to resist unjust laws.", "similarity": 0.43916139006614685}\n', '{"test case number": 431, "answer": "<", "modAnswer": "he believed that individuals have a moral duty to resist unjust laws.", "similarity": 0.2646454870700836}\n', '{"test case number": 431, "answer": "the collective", "modAnswer": "<", "similarity": 0.46098077297210693}\n', '{"test case number": 431, "answer": "the collective", "modAnswer": "n", "similarity": 0.46934759616851807}\n', '{"test case number": 433, "answer": "the individual", "modAnswer": "the tax collector", "similarity": 0.5881657004356384}\n', '{"test case number": 433, "answer": "<", "modAnswer": "the tax collector", "similarity": 0.45974045991897583}\n', '{"test case number": 433, "answer": "n", "modAnswer": "the tax collector", "similarity": 0.4399307668209076}\n', '{"test case number": 433, "answer": "the individual", "modAnswer": "<", "similarity": 0.5430419445037842}\n', '{"test case number": 434, "answer": "resign", "modAnswer": "to resist unjust laws.", "similarity": 0.49508240818977356}\n', '{"test case number": 434, "answer": "<", "modAnswer": "to resist unjust laws.", "similarity": 0.3742193877696991}\n', '{"test case number": 434, "answer": "resign", "modAnswer": "<", "similarity": 0.41259652376174927}\n', '{"test case number": 435, "answer": "the majority", "modAnswer": "the people", "similarity": 0.6000086665153503}\n', '{"test case number": 435, "answer": "<", "modAnswer": "the people", "similarity": 0.5198982954025269}\n', '{"test case number": 435, "answer": "n", "modAnswer": "the people", "similarity": 0.5174124836921692}\n', '{"test case number": 435, "answer": "the majority", "modAnswer": "<", "similarity": 0.4709705412387848}\n', '{"test case number": 435, "answer": "the majority", "modAnswer": "n", "similarity": 0.41415512561798096}\n', '{"test case number": 439, "answer": "gastric acid and proteases", "modAnswer": "stomach acid and proteases", "similarity": 0.9486663341522217}\n', '{"test case number": 443, "answer": "-defensins", "modAnswer": "breast milk", "similarity": 0.5445876717567444}\n', '{"test case number": 443, "answer": "<", "modAnswer": "breast milk", "similarity": 0.550776481628418}\n', '{"test case number": 443, "answer": "n", "modAnswer": "breast milk", "similarity": 0.5704706311225891}\n', '{"test case number": 443, "answer": "o", "modAnswer": "breast milk", "similarity": 0.5078386664390564}\n', '{"test case number": 443, "answer": "-defensins", "modAnswer": "<", "similarity": 0.6466439366340637}\n', '{"test case number": 444, "answer": "when they become slightly acidic", "modAnswer": "after the onset of menarche", "similarity": 0.4464704990386963}\n', '{"test case number": 444, "answer": "<", "modAnswer": "after the onset of menarche", "similarity": 0.37159445881843567}\n', '{"test case number": 444, "answer": "when they become slightly acidic", "modAnswer": "<", "similarity": 0.41770440340042114}\n', '{"test case number": 445, "answer": "-defensins", "modAnswer": "stomach acid and proteases in the stomach", "similarity": 0.6350275278091431}\n', '{"test case number": 445, "answer": "<", "modAnswer": "stomach acid and proteases in the stomach", "similarity": 0.5150517821311951}\n', '{"test case number": 445, "answer": "-defensins", "modAnswer": "<", "similarity": 0.6466439366340637}\n', '{"test case number": 450, "answer": ".", "modAnswer": "neurology", "similarity": 0.5269315838813782}\n', '{"test case number": 450, "answer": "<", "modAnswer": "neurology", "similarity": 0.4711149334907532}\n', '{"test case number": 450, "answer": ".", "modAnswer": "<", "similarity": 0.7896820902824402}\n', '{"test case number": 451, "answer": "no answer>", "modAnswer": "in 1901", "similarity": 0.11660491675138474}\n', '{"test case number": 451, "answer": "<", "modAnswer": "in 1901", "similarity": 0.18050915002822876}\n', '{"test case number": 451, "answer": "no answer>", "modAnswer": "<", "similarity": 0.7895853519439697}\n', '{"test case number": 453, "answer": ".........", "modAnswer": "pasteur", "similarity": 0.5394360423088074}\n', '{"test case number": 453, "answer": "<", "modAnswer": "pasteur", "similarity": 0.5022389888763428}\n', '{"test case number": 453, "answer": "n", "modAnswer": "pasteur", "similarity": 0.5125898718833923}\n', '{"test case number": 453, "answer": "o", "modAnswer": "pasteur", "similarity": 0.4654124081134796}\n', '{"test case number": 453, "answer": ".........", "modAnswer": "<", "similarity": 0.7876834273338318}\n', '{"test case number": 456, "answer": "the scottish government", "modAnswer": "members of the scottish parliament", "similarity": 0.7621127367019653}\n', '{"test case number": 457, "answer": "a private member", "modAnswer": "private members", "similarity": 0.918893575668335}\n', '{"test case number": 458, "answer": "an outside proposer", "modAnswer": "outside individuals or organizations", "similarity": 0.5178292989730835}\n', '{"test case number": 459, "answer": "in a number of stages", "modAnswer": "as private members", "similarity": 0.27146339416503906}\n', '{"test case number": 460, "answer": "no answer>", "modAnswer": "bills", "similarity": 0.48391276597976685}\n', '{"test case number": 460, "answer": "<", "modAnswer": "bills", "similarity": 0.5102128386497498}\n', '{"test case number": 460, "answer": "n", "modAnswer": "bills", "similarity": 0.45921656489372253}\n', '{"test case number": 460, "answer": "o", "modAnswer": "bills", "similarity": 0.4250844419002533}\n', '{"test case number": 460, "answer": "no answer>", "modAnswer": "<", "similarity": 0.7895853519439697}\n', '{"test case number": 461, "answer": "a bill in one of the areas under its remit", "modAnswer": "a bill within its specific area of responsibility", "similarity": 0.9146461486816406}\n', '{"test case number": 462, "answer": "no answer>", "modAnswer": "a committee of the parliament", "similarity": 0.40614426136016846}\n', '{"test case number": 462, "answer": "<", "modAnswer": "a committee of the parliament", "similarity": 0.40878570079803467}\n', '{"test case number": 462, "answer": "no answer>", "modAnswer": "<", "similarity": 0.7895853519439697}\n', '{"test case number": 463, "answer": "no answer>", "modAnswer": "a committee of the parliament", "similarity": 0.40614426136016846}\n', '{"test case number": 463, "answer": "<", "modAnswer": "a committee of the parliament", "similarity": 0.40878570079803467}\n', '{"test case number": 463, "answer": "no answer>", "modAnswer": "<", "similarity": 0.7895853519439697}\n', '{"test case number": 469, "answer": "no answer>", "modAnswer": "western khanates", "similarity": 0.3933071494102478}\n', '{"test case number": 471, "answer": "tibetan buddhism", "modAnswer": "religion", "similarity": 0.7006058692932129}\n', '{"test case number": 471, "answer": "t", "modAnswer": "religion", "similarity": 0.43843013048171997}\n', '{"test case number": 474, "answer": "the yuan dynasty", "modAnswer": "western khanates", "similarity": 0.5599079728126526}\n', '{"test case number": 474, "answer": "<", "modAnswer": "western khanates", "similarity": 0.39273273944854736}\n', '{"test case number": 474, "answer": "the yuan dynasty", "modAnswer": "<", "similarity": 0.4688616394996643}\n', '{"test case number": 477, "answer": "islam", "modAnswer": "the yuan sect", "similarity": 0.7054051160812378}\n', '{"test case number": 477, "answer": "<", "modAnswer": "the yuan sect", "similarity": 0.5458974838256836}\n', '{"test case number": 477, "answer": "islam", "modAnswer": "<", "similarity": 0.4871378242969513}\n', '{"test case number": 477, "answer": "islam", "modAnswer": "n", "similarity": 0.44414597749710083}\n', '{"test case number": 477, "answer": "islam", "modAnswer": "o", "similarity": 0.45932579040527344}\n', '{"test case number": 479, "answer": "up to four minutes", "modAnswer": "maximum of four minutes", "similarity": 0.8992681503295898}\n', '{"test case number": 482, "answer": "nominate speakers", "modAnswer": "to put forward speakers for nomination.", "similarity": 0.7584318518638611}\n', '{"test case number": 483, "answer": "no answer>", "modAnswer": "prayer", "similarity": 0.6071541905403137}\n', '{"test case number": 483, "answer": "<", "modAnswer": "prayer", "similarity": 0.5603243112564087}\n', '{"test case number": 483, "answer": "n", "modAnswer": "prayer", "similarity": 0.4615331292152405}\n', '{"test case number": 483, "answer": "o", "modAnswer": "prayer", "similarity": 0.4959940016269684}\n', '{"test case number": 483, "answer": "no answer>", "modAnswer": "<", "similarity": 0.7895853519439697}\n', '{"test case number": 485, "answer": "prayer", "modAnswer": "time for reflection", "similarity": 0.5514659285545349}\n', '{"test case number": 485, "answer": "<", "modAnswer": "time for reflection", "similarity": 0.4895550012588501}\n', '{"test case number": 485, "answer": "prayer", "modAnswer": "<", "similarity": 0.5603243112564087}\n', '{"test case number": 485, "answer": "prayer", "modAnswer": "n", "similarity": 0.4615331292152405}\n', '{"test case number": 485, "answer": "prayer", "modAnswer": "o", "similarity": 0.4959940016269684}\n', '{"test case number": 489, "answer": "economic center", "modAnswer": "economic hub", "similarity": 0.9290927052497864}\n', '{"test case number": 491, "answer": "demographics and economic ties", "modAnswer": "demographics and economic connections", "similarity": 0.9796279072761536}\n', '{"test case number": 496, "answer": "medicines, tobacco and patent medicines", "modAnswer": "medicines and tobacco", "similarity": 0.8971916437149048}\n', '{"test case number": 497, "answer": "sorcery or even poison", "modAnswer": "sorcery or even toxicity", "similarity": 0.9269452095031738}\n', '{"test case number": 498, "answer": "outdated or only approproriate", "modAnswer": "it is now considered outdated.", "similarity": 0.79144287109375}\n', '{"test case number": 499, "answer": "many other herbs not listed", "modAnswer": "various other herbs", "similarity": 0.8980478048324585}\n', '{"test case number": 500, "answer": "no answer>", "modAnswer": "tainted or noxious products", "similarity": 0.46882694959640503}\n', '{"test case number": 500, "answer": "<", "modAnswer": "tainted or noxious products", "similarity": 0.47982802987098694}\n', '{"test case number": 500, "answer": "no answer>", "modAnswer": "<", "similarity": 0.7895853519439697}']

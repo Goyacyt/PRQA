@@ -1,0 +1,56 @@
+{"test case number": 0, "answer": "yes", "modAnswer": "american", "similarity": 0.45858514308929443}
+
+{"test case number": 4, "answer": "big stone gap", "modAnswer": "greenwich village", "similarity": 0.40727874636650085}
+
+{"test case number": 6, "answer": "enasul fateh", "modAnswer": "dr. comer", "similarity": 0.5262863039970398}
+
+{"test case number": 12, "answer": "1994", "modAnswer": "1999", "similarity": 0.8567774295806885}
+
+{"test case number": 22, "answer": "a universal remote can control other brands of consumer electronics devices.", "modAnswer": "a universal remote can operate various brands of consumer electronics devices.", "similarity": 0.9705603122711182}
+
+{"test case number": 24, "answer": "the iffhs world's best goalkeeper.", "modAnswer": "goalkeeper of the year", "similarity": 0.7844663262367249}
+
+{"test case number": 29, "answer": "the journey into the unknown.", "modAnswer": "arena of khazan", "similarity": 0.4903455376625061}
+
+{"test case number": 35, "answer": "the russian civil war", "modAnswer": "the war ended when the united states invaded the serbian border.", "similarity": 0.5373257994651794}
+
+{"test case number": 39, "answer": "philadelphia", "modAnswer": "columbia", "similarity": 0.5251255035400391}
+
+{"test case number": 40, "answer": "the teddy roosevelt terrier", "modAnswer": "the scotch collie", "similarity": 0.5400722026824951}
+
+{"test case number": 47, "answer": "a new party", "modAnswer": "a summit of nobel peace laureates", "similarity": 0.36263802647590637}
+
+{"test case number": 51, "answer": "44", "modAnswer": "1,462", "similarity": 0.7423169612884521}
+
+{"test case number": 54, "answer": "max martin, savan kotecha, and ilya salmanzadeh", "modAnswer": "starsmith", "similarity": 0.46338868141174316}
+
+{"test case number": 58, "answer": "4,453", "modAnswer": "4,457", "similarity": 0.9912290573120117}
+
+{"test case number": 60, "answer": "first time a team from an expansion team made the playoffs", "modAnswer": "first wnba team without a brother team", "similarity": 0.7304436564445496}
+
+{"test case number": 65, "answer": "\"charmed\"", "modAnswer": "paige matthews", "similarity": 0.5211074948310852}
+
+{"test case number": 67, "answer": "ricki-lee coulter", "modAnswer": "mario winans", "similarity": 0.7879341840744019}
+
+{"test case number": 68, "answer": "prince huge", "modAnswer": "the episode guest stars of the hard easy", "similarity": 0.32957831025123596}
+
+{"test case number": 69, "answer": "the trinidad and tobago league cup", "modAnswer": "the carabao cup", "similarity": 0.7137295603752136}
+
+{"test case number": 70, "answer": "\"teen titans go!\"", "modAnswer": "\"rugrats\"", "similarity": 0.7038463950157166}
+
+{"test case number": 75, "answer": "john \"john\" alexander florence", "modAnswer": "john alexander florence", "similarity": 0.9532334804534912}
+
+{"test case number": 76, "answer": "barend", "modAnswer": "sela", "similarity": 0.6363903880119324}
+
+{"test case number": 83, "answer": "pepsico", "modAnswer": "mondelez international", "similarity": 0.6634892225265503}
+
+{"test case number": 86, "answer": "1927", "modAnswer": "1913", "similarity": 0.8493215441703796}
+
+{"test case number": 87, "answer": "in the center and north of the island of la gomera", "modAnswer": "teide national park is located in tenerife (canary islands, spain).", "similarity": 0.6619912981987}
+
+{"test case number": 88, "answer": "1 million", "modAnswer": "more than 250 million copies", "similarity": 0.6967064142227173}
+
+{"test case number": 89, "answer": "cinematographer and director", "modAnswer": "cinematographer and film director", "similarity": 0.9768979549407959}
+
+{"test case number": 97, "answer": "aryanto yuniawan", "modAnswer": "pamela b. green", "similarity": 0.505043625831604}
+['{"test case number": 0, "answer": "yes", "modAnswer": "american", "similarity": 0.45858514308929443}\n', '{"test case number": 4, "answer": "big stone gap", "modAnswer": "greenwich village", "similarity": 0.40727874636650085}\n', '{"test case number": 6, "answer": "enasul fateh", "modAnswer": "dr. comer", "similarity": 0.5262863039970398}\n', '{"test case number": 12, "answer": "1994", "modAnswer": "1999", "similarity": 0.8567774295806885}\n', '{"test case number": 22, "answer": "a universal remote can control other brands of consumer electronics devices.", "modAnswer": "a universal remote can operate various brands of consumer electronics devices.", "similarity": 0.9705603122711182}\n', '{"test case number": 24, "answer": "the iffhs world\'s best goalkeeper.", "modAnswer": "goalkeeper of the year", "similarity": 0.7844663262367249}\n', '{"test case number": 29, "answer": "the journey into the unknown.", "modAnswer": "arena of khazan", "similarity": 0.4903455376625061}\n', '{"test case number": 35, "answer": "the russian civil war", "modAnswer": "the war ended when the united states invaded the serbian border.", "similarity": 0.5373257994651794}\n', '{"test case number": 39, "answer": "philadelphia", "modAnswer": "columbia", "similarity": 0.5251255035400391}\n', '{"test case number": 40, "answer": "the teddy roosevelt terrier", "modAnswer": "the scotch collie", "similarity": 0.5400722026824951}\n', '{"test case number": 47, "answer": "a new party", "modAnswer": "a summit of nobel peace laureates", "similarity": 0.36263802647590637}\n', '{"test case number": 51, "answer": "44", "modAnswer": "1,462", "similarity": 0.7423169612884521}\n', '{"test case number": 54, "answer": "max martin, savan kotecha, and ilya salmanzadeh", "modAnswer": "starsmith", "similarity": 0.46338868141174316}\n', '{"test case number": 58, "answer": "4,453", "modAnswer": "4,457", "similarity": 0.9912290573120117}\n', '{"test case number": 60, "answer": "first time a team from an expansion team made the playoffs", "modAnswer": "first wnba team without a brother team", "similarity": 0.7304436564445496}\n', '{"test case number": 65, "answer": "\\"charmed\\"", "modAnswer": "paige matthews", "similarity": 0.5211074948310852}\n', '{"test case number": 67, "answer": "ricki-lee coulter", "modAnswer": "mario winans", "similarity": 0.7879341840744019}\n', '{"test case number": 68, "answer": "prince huge", "modAnswer": "the episode guest stars of the hard easy", "similarity": 0.32957831025123596}\n', '{"test case number": 69, "answer": "the trinidad and tobago league cup", "modAnswer": "the carabao cup", "similarity": 0.7137295603752136}\n', '{"test case number": 70, "answer": "\\"teen titans go!\\"", "modAnswer": "\\"rugrats\\"", "similarity": 0.7038463950157166}\n', '{"test case number": 75, "answer": "john \\"john\\" alexander florence", "modAnswer": "john alexander florence", "similarity": 0.9532334804534912}\n', '{"test case number": 76, "answer": "barend", "modAnswer": "sela", "similarity": 0.6363903880119324}\n', '{"test case number": 83, "answer": "pepsico", "modAnswer": "mondelez international", "similarity": 0.6634892225265503}\n', '{"test case number": 86, "answer": "1927", "modAnswer": "1913", "similarity": 0.8493215441703796}\n', '{"test case number": 87, "answer": "in the center and north of the island of la gomera", "modAnswer": "teide national park is located in tenerife (canary islands, spain).", "similarity": 0.6619912981987}\n', '{"test case number": 88, "answer": "1 million", "modAnswer": "more than 250 million copies", "similarity": 0.6967064142227173}\n', '{"test case number": 89, "answer": "cinematographer and director", "modAnswer": "cinematographer and film director", "similarity": 0.9768979549407959}\n', '{"test case number": 97, "answer": "aryanto yuniawan", "modAnswer": "pamela b. green", "similarity": 0.505043625831604}']

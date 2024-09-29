@@ -1,0 +1,850 @@
+{"test case number": 2, "answer": "in the san francisco bay area at santa clara, california.", "modAnswer": "at levi's stadium in santa clara, california.", "similarity": 0.5533022284507751}
+
+{"test case number": 14, "answer": "super bowl l", "modAnswer": "the golden lions", "similarity": 0.5220032334327698}
+
+{"test case number": 14, "answer": "super bowl l", "modAnswer": "the golden lions", "similarity": 0.5220032334327698}
+
+{"test case number": 19, "answer": "24\u201310", "modAnswer": "24-10", "similarity": 0.9384337067604065}
+
+{"test case number": 23, "answer": "the denver broncos", "modAnswer": "the carolina panthers", "similarity": 0.6808949112892151}
+
+{"test case number": 23, "answer": "the denver broncos", "modAnswer": "carolina panthers", "similarity": 0.6143831610679626}
+
+{"test case number": 23, "answer": "the denver broncos", "modAnswer": "carolina panthers", "similarity": 0.6143831610679626}
+
+{"test case number": 23, "answer": "the denver broncos", "modAnswer": "carolina panthers", "similarity": 0.6143831610679626}
+
+{"test case number": 27, "answer": "in the san francisco bay area at santa clara, california.", "modAnswer": "in santa clara, california", "similarity": 0.9239847660064697}
+
+{"test case number": 33, "answer": "the broncos", "modAnswer": "the rams", "similarity": 0.7050451040267944}
+
+{"test case number": 33, "answer": "arizona cardinals", "modAnswer": "the rams", "similarity": 0.5248264074325562}
+
+{"test case number": 33, "answer": "the arizona cardinals", "modAnswer": "the rams", "similarity": 0.5237708687782288}
+
+{"test case number": 33, "answer": "arizona cardinals", "modAnswer": "the rams", "similarity": 0.5248264074325562}
+
+{"test case number": 33, "answer": "the broncos", "modAnswer": "arizona cardinals", "similarity": 0.6121558547019958}
+
+{"test case number": 33, "answer": "the broncos", "modAnswer": "the arizona cardinals", "similarity": 0.6421313285827637}
+
+{"test case number": 33, "answer": "the broncos", "modAnswer": "arizona cardinals", "similarity": 0.6121558547019958}
+
+{"test case number": 34, "answer": "the new york yankees", "modAnswer": "the new england patriots", "similarity": 0.6811606884002686}
+
+{"test case number": 34, "answer": "the new york yankees", "modAnswer": "new england patriots", "similarity": 0.6760417819023132}
+
+{"test case number": 34, "answer": "the new york yankees", "modAnswer": "the new england patriots", "similarity": 0.6811606884002686}
+
+{"test case number": 34, "answer": "the new york yankees", "modAnswer": "new england patriots", "similarity": 0.6760417819023132}
+
+{"test case number": 36, "answer": "the new york yankees", "modAnswer": "the new england patriots", "similarity": 0.6811606884002686}
+
+{"test case number": 36, "answer": "the new york yankees", "modAnswer": "new england patriots", "similarity": 0.6760417819023132}
+
+{"test case number": 36, "answer": "the new york yankees", "modAnswer": "the new england patriots", "similarity": 0.6811606884002686}
+
+{"test case number": 36, "answer": "the new york yankees", "modAnswer": "new england patriots", "similarity": 0.6760417819023132}
+
+{"test case number": 38, "answer": "four", "modAnswer": "eight", "similarity": 0.771425187587738}
+
+{"test case number": 40, "answer": "15\u20131", "modAnswer": "15-1", "similarity": 0.9413986802101135}
+
+{"test case number": 42, "answer": "12\u20134", "modAnswer": "12-4", "similarity": 0.9343382716178894}
+
+{"test case number": 43, "answer": "four", "modAnswer": "eight", "similarity": 0.771425187587738}
+
+{"test case number": 44, "answer": "the new york yankees", "modAnswer": "the new england patriots", "similarity": 0.6811606884002686}
+
+{"test case number": 44, "answer": "the new york yankees", "modAnswer": "new england patriots", "similarity": 0.6760417819023132}
+
+{"test case number": 44, "answer": "the new york yankees", "modAnswer": "the new england patriots", "similarity": 0.6811606884002686}
+
+{"test case number": 44, "answer": "the new york yankees", "modAnswer": "new england patriots", "similarity": 0.6760417819023132}
+
+{"test case number": 51, "answer": "the arizona cardinals", "modAnswer": "the aztecs", "similarity": 0.4933609962463379}
+
+{"test case number": 51, "answer": "arizona cardinals", "modAnswer": "the aztecs", "similarity": 0.4895836412906647}
+
+{"test case number": 51, "answer": "the arizona cardinals", "modAnswer": "the aztecs", "similarity": 0.4933609962463379}
+
+{"test case number": 51, "answer": "arizona cardinals", "modAnswer": "the aztecs", "similarity": 0.4895836412906647}
+
+{"test case number": 53, "answer": "the arizona cardinals", "modAnswer": "the aztecs", "similarity": 0.4933609962463379}
+
+{"test case number": 53, "answer": "arizona cardinals", "modAnswer": "the aztecs", "similarity": 0.4895836412906647}
+
+{"test case number": 53, "answer": "the arizona cardinals", "modAnswer": "the aztecs", "similarity": 0.4933609962463379}
+
+{"test case number": 53, "answer": "arizona cardinals", "modAnswer": "the aztecs", "similarity": 0.4895836412906647}
+
+{"test case number": 55, "answer": "von miller", "modAnswer": "van miller", "similarity": 0.9103202819824219}
+
+{"test case number": 58, "answer": "von miller", "modAnswer": "van miller", "similarity": 0.9103202819824219}
+
+{"test case number": 62, "answer": "von miller", "modAnswer": "van miller", "similarity": 0.9103202819824219}
+
+{"test case number": 65, "answer": "von miller", "modAnswer": "van miller", "similarity": 0.9103202819824219}
+
+{"test case number": 69, "answer": "von miller", "modAnswer": "van miller", "similarity": 0.9103202819824219}
+
+{"test case number": 74, "answer": "von miller", "modAnswer": "van miller", "similarity": 0.9103202819824219}
+
+{"test case number": 78, "answer": "von miller", "modAnswer": "dr. chilton", "similarity": 0.6004296541213989}
+
+{"test case number": 78, "answer": "von miller", "modAnswer": "dr. chilton", "similarity": 0.6004296541213989}
+
+{"test case number": 78, "answer": "von miller", "modAnswer": "dr. chilton", "similarity": 0.6004296541213989}
+
+{"test case number": 78, "answer": "von miller", "modAnswer": "dr. chilton", "similarity": 0.6004296541213989}
+
+{"test case number": 89, "answer": "beyonc\u00e9 and bruno mars", "modAnswer": "coldplay", "similarity": 0.3646734058856964}
+
+{"test case number": 89, "answer": "beyonc\u00e9 and bruno mars", "modAnswer": "coldplay", "similarity": 0.3646734058856964}
+
+{"test case number": 89, "answer": "beyonc\u00e9 and bruno mars", "modAnswer": "coldplay", "similarity": 0.3646734058856964}
+
+{"test case number": 89, "answer": "beyonc\u00e9 and bruno mars", "modAnswer": "coldplay", "similarity": 0.3646734058856964}
+
+{"test case number": 93, "answer": "third-most watched", "modAnswer": "third highest", "similarity": 0.7380045652389526}
+
+{"test case number": 99, "answer": "beyonc\u00e9 and bruno mars", "modAnswer": "coldplay", "similarity": 0.3646734058856964}
+
+{"test case number": 99, "answer": "beyonc\u00e9 and bruno mars", "modAnswer": "coldplay", "similarity": 0.3646734058856964}
+
+{"test case number": 99, "answer": "beyonc\u00e9 and bruno mars", "modAnswer": "coldplay", "similarity": 0.3646734058856964}
+
+{"test case number": 99, "answer": "beyonc\u00e9 and bruno mars", "modAnswer": "coldplay", "similarity": 0.3646734058856964}
+
+{"test case number": 101, "answer": "the super bowl 50 halftime show", "modAnswer": "coldplay", "similarity": 0.44410109519958496}
+
+{"test case number": 101, "answer": "super bowl xlvii", "modAnswer": "coldplay", "similarity": 0.450236976146698}
+
+{"test case number": 101, "answer": "super bowl xlvii", "modAnswer": "coldplay", "similarity": 0.450236976146698}
+
+{"test case number": 101, "answer": "super bowl xlvii", "modAnswer": "coldplay", "similarity": 0.450236976146698}
+
+{"test case number": 101, "answer": "the super bowl 50 halftime show", "modAnswer": "super bowl xlvii", "similarity": 0.778722882270813}
+
+{"test case number": 103, "answer": "beyonc\u00e9 and bruno mars", "modAnswer": "coldplay", "similarity": 0.3646734058856964}
+
+{"test case number": 103, "answer": "beyonc\u00e9 and bruno mars", "modAnswer": "coldplay", "similarity": 0.3646734058856964}
+
+{"test case number": 103, "answer": "beyonc\u00e9 and bruno mars", "modAnswer": "coldplay", "similarity": 0.3646734058856964}
+
+{"test case number": 103, "answer": "beyonc\u00e9 and bruno mars", "modAnswer": "coldplay", "similarity": 0.3646734058856964}
+
+{"test case number": 114, "answer": "\"an important game for us as a league\".", "modAnswer": "the 50th super bowl", "similarity": 0.43810659646987915}
+
+{"test case number": 114, "answer": "spectacular", "modAnswer": "the 50th super bowl", "similarity": 0.2853236198425293}
+
+{"test case number": 114, "answer": "an important game for us as a league", "modAnswer": "the 50th super bowl", "similarity": 0.4089992046356201}
+
+{"test case number": 114, "answer": "spectacular", "modAnswer": "the 50th super bowl", "similarity": 0.2853236198425293}
+
+{"test case number": 114, "answer": "\"an important game for us as a league\".", "modAnswer": "spectacular", "similarity": 0.44431665539741516}
+
+{"test case number": 115, "answer": "spectacular", "modAnswer": "extraordinary", "similarity": 0.78306645154953}
+
+{"test case number": 119, "answer": "sun life stadium", "modAnswer": "the levi's stadium", "similarity": 0.757940948009491}
+
+{"test case number": 119, "answer": "san francisco bay area's levi's stadium", "modAnswer": "the levi's stadium", "similarity": 0.7527992129325867}
+
+{"test case number": 119, "answer": "san francisco bay area's levi's stadium", "modAnswer": "the levi's stadium", "similarity": 0.7527992129325867}
+
+{"test case number": 119, "answer": "sun life stadium", "modAnswer": "san francisco bay area's levi's stadium", "similarity": 0.6742433309555054}
+
+{"test case number": 119, "answer": "sun life stadium", "modAnswer": "san francisco bay area's levi's stadium", "similarity": 0.6742433309555054}
+
+{"test case number": 119, "answer": "sun life stadium", "modAnswer": "levi's stadium", "similarity": 0.7864587306976318}
+
+{"test case number": 123, "answer": "new orleans' mercedes-benz superdome", "modAnswer": "the mercedes-benz superdome", "similarity": 0.8332571983337402}
+
+{"test case number": 125, "answer": "new orleans' mercedes-benz superdome, miamis sun life stadium,", "modAnswer": "the mercedes-benz superdome in new orleans, sun life stadium in miami, and levi", "similarity": 0.931724488735199}
+
+{"test case number": 129, "answer": "new orleans", "modAnswer": "new york", "similarity": 0.7752730846405029}
+
+{"test case number": 132, "answer": "sun life stadium", "modAnswer": "the mercedes-benz superdome", "similarity": 0.7073274254798889}
+
+{"test case number": 132, "answer": "sun life stadium", "modAnswer": "mercedes-benz superdome", "similarity": 0.7056163549423218}
+
+{"test case number": 132, "answer": "sun life stadium", "modAnswer": "mercedes-benz superdome", "similarity": 0.7056163549423218}
+
+{"test case number": 132, "answer": "sun life stadium", "modAnswer": "mercedes-benz superdome,", "similarity": 0.7102575898170471}
+
+{"test case number": 133, "answer": "the new york times building", "modAnswer": "the mercedes-benz superdome in new orleans, sun life stadium in miami", "similarity": 0.5486986637115479}
+
+{"test case number": 133, "answer": "levi's stadium.", "modAnswer": "the mercedes-benz superdome in new orleans, sun life stadium in miami", "similarity": 0.7429102063179016}
+
+{"test case number": 133, "answer": "levi's stadium", "modAnswer": "the mercedes-benz superdome in new orleans, sun life stadium in miami", "similarity": 0.7296156287193298}
+
+{"test case number": 133, "answer": "levi's stadium.", "modAnswer": "the mercedes-benz superdome in new orleans, sun life stadium in miami", "similarity": 0.7429102063179016}
+
+{"test case number": 133, "answer": "the new york times building", "modAnswer": "levi's stadium.", "similarity": 0.4909851849079132}
+
+{"test case number": 133, "answer": "the new york times building", "modAnswer": "levi's stadium", "similarity": 0.4897018373012543}
+
+{"test case number": 133, "answer": "the new york times building", "modAnswer": "levi's stadium.", "similarity": 0.4909851849079132}
+
+{"test case number": 145, "answer": "the last super bowl that took place at sun life stadium in miami was in 1985 (super bowl", "modAnswer": "the last one took place at sun life stadium in miami.", "similarity": 0.7965985536575317}
+
+{"test case number": 149, "answer": "new orleans", "modAnswer": "new york", "similarity": 0.7752730846405029}
+
+{"test case number": 155, "answer": "on may 21, 2013", "modAnswer": "2014", "similarity": 0.5445939302444458}
+
+{"test case number": 155, "answer": "may 21, 2013", "modAnswer": "2014", "similarity": 0.7506144642829895}
+
+{"test case number": 155, "answer": "may 21, 2013", "modAnswer": "2014", "similarity": 0.7506144642829895}
+
+{"test case number": 155, "answer": "may 21, 2013,", "modAnswer": "2014", "similarity": 0.7537318468093872}
+
+{"test case number": 156, "answer": "the owners of the $1.2 billion stadium in boston voted on the venue for the game.", "modAnswer": "the fans", "similarity": 0.370339959859848}
+
+{"test case number": 156, "answer": "nfl owners", "modAnswer": "the fans", "similarity": 0.47837480902671814}
+
+{"test case number": 156, "answer": "nfl owners", "modAnswer": "the fans", "similarity": 0.47837480902671814}
+
+{"test case number": 156, "answer": "nfl owners", "modAnswer": "the fans", "similarity": 0.47837480902671814}
+
+{"test case number": 156, "answer": "the owners of the $1.2 billion stadium in boston voted on the venue for the game.", "modAnswer": "nfl owners", "similarity": 0.5677840709686279}
+
+{"test case number": 156, "answer": "the owners of the $1.2 billion stadium in boston voted on the venue for the game.", "modAnswer": "nfl owners", "similarity": 0.5677840709686279}
+
+{"test case number": 156, "answer": "the owners of the $1.2 billion stadium in boston voted on the venue for the game.", "modAnswer": "nfl owners", "similarity": 0.5677840709686279}
+
+{"test case number": 157, "answer": "on may 21, 2013", "modAnswer": "2014", "similarity": 0.5445939302444458}
+
+{"test case number": 157, "answer": "on may 21, 2013", "modAnswer": "2014", "similarity": 0.5445939302444458}
+
+{"test case number": 157, "answer": "on may 21, 2013", "modAnswer": "in 2014", "similarity": 0.7284625172615051}
+
+{"test case number": 157, "answer": "on may 21, 2013", "modAnswer": "2014", "similarity": 0.5445939302444458}
+
+{"test case number": 158, "answer": "$1.2 billion", "modAnswer": "$2 billion", "similarity": 0.9541926980018616}
+
+{"test case number": 162, "answer": "$1.2 billion", "modAnswer": "$2 billion", "similarity": 0.9541926980018616}
+
+{"test case number": 163, "answer": "super bowl xxxvii", "modAnswer": "the last super bowl in california was in san diego in 2003.", "similarity": 0.6188077330589294}
+
+{"test case number": 163, "answer": "super bowl xxxvii", "modAnswer": "the last super bowl in california was in san diego in 2003.", "similarity": 0.6188077330589294}
+
+{"test case number": 163, "answer": "super bowl xxxvii", "modAnswer": "the last super bowl in california was in san diego in 2003.", "similarity": 0.6188077330589294}
+
+{"test case number": 163, "answer": "xxxvii", "modAnswer": "the last super bowl in california was in san diego in 2003.", "similarity": 0.2889921963214874}
+
+{"test case number": 165, "answer": "2013", "modAnswer": "2014", "similarity": 0.9395576119422913}
+
+{"test case number": 166, "answer": "on may 21, 2013", "modAnswer": "2014", "similarity": 0.5445939302444458}
+
+{"test case number": 166, "answer": "on may 21, 2013", "modAnswer": "2014", "similarity": 0.5445939302444458}
+
+{"test case number": 166, "answer": "on may 21, 2013", "modAnswer": "2014", "similarity": 0.5445939302444458}
+
+{"test case number": 166, "answer": "on may 21, 2013", "modAnswer": "2014", "similarity": 0.5445939302444458}
+
+{"test case number": 167, "answer": "$1.2 billion", "modAnswer": "$2 billion", "similarity": 0.9541926980018616}
+
+{"test case number": 169, "answer": "super bowl xxxvii", "modAnswer": "the last super bowl", "similarity": 0.778886616230011}
+
+{"test case number": 171, "answer": "on may 21, 2013", "modAnswer": "2014", "similarity": 0.5445939302444458}
+
+{"test case number": 171, "answer": "on may 21, 2013", "modAnswer": "2014", "similarity": 0.5445939302444458}
+
+{"test case number": 171, "answer": "on may 21, 2013", "modAnswer": "in 2014", "similarity": 0.7284625172615051}
+
+{"test case number": 171, "answer": "on may 21, 2013", "modAnswer": "2014", "similarity": 0.5445939302444458}
+
+{"test case number": 172, "answer": "no", "modAnswer": "2003", "similarity": 0.5320687294006348}
+
+{"test case number": 172, "answer": "no", "modAnswer": "2003", "similarity": 0.5320687294006348}
+
+{"test case number": 172, "answer": "no", "modAnswer": "in 2003", "similarity": 0.31097152829170227}
+
+{"test case number": 172, "answer": "no", "modAnswer": "2003", "similarity": 0.5320687294006348}
+
+{"test case number": 173, "answer": "in boston", "modAnswer": "in the san fancisco bay area", "similarity": 0.5143938660621643}
+
+{"test case number": 173, "answer": "boston", "modAnswer": "in the san fancisco bay area", "similarity": 0.5113129615783691}
+
+{"test case number": 173, "answer": "in boston", "modAnswer": "in the san fancisco bay area", "similarity": 0.5143938660621643}
+
+{"test case number": 173, "answer": "boston", "modAnswer": "in the san fancisco bay area", "similarity": 0.5113129615783691}
+
+{"test case number": 175, "answer": "on may 21, 2013", "modAnswer": "2014", "similarity": 0.5445939302444458}
+
+{"test case number": 175, "answer": "on may 21, 2013", "modAnswer": "2014.", "similarity": 0.553549587726593}
+
+{"test case number": 175, "answer": "on may 21, 2013", "modAnswer": "in 2014", "similarity": 0.7284625172615051}
+
+{"test case number": 175, "answer": "on may 21, 2013", "modAnswer": "2014", "similarity": 0.5445939302444458}
+
+{"test case number": 176, "answer": "$1.2 billion", "modAnswer": "$2 billion", "similarity": 0.9541926980018616}
+
+{"test case number": 177, "answer": "last time", "modAnswer": "the last super bowl took place in 2003.", "similarity": 0.47705602645874023}
+
+{"test case number": 177, "answer": "last time", "modAnswer": "2003.", "similarity": 0.4547804594039917}
+
+{"test case number": 177, "answer": "last time", "modAnswer": "2003", "similarity": 0.46977731585502625}
+
+{"test case number": 177, "answer": "last time", "modAnswer": "2003", "similarity": 0.46977731585502625}
+
+{"test case number": 180, "answer": "six", "modAnswer": "10", "similarity": 0.6857105493545532}
+
+{"test case number": 180, "answer": "six", "modAnswer": "10", "similarity": 0.6857105493545532}
+
+{"test case number": 180, "answer": "six", "modAnswer": "10", "similarity": 0.6857105493545532}
+
+{"test case number": 180, "answer": "six", "modAnswer": "10", "similarity": 0.6857105493545532}
+
+{"test case number": 182, "answer": "super bowl xxxviii", "modAnswer": "super bowl 50", "similarity": 0.8756911158561707}
+
+{"test case number": 183, "answer": "john favre", "modAnswer": "john fox", "similarity": 0.822131872177124}
+
+{"test case number": 186, "answer": "the first super bowl was played in the nfl divisional tournament.", "modAnswer": "xxxviii", "similarity": 0.281349778175354}
+
+{"test case number": 186, "answer": "the first super bowl was played in the nfl divisional tournament.", "modAnswer": "super bowl xxxviii", "similarity": 0.6609883308410645}
+
+{"test case number": 186, "answer": "the first super bowl was played in the nfl divisional tournament.", "modAnswer": "super bowl xxxviii", "similarity": 0.6609883308410645}
+
+{"test case number": 186, "answer": "the first super bowl was played in the nfl divisional tournament.", "modAnswer": "xxxviii", "similarity": 0.281349778175354}
+
+{"test case number": 187, "answer": "six", "modAnswer": "10", "similarity": 0.6857105493545532}
+
+{"test case number": 187, "answer": "six", "modAnswer": "10", "similarity": 0.6857105493545532}
+
+{"test case number": 187, "answer": "ten", "modAnswer": "10", "similarity": 0.8973010778427124}
+
+{"test case number": 188, "answer": "number one", "modAnswer": "the top seed was the carolina panthers.", "similarity": 0.4714294373989105}
+
+{"test case number": 188, "answer": "number one", "modAnswer": "the top seed was the carolina panthers.", "similarity": 0.4714294373989105}
+
+{"test case number": 188, "answer": "number one", "modAnswer": "the top seed was the carolina panthers.", "similarity": 0.4714294373989105}
+
+{"test case number": 188, "answer": "one", "modAnswer": "the top seed was the carolina panthers.", "similarity": 0.330189049243927}
+
+{"test case number": 189, "answer": "the number one seed was the denver broncos.", "modAnswer": "the top seed was the denver broncos.", "similarity": 0.9623324275016785}
+
+{"test case number": 190, "answer": "the last time the teams met was in the regular season.", "modAnswer": "when they last appeared in the super bowl.", "similarity": 0.7399181127548218}
+
+{"test case number": 190, "answer": "super bowl xlviii", "modAnswer": "when they last appeared in the super bowl.", "similarity": 0.6480029821395874}
+
+{"test case number": 190, "answer": "super bowl xlviii", "modAnswer": "when they last appeared in the super bowl.", "similarity": 0.6480029821395874}
+
+{"test case number": 190, "answer": "super bowl xlviii", "modAnswer": "when they last appeared in the super bowl.", "similarity": 0.6480029821395874}
+
+{"test case number": 190, "answer": "the last time the teams met was in the regular season.", "modAnswer": "super bowl xlviii", "similarity": 0.5639454126358032}
+
+{"test case number": 190, "answer": "the last time the teams met was in the regular season.", "modAnswer": "super bowl xlviii", "similarity": 0.5639454126358032}
+
+{"test case number": 190, "answer": "the last time the teams met was in the regular season.", "modAnswer": "super bowl xlviii", "similarity": 0.5639454126358032}
+
+{"test case number": 191, "answer": "in their last super bowl appearance.", "modAnswer": "when they last appeared in the super bowl.", "similarity": 0.8915789127349854}
+
+{"test case number": 192, "answer": "six", "modAnswer": "10", "similarity": 0.6857105493545532}
+
+{"test case number": 192, "answer": "six", "modAnswer": "10", "similarity": 0.6857105493545532}
+
+{"test case number": 192, "answer": "ten", "modAnswer": "10", "similarity": 0.8973010778427124}
+
+{"test case number": 196, "answer": "yes", "modAnswer": "no", "similarity": 0.7259047031402588}
+
+{"test case number": 196, "answer": "deangelo williams", "modAnswer": "no", "similarity": 0.40676480531692505}
+
+{"test case number": 196, "answer": "deangelo williams", "modAnswer": "no", "similarity": 0.40676480531692505}
+
+{"test case number": 196, "answer": "williams", "modAnswer": "no", "similarity": 0.4736574590206146}
+
+{"test case number": 196, "answer": "yes", "modAnswer": "deangelo williams", "similarity": 0.4535602927207947}
+
+{"test case number": 196, "answer": "yes", "modAnswer": "deangelo williams", "similarity": 0.4535602927207947}
+
+{"test case number": 196, "answer": "yes", "modAnswer": "williams", "similarity": 0.477529376745224}
+
+{"test case number": 197, "answer": "kelvin benjamin", "modAnswer": "deangelo williams", "similarity": 0.6916223764419556}
+
+{"test case number": 197, "answer": "kelvin benjamin", "modAnswer": "deangelo williams", "similarity": 0.6916223764419556}
+
+{"test case number": 197, "answer": "kelvin benjamin", "modAnswer": "deangelo williams", "similarity": 0.6916223764419556}
+
+{"test case number": 197, "answer": "benjamin", "modAnswer": "deangelo williams", "similarity": 0.6347432732582092}
+
+{"test case number": 203, "answer": "kelvin benjamin", "modAnswer": "wide receiver", "similarity": 0.40169602632522583}
+
+{"test case number": 203, "answer": "kelvin benjamin", "modAnswer": "wide receiver", "similarity": 0.40169602632522583}
+
+{"test case number": 203, "answer": "kelvin benjamin", "modAnswer": "wide receiver", "similarity": 0.40169602632522583}
+
+{"test case number": 203, "answer": "benjamin", "modAnswer": "wide receiver", "similarity": 0.3717101812362671}
+
+{"test case number": 205, "answer": "1978", "modAnswer": "2009", "similarity": 0.6663849353790283}
+
+{"test case number": 205, "answer": "1978", "modAnswer": "2009", "similarity": 0.6663849353790283}
+
+{"test case number": 205, "answer": "1978", "modAnswer": "2009", "similarity": 0.6663849353790283}
+
+{"test case number": 205, "answer": "1978", "modAnswer": "2009", "similarity": 0.6663849353790283}
+
+{"test case number": 207, "answer": "a torn acl", "modAnswer": "wide receiver", "similarity": 0.429067999124527}
+
+{"test case number": 207, "answer": "torn acl", "modAnswer": "wide receiver", "similarity": 0.43586844205856323}
+
+{"test case number": 207, "answer": "a torn acl", "modAnswer": "wide receiver", "similarity": 0.429067999124527}
+
+{"test case number": 207, "answer": "torn acl", "modAnswer": "wide receiver", "similarity": 0.43586844205856323}
+
+{"test case number": 208, "answer": "kelvin benjamin", "modAnswer": "wide receiver", "similarity": 0.40169602632522583}
+
+{"test case number": 208, "answer": "kelvin benjamin", "modAnswer": "wide receiver", "similarity": 0.40169602632522583}
+
+{"test case number": 208, "answer": "kelvin benjamin", "modAnswer": "wide receiver", "similarity": 0.40169602632522583}
+
+{"test case number": 208, "answer": "benjamin", "modAnswer": "wide receiver", "similarity": 0.3717101812362671}
+
+{"test case number": 209, "answer": "deangelo williams", "modAnswer": "wide receiver", "similarity": 0.36151745915412903}
+
+{"test case number": 209, "answer": "deangelo williams", "modAnswer": "wide receiver", "similarity": 0.36151745915412903}
+
+{"test case number": 209, "answer": "deangelo williams", "modAnswer": "wide receiver", "similarity": 0.36151745915412903}
+
+{"test case number": 209, "answer": "williams", "modAnswer": "wide receiver", "similarity": 0.4059334099292755}
+
+{"test case number": 223, "answer": "77", "modAnswer": "35", "similarity": 0.7814658284187317}
+
+{"test case number": 224, "answer": "veteran receiver", "modAnswer": "quarterback", "similarity": 0.529809832572937}
+
+{"test case number": 224, "answer": "receivers", "modAnswer": "quarterback", "similarity": 0.510901927947998}
+
+{"test case number": 224, "answer": "receivers", "modAnswer": "quarterback", "similarity": 0.510901927947998}
+
+{"test case number": 224, "answer": "receivers", "modAnswer": "quarterback", "similarity": 0.510901927947998}
+
+{"test case number": 224, "answer": "veteran receiver", "modAnswer": "receivers", "similarity": 0.738090991973877}
+
+{"test case number": 224, "answer": "veteran receiver", "modAnswer": "receivers", "similarity": 0.738090991973877}
+
+{"test case number": 224, "answer": "veteran receiver", "modAnswer": "receivers", "similarity": 0.738090991973877}
+
+{"test case number": 232, "answer": "1,104", "modAnswer": "3,837", "similarity": 0.8262900114059448}
+
+{"test case number": 235, "answer": "39", "modAnswer": "485", "similarity": 0.8236562013626099}
+
+{"test case number": 265, "answer": "head coach john fox", "modAnswer": "john favre", "similarity": 0.5974337458610535}
+
+{"test case number": 265, "answer": "john fox", "modAnswer": "john favre", "similarity": 0.822131872177124}
+
+{"test case number": 268, "answer": "plantar fasciitis in his left foot", "modAnswer": "his left foot.", "similarity": 0.7838183045387268}
+
+{"test case number": 271, "answer": "no", "modAnswer": "67", "similarity": 0.6093618869781494}
+
+{"test case number": 271, "answer": "17", "modAnswer": "67", "similarity": 0.8507500290870667}
+
+{"test case number": 271, "answer": "no", "modAnswer": "17", "similarity": 0.5783706307411194}
+
+{"test case number": 271, "answer": "no", "modAnswer": "17", "similarity": 0.5783706307411194}
+
+{"test case number": 271, "answer": "no", "modAnswer": "17", "similarity": 0.5783706307411194}
+
+{"test case number": 273, "answer": "c. j. anderson", "modAnswer": "edward gammell", "similarity": 0.7583960890769958}
+
+{"test case number": 273, "answer": "c. j. anderson", "modAnswer": "edward gammell", "similarity": 0.7583960890769958}
+
+{"test case number": 273, "answer": "c. j. anderson", "modAnswer": "edward gammell", "similarity": 0.7583960890769958}
+
+{"test case number": 273, "answer": "anderson", "modAnswer": "edward gammell", "similarity": 0.617912769317627}
+
+{"test case number": 277, "answer": "17", "modAnswer": "67", "similarity": 0.8507500290870667}
+
+{"test case number": 281, "answer": "six", "modAnswer": "17", "similarity": 0.6283878087997437}
+
+{"test case number": 281, "answer": "six", "modAnswer": "17", "similarity": 0.6283878087997437}
+
+{"test case number": 281, "answer": "six", "modAnswer": "17", "similarity": 0.6283878087997437}
+
+{"test case number": 281, "answer": "six", "modAnswer": "17", "similarity": 0.6283878087997437}
+
+{"test case number": 285, "answer": "six", "modAnswer": "17", "similarity": 0.6283878087997437}
+
+{"test case number": 285, "answer": "six", "modAnswer": "17", "similarity": 0.6283878087997437}
+
+{"test case number": 285, "answer": "six", "modAnswer": "17", "similarity": 0.6283878087997437}
+
+{"test case number": 285, "answer": "six", "modAnswer": "17", "similarity": 0.6283878087997437}
+
+{"test case number": 287, "answer": "c. j. anderson", "modAnswer": "edward gammell", "similarity": 0.7583960890769958}
+
+{"test case number": 287, "answer": "c. j. anderson", "modAnswer": "edward gammell", "similarity": 0.7583960890769958}
+
+{"test case number": 287, "answer": "c. j. anderson", "modAnswer": "edward gammell", "similarity": 0.7583960890769958}
+
+{"test case number": 287, "answer": "anderson", "modAnswer": "edward gammell", "similarity": 0.617912769317627}
+
+{"test case number": 290, "answer": "512", "modAnswer": "5 1/2", "similarity": 0.7206954956054688}
+
+{"test case number": 290, "answer": "5\u00bd", "modAnswer": "5 1/2", "similarity": 0.8979178071022034}
+
+{"test case number": 290, "answer": "512", "modAnswer": "5\u00bd", "similarity": 0.7157410979270935}
+
+{"test case number": 290, "answer": "512", "modAnswer": "5\u00bd", "similarity": 0.7157410979270935}
+
+{"test case number": 290, "answer": "512", "modAnswer": "5\u00bd", "similarity": 0.7157410979270935}
+
+{"test case number": 292, "answer": "three", "modAnswer": "4", "similarity": 0.7036783695220947}
+
+{"test case number": 292, "answer": "three", "modAnswer": "4", "similarity": 0.7036783695220947}
+
+{"test case number": 292, "answer": "three", "modAnswer": "4", "similarity": 0.7036783695220947}
+
+{"test case number": 292, "answer": "three", "modAnswer": "4", "similarity": 0.7036783695220947}
+
+{"test case number": 293, "answer": "linebacker", "modAnswer": "cornerback", "similarity": 0.8329349160194397}
+
+{"test case number": 295, "answer": "defensive ends", "modAnswer": "cornerback", "similarity": 0.6757023334503174}
+
+{"test case number": 295, "answer": "defensive ends", "modAnswer": "cornerback", "similarity": 0.6757023334503174}
+
+{"test case number": 295, "answer": "defensive ends", "modAnswer": "cornerback", "similarity": 0.6757023334503174}
+
+{"test case number": 295, "answer": "defensive ends", "modAnswer": "cornerback", "similarity": 0.6757023334503174}
+
+{"test case number": 297, "answer": "von miller", "modAnswer": "demarcus ware", "similarity": 0.6168322563171387}
+
+{"test case number": 297, "answer": "von miller", "modAnswer": "demarcus ware", "similarity": 0.6168322563171387}
+
+{"test case number": 297, "answer": "von miller", "modAnswer": "demarcus ware", "similarity": 0.6168322563171387}
+
+{"test case number": 297, "answer": "miller", "modAnswer": "demarcus ware", "similarity": 0.5976344347000122}
+
+{"test case number": 300, "answer": "von miller", "modAnswer": "brandon marshall", "similarity": 0.6760939359664917}
+
+{"test case number": 300, "answer": "von miller", "modAnswer": "brandon marshall", "similarity": 0.6760939359664917}
+
+{"test case number": 300, "answer": "von miller", "modAnswer": "brandon marshall", "similarity": 0.6760939359664917}
+
+{"test case number": 300, "answer": "miller", "modAnswer": "brandon marshall", "similarity": 0.629252016544342}
+
+{"test case number": 320, "answer": "the defending champion new york yankees", "modAnswer": "the defending champions", "similarity": 0.5688061714172363}
+
+{"test case number": 320, "answer": "new england patriots", "modAnswer": "the defending champions", "similarity": 0.31876057386398315}
+
+{"test case number": 320, "answer": "new england patriots", "modAnswer": "the defending champions", "similarity": 0.31876057386398315}
+
+{"test case number": 320, "answer": "patriots", "modAnswer": "the defending champions", "similarity": 0.42271295189857483}
+
+{"test case number": 320, "answer": "the defending champion new york yankees", "modAnswer": "new england patriots", "similarity": 0.5354743599891663}
+
+{"test case number": 320, "answer": "the defending champion new york yankees", "modAnswer": "new england patriots", "similarity": 0.5354743599891663}
+
+{"test case number": 320, "answer": "the defending champion new york yankees", "modAnswer": "patriots", "similarity": 0.42918285727500916}
+
+{"test case number": 321, "answer": "20\u201318", "modAnswer": "20-18", "similarity": 0.9352328181266785}
+
+{"test case number": 324, "answer": "11 points", "modAnswer": "20-18", "similarity": 0.5911845564842224}
+
+{"test case number": 324, "answer": "23\u201316", "modAnswer": "20-18", "similarity": 0.851061999797821}
+
+{"test case number": 324, "answer": "11 points", "modAnswer": "23\u201316", "similarity": 0.5784662365913391}
+
+{"test case number": 324, "answer": "11 points", "modAnswer": "23\u201316", "similarity": 0.5784662365913391}
+
+{"test case number": 324, "answer": "11 points", "modAnswer": ", 23\u201316,", "similarity": 0.5539706349372864}
+
+{"test case number": 325, "answer": "the defending champion new york yankees", "modAnswer": "the defending champions", "similarity": 0.5688061714172363}
+
+{"test case number": 325, "answer": "new england patriots", "modAnswer": "the defending champions", "similarity": 0.31876057386398315}
+
+{"test case number": 325, "answer": "new england patriots", "modAnswer": "the defending champions", "similarity": 0.31876057386398315}
+
+{"test case number": 325, "answer": "patriots", "modAnswer": "the defending champions", "similarity": 0.42271295189857483}
+
+{"test case number": 325, "answer": "the defending champion new york yankees", "modAnswer": "new england patriots", "similarity": 0.5354743599891663}
+
+{"test case number": 325, "answer": "the defending champion new york yankees", "modAnswer": "new england patriots", "similarity": 0.5354743599891663}
+
+{"test case number": 325, "answer": "the defending champion new york yankees", "modAnswer": "patriots", "similarity": 0.42918285727500916}
+
+{"test case number": 328, "answer": "the pittsburgh steelers", "modAnswer": "the new york yankees", "similarity": 0.5235555768013}
+
+{"test case number": 328, "answer": "pittsburgh steelers", "modAnswer": "the new york yankees", "similarity": 0.5158184766769409}
+
+{"test case number": 328, "answer": "the pittsburgh steelers", "modAnswer": "the new york yankees", "similarity": 0.5235555768013}
+
+{"test case number": 328, "answer": "steelers", "modAnswer": "the new york yankees", "similarity": 0.4857885241508484}
+
+{"test case number": 331, "answer": "the pittsburgh steelers", "modAnswer": "the new york yankees", "similarity": 0.5235555768013}
+
+{"test case number": 331, "answer": "pittsburgh steelers", "modAnswer": "the new york yankees", "similarity": 0.5158184766769409}
+
+{"test case number": 331, "answer": "pittsburgh steelers", "modAnswer": "the new york yankees", "similarity": 0.5158184766769409}
+
+{"test case number": 331, "answer": "steelers", "modAnswer": "the new york yankees", "similarity": 0.4857885241508484}
+
+{"test case number": 332, "answer": "the new york yankees", "modAnswer": "the new england patriots", "similarity": 0.6811606884002686}
+
+{"test case number": 332, "answer": "the new york yankees", "modAnswer": "new england patriots", "similarity": 0.6760417819023132}
+
+{"test case number": 332, "answer": "the new york yankees", "modAnswer": "new england patriots", "similarity": 0.6760417819023132}
+
+{"test case number": 332, "answer": "the new york yankees", "modAnswer": "patriots", "similarity": 0.5146499872207642}
+
+{"test case number": 350, "answer": "the broncos", "modAnswer": "the denver broncos", "similarity": 0.8688135743141174}
+
+{"test case number": 354, "answer": "peyton", "modAnswer": "john elway", "similarity": 0.5563627481460571}
+
+{"test case number": 354, "answer": "peyton manning", "modAnswer": "john elway", "similarity": 0.6226620078086853}
+
+{"test case number": 354, "answer": "peyton manning", "modAnswer": "john elway", "similarity": 0.6226620078086853}
+
+{"test case number": 354, "answer": "manning", "modAnswer": "john elway", "similarity": 0.6372767686843872}
+
+{"test case number": 354, "answer": "manning", "modAnswer": "john elway", "similarity": 0.6372767686843872}
+
+{"test case number": 362, "answer": "john elway", "modAnswer": "peyton manning", "similarity": 0.6226620078086853}
+
+{"test case number": 362, "answer": "john elway", "modAnswer": "peyton manning", "similarity": 0.6226620078086853}
+
+{"test case number": 362, "answer": "john elway", "modAnswer": "peyton manning", "similarity": 0.6226620078086853}
+
+{"test case number": 362, "answer": "elway", "modAnswer": "peyton manning", "similarity": 0.5730805993080139}
+
+{"test case number": 362, "answer": "elway", "modAnswer": "peyton manning", "similarity": 0.5730805993080139}
+
+{"test case number": 363, "answer": "2011", "modAnswer": "1998", "similarity": 0.7430018186569214}
+
+{"test case number": 363, "answer": "2011", "modAnswer": "1998", "similarity": 0.7430018186569214}
+
+{"test case number": 363, "answer": "2011", "modAnswer": "1998", "similarity": 0.7430018186569214}
+
+{"test case number": 363, "answer": "2011", "modAnswer": "1998", "similarity": 0.7430018186569214}
+
+{"test case number": 367, "answer": "newton", "modAnswer": "von miller", "similarity": 0.6543763875961304}
+
+{"test case number": 367, "answer": "newton", "modAnswer": "von miller", "similarity": 0.6543763875961304}
+
+{"test case number": 367, "answer": "newton", "modAnswer": "von miller", "similarity": 0.6543763875961304}
+
+{"test case number": 367, "answer": "newton", "modAnswer": "miller", "similarity": 0.6766758561134338}
+
+{"test case number": 374, "answer": "newton", "modAnswer": "von miller", "similarity": 0.6543763875961304}
+
+{"test case number": 374, "answer": "newton", "modAnswer": "von miller", "similarity": 0.6543763875961304}
+
+{"test case number": 374, "answer": "newton", "modAnswer": "von miller", "similarity": 0.6543763875961304}
+
+{"test case number": 374, "answer": "newton", "modAnswer": "miller", "similarity": 0.6766758561134338}
+
+{"test case number": 381, "answer": "elway", "modAnswer": "rivera", "similarity": 0.6848596930503845}
+
+{"test case number": 381, "answer": "elway", "modAnswer": "rivera", "similarity": 0.6848596930503845}
+
+{"test case number": 381, "answer": "elway", "modAnswer": "rivera", "similarity": 0.6848596930503845}
+
+{"test case number": 381, "answer": "elway", "modAnswer": "rivera", "similarity": 0.6848596930503845}
+
+{"test case number": 382, "answer": "the chicago bears", "modAnswer": "the denver broncos", "similarity": 0.8152265548706055}
+
+{"test case number": 384, "answer": "elway", "modAnswer": "rivera", "similarity": 0.6848596930503845}
+
+{"test case number": 384, "answer": "elway", "modAnswer": "rivera", "similarity": 0.6848596930503845}
+
+{"test case number": 384, "answer": "elway", "modAnswer": "rivera", "similarity": 0.6848596930503845}
+
+{"test case number": 384, "answer": "elway", "modAnswer": "rivera", "similarity": 0.6848596930503845}
+
+{"test case number": 396, "answer": "re-sodded the field multiple times", "modAnswer": "the field had to be re-sodded multiple times.", "similarity": 0.9060682058334351}
+
+{"test case number": 401, "answer": "the pittsburgh steelers", "modAnswer": "the broncos", "similarity": 0.6675520539283752}
+
+{"test case number": 401, "answer": "the pittsburgh steelers", "modAnswer": "broncos", "similarity": 0.6158809661865234}
+
+{"test case number": 401, "answer": "the pittsburgh steelers", "modAnswer": "the broncos", "similarity": 0.6675520539283752}
+
+{"test case number": 401, "answer": "the pittsburgh steelers", "modAnswer": "broncos", "similarity": 0.6158809661865234}
+
+{"test case number": 402, "answer": "34\u201319", "modAnswer": "34-19", "similarity": 0.9414181709289551}
+
+{"test case number": 407, "answer": "34\u201319", "modAnswer": "34-19", "similarity": 0.9414181709289551}
+
+{"test case number": 408, "answer": "the pittsburgh steelers", "modAnswer": "the denver broncos played in super bowl xxxiii.", "similarity": 0.6837831735610962}
+
+{"test case number": 408, "answer": "atlanta falcons", "modAnswer": "the denver broncos played in super bowl xxxiii.", "similarity": 0.6441926956176758}
+
+{"test case number": 408, "answer": "the atlanta falcons", "modAnswer": "the denver broncos played in super bowl xxxiii.", "similarity": 0.6811464428901672}
+
+{"test case number": 408, "answer": "falcons", "modAnswer": "the denver broncos played in super bowl xxxiii.", "similarity": 0.32692912220954895}
+
+{"test case number": 408, "answer": "the pittsburgh steelers", "modAnswer": "atlanta falcons", "similarity": 0.684022843837738}
+
+{"test case number": 408, "answer": "the pittsburgh steelers", "modAnswer": "the atlanta falcons", "similarity": 0.7108070850372314}
+
+{"test case number": 408, "answer": "the pittsburgh steelers", "modAnswer": "falcons", "similarity": 0.4225958287715912}
+
+{"test case number": 409, "answer": "white", "modAnswer": "blue", "similarity": 0.7392844557762146}
+
+{"test case number": 409, "answer": "white", "modAnswer": "blue", "similarity": 0.7392844557762146}
+
+{"test case number": 409, "answer": "matching white jerseys", "modAnswer": "blue", "similarity": 0.5280149579048157}
+
+{"test case number": 409, "answer": "white", "modAnswer": "blue", "similarity": 0.7392844557762146}
+
+{"test case number": 410, "answer": "red", "modAnswer": "the black jersey", "similarity": 0.620092511177063}
+
+{"test case number": 410, "answer": "road white jerseys", "modAnswer": "the black jersey", "similarity": 0.6678105592727661}
+
+{"test case number": 410, "answer": "matching white", "modAnswer": "the black jersey", "similarity": 0.5503913760185242}
+
+{"test case number": 410, "answer": "white", "modAnswer": "the black jersey", "similarity": 0.5511818528175354}
+
+{"test case number": 410, "answer": "red", "modAnswer": "road white jerseys", "similarity": 0.5643152594566345}
+
+{"test case number": 410, "answer": "red", "modAnswer": "matching white", "similarity": 0.6589150428771973}
+
+{"test case number": 410, "answer": "red", "modAnswer": "white", "similarity": 0.7554959058761597}
+
+{"test case number": 412, "answer": "super bowl xxxiii", "modAnswer": "the last time the broncos wore white uniforms was during super bowl x", "similarity": 0.7013212442398071}
+
+{"test case number": 412, "answer": "super bowl xxxiii", "modAnswer": "the last time the broncos wore white uniforms was during super bowl x", "similarity": 0.7013212442398071}
+
+{"test case number": 412, "answer": "super bowl xxxiii", "modAnswer": "the last time the broncos wore white uniforms was during super bowl x", "similarity": 0.7013212442398071}
+
+{"test case number": 412, "answer": "xxxiii", "modAnswer": "the last time the broncos wore white uniforms was during super bowl x", "similarity": 0.3158816993236542}
+
+{"test case number": 413, "answer": "white", "modAnswer": "blue", "similarity": 0.7392844557762146}
+
+{"test case number": 413, "answer": "white", "modAnswer": "blue", "similarity": 0.7392844557762146}
+
+{"test case number": 413, "answer": "white", "modAnswer": "blue", "similarity": 0.7392844557762146}
+
+{"test case number": 415, "answer": "black jerseys with silver pants", "modAnswer": "the panthers will be wearing their usual attire.", "similarity": 0.6423847079277039}
+
+{"test case number": 415, "answer": "black jerseys with silver pants.", "modAnswer": "the panthers will be wearing their usual attire.", "similarity": 0.6568993926048279}
+
+{"test case number": 415, "answer": "black jerseys with silver pants", "modAnswer": "the panthers will be wearing their usual attire.", "similarity": 0.6423847079277039}
+
+{"test case number": 415, "answer": "black", "modAnswer": "the panthers will be wearing their usual attire.", "similarity": 0.514892041683197}
+
+{"test case number": 416, "answer": "san jose state", "modAnswer": "the san joe state campus", "similarity": 0.8604564070701599}
+
+{"test case number": 417, "answer": "stanford", "modAnswer": "the san joe university", "similarity": 0.6983640193939209}
+
+{"test case number": 417, "answer": "stanford university", "modAnswer": "the san joe university", "similarity": 0.7929162979125977}
+
+{"test case number": 418, "answer": "san jose marriott", "modAnswer": "the santa clara marriott", "similarity": 0.9044466018676758}
+
+{"test case number": 420, "answer": "the santa clara marriott", "modAnswer": "the hotel was used by the panthers during super bowl 50.", "similarity": 0.5528199672698975}
+
+{"test case number": 420, "answer": "san jose marriott", "modAnswer": "the hotel was used by the panthers during super bowl 50.", "similarity": 0.48281165957450867}
+
+{"test case number": 420, "answer": "the san jose marriott", "modAnswer": "the hotel was used by the panthers during super bowl 50.", "similarity": 0.5135700702667236}
+
+{"test case number": 420, "answer": "san jose state practice facility and stayed at the san jose marriott.", "modAnswer": "the hotel was used by the panthers during super bowl 50.", "similarity": 0.5120556354522705}
+
+{"test case number": 420, "answer": "the santa clara marriott", "modAnswer": "san jose marriott", "similarity": 0.9044466018676758}
+
+{"test case number": 422, "answer": "the san jose state practice facility", "modAnswer": "the san jose marriott", "similarity": 0.6820013523101807}
+
+{"test case number": 422, "answer": "san jose state practice facility", "modAnswer": "the san jose marriott", "similarity": 0.6797586679458618}
+
+{"test case number": 422, "answer": "the san jose state practice facility", "modAnswer": "the san jose marriott", "similarity": 0.6820013523101807}
+
+{"test case number": 422, "answer": "san jose state", "modAnswer": "the san jose marriott", "similarity": 0.738872230052948}
+
+{"test case number": 423, "answer": "the san jose marriott", "modAnswer": "the santa clara marriott", "similarity": 0.9200760722160339}
+
+{"test case number": 424, "answer": "the san jose state practice facility", "modAnswer": "the san jose marriott", "similarity": 0.6820013523101807}
+
+{"test case number": 424, "answer": "san jose state practice facility", "modAnswer": "the san jose marriott", "similarity": 0.6797586679458618}
+
+{"test case number": 424, "answer": "the san jose state practice facility", "modAnswer": "the san jose marriott", "similarity": 0.6820013523101807}
+
+{"test case number": 424, "answer": "san jose state", "modAnswer": "the san jose marriott", "similarity": 0.738872230052948}
+
+{"test case number": 425, "answer": "the hotel was the hotel of choice for the panthers.", "modAnswer": "the santa clara marriott", "similarity": 0.6832181215286255}
+
+{"test case number": 425, "answer": "san jose marriott.", "modAnswer": "the santa clara marriott", "similarity": 0.8941345810890198}
+
+{"test case number": 425, "answer": "the hotel was the hotel of choice for the panthers.", "modAnswer": "san jose marriott.", "similarity": 0.5992076396942139}
+
+{"test case number": 425, "answer": "the hotel was the hotel of choice for the panthers.", "modAnswer": "the san jose marriott", "similarity": 0.6453550457954407}
+
+{"test case number": 425, "answer": "the hotel was the hotel of choice for the panthers.", "modAnswer": "san jose marriott", "similarity": 0.5984686613082886}
+
+{"test case number": 426, "answer": "the san jose state practice facility", "modAnswer": "the santa clara marriott", "similarity": 0.6122632026672363}
+
+{"test case number": 426, "answer": "stanford university", "modAnswer": "the santa clara marriott", "similarity": 0.529636025428772}
+
+{"test case number": 426, "answer": "at stanford university", "modAnswer": "the santa clara marriott", "similarity": 0.39936140179634094}
+
+{"test case number": 426, "answer": "stanford", "modAnswer": "the santa clara marriott", "similarity": 0.539578378200531}
+
+{"test case number": 426, "answer": "the san jose state practice facility", "modAnswer": "stanford university", "similarity": 0.5302785634994507}
+
+{"test case number": 426, "answer": "the san jose state practice facility", "modAnswer": "at stanford university", "similarity": 0.4321434199810028}
+
+{"test case number": 426, "answer": "the san jose state practice facility", "modAnswer": "stanford", "similarity": 0.4827587902545929}
+
+{"test case number": 428, "answer": "the san jose state practice facility", "modAnswer": "the san jose marriott", "similarity": 0.6820013523101807}
+
+{"test case number": 430, "answer": "the san jose state practice facility", "modAnswer": "the santa clara marriott", "similarity": 0.6122632026672363}
+
+{"test case number": 430, "answer": "stanford university", "modAnswer": "the santa clara marriott", "similarity": 0.529636025428772}
+
+{"test case number": 430, "answer": "at stanford university", "modAnswer": "the santa clara marriott", "similarity": 0.39936140179634094}
+
+{"test case number": 430, "answer": "stanford", "modAnswer": "the santa clara marriott", "similarity": 0.539578378200531}
+
+{"test case number": 430, "answer": "the san jose state practice facility", "modAnswer": "stanford university", "similarity": 0.5302785634994507}
+
+{"test case number": 430, "answer": "the san jose state practice facility", "modAnswer": "at stanford university", "similarity": 0.4321434199810028}
+
+{"test case number": 430, "answer": "the san jose state practice facility", "modAnswer": "stanford", "similarity": 0.4827587902545929}
+
+{"test case number": 433, "answer": "super bowl 50", "modAnswer": "super bowl xlv", "similarity": 0.9120022654533386}
+
+{"test case number": 436, "answer": "the late vince lombardi", "modAnswer": "the vince lombardi trophy", "similarity": 0.7415231466293335}
+
+{"test case number": 439, "answer": "super bowl 50", "modAnswer": "the 50th", "similarity": 0.491888165473938}
+
+{"test case number": 439, "answer": "l", "modAnswer": "the 50th", "similarity": 0.37396034598350525}
+
+{"test case number": 439, "answer": "l", "modAnswer": "the 50th", "similarity": 0.37396034598350525}
+
+{"test case number": 439, "answer": "l", "modAnswer": "the 50th", "similarity": 0.37396034598350525}
+
+{"test case number": 443, "answer": "arab", "modAnswer": "the roman numeral for 50 is 50.", "similarity": 0.48314136266708374}
+
+{"test case number": 443, "answer": "l.", "modAnswer": "the roman numeral for 50 is 50.", "similarity": 0.4703550338745117}
+
+{"test case number": 443, "answer": "arab", "modAnswer": "l.", "similarity": 0.5093755125999451}
+
+{"test case number": 443, "answer": "arab", "modAnswer": "l", "similarity": 0.5293958187103271}
+
+{"test case number": 443, "answer": "arab", "modAnswer": "l", "similarity": 0.5293958187103271}
+
+{"test case number": 445, "answer": "on june 4, 2014", "modAnswer": "super bowl li", "similarity": 0.21218979358673096}
+
+{"test case number": 445, "answer": "on june 4, 2014", "modAnswer": "super bowl li.", "similarity": 0.24983158707618713}
+
+{"test case number": 445, "answer": "on june 4, 2014", "modAnswer": "super bowl li", "similarity": 0.21218979358673096}
+
+{"test case number": 445, "answer": "on june 4, 2014", "modAnswer": "super bowl li", "similarity": 0.21218979358673096}
+
+{"test case number": 449, "answer": "beginning on week 7", "modAnswer": "seventh week onwards", "similarity": 0.7325935363769531}
+
+{"test case number": 449, "answer": "week 7", "modAnswer": "seventh week onwards", "similarity": 0.7648981213569641}
+
+{"test case number": 469, "answer": "\"super bowl city\"", "modAnswer": "the annual nfl experience", "similarity": 0.5282869935035706}
+
+{"test case number": 469, "answer": "super bowl city", "modAnswer": "the annual nfl experience", "similarity": 0.4995300769805908}
+
+{"test case number": 469, "answer": "\"super bowl city\"", "modAnswer": "the annual nfl experience", "similarity": 0.5282869935035706}
+
+{"test case number": 469, "answer": "super bowl city", "modAnswer": "the annual nfl experience", "similarity": 0.4995300769805908}
+
+{"test case number": 481, "answer": "the city council", "modAnswer": "a professional fundraiser", "similarity": 0.4587520360946655}
+
+{"test case number": 481, "answer": "the city council", "modAnswer": "a professional fundraiser", "similarity": 0.4587520360946655}
+
+{"test case number": 481, "answer": "the city council", "modAnswer": "a professional fundraiser", "similarity": 0.4587520360946655}
+
+{"test case number": 481, "answer": "the city council", "modAnswer": "professional fundraiser", "similarity": 0.4854933023452759}
+['{"test case number": 2, "answer": "in the san francisco bay area at santa clara, california.", "modAnswer": "at levi\'s stadium in santa clara, california.", "similarity": 0.5533022284507751}\n', '{"test case number": 14, "answer": "super bowl l", "modAnswer": "the golden lions", "similarity": 0.5220032334327698}\n', '{"test case number": 14, "answer": "super bowl l", "modAnswer": "the golden lions", "similarity": 0.5220032334327698}\n', '{"test case number": 19, "answer": "24\\u201310", "modAnswer": "24-10", "similarity": 0.9384337067604065}\n', '{"test case number": 23, "answer": "the denver broncos", "modAnswer": "the carolina panthers", "similarity": 0.6808949112892151}\n', '{"test case number": 23, "answer": "the denver broncos", "modAnswer": "carolina panthers", "similarity": 0.6143831610679626}\n', '{"test case number": 23, "answer": "the denver broncos", "modAnswer": "carolina panthers", "similarity": 0.6143831610679626}\n', '{"test case number": 23, "answer": "the denver broncos", "modAnswer": "carolina panthers", "similarity": 0.6143831610679626}\n', '{"test case number": 27, "answer": "in the san francisco bay area at santa clara, california.", "modAnswer": "in santa clara, california", "similarity": 0.9239847660064697}\n', '{"test case number": 33, "answer": "the broncos", "modAnswer": "the rams", "similarity": 0.7050451040267944}\n', '{"test case number": 33, "answer": "arizona cardinals", "modAnswer": "the rams", "similarity": 0.5248264074325562}\n', '{"test case number": 33, "answer": "the arizona cardinals", "modAnswer": "the rams", "similarity": 0.5237708687782288}\n', '{"test case number": 33, "answer": "arizona cardinals", "modAnswer": "the rams", "similarity": 0.5248264074325562}\n', '{"test case number": 33, "answer": "the broncos", "modAnswer": "arizona cardinals", "similarity": 0.6121558547019958}\n', '{"test case number": 33, "answer": "the broncos", "modAnswer": "the arizona cardinals", "similarity": 0.6421313285827637}\n', '{"test case number": 33, "answer": "the broncos", "modAnswer": "arizona cardinals", "similarity": 0.6121558547019958}\n', '{"test case number": 34, "answer": "the new york yankees", "modAnswer": "the new england patriots", "similarity": 0.6811606884002686}\n', '{"test case number": 34, "answer": "the new york yankees", "modAnswer": "new england patriots", "similarity": 0.6760417819023132}\n', '{"test case number": 34, "answer": "the new york yankees", "modAnswer": "the new england patriots", "similarity": 0.6811606884002686}\n', '{"test case number": 34, "answer": "the new york yankees", "modAnswer": "new england patriots", "similarity": 0.6760417819023132}\n', '{"test case number": 36, "answer": "the new york yankees", "modAnswer": "the new england patriots", "similarity": 0.6811606884002686}\n', '{"test case number": 36, "answer": "the new york yankees", "modAnswer": "new england patriots", "similarity": 0.6760417819023132}\n', '{"test case number": 36, "answer": "the new york yankees", "modAnswer": "the new england patriots", "similarity": 0.6811606884002686}\n', '{"test case number": 36, "answer": "the new york yankees", "modAnswer": "new england patriots", "similarity": 0.6760417819023132}\n', '{"test case number": 38, "answer": "four", "modAnswer": "eight", "similarity": 0.771425187587738}\n', '{"test case number": 40, "answer": "15\\u20131", "modAnswer": "15-1", "similarity": 0.9413986802101135}\n', '{"test case number": 42, "answer": "12\\u20134", "modAnswer": "12-4", "similarity": 0.9343382716178894}\n', '{"test case number": 43, "answer": "four", "modAnswer": "eight", "similarity": 0.771425187587738}\n', '{"test case number": 44, "answer": "the new york yankees", "modAnswer": "the new england patriots", "similarity": 0.6811606884002686}\n', '{"test case number": 44, "answer": "the new york yankees", "modAnswer": "new england patriots", "similarity": 0.6760417819023132}\n', '{"test case number": 44, "answer": "the new york yankees", "modAnswer": "the new england patriots", "similarity": 0.6811606884002686}\n', '{"test case number": 44, "answer": "the new york yankees", "modAnswer": "new england patriots", "similarity": 0.6760417819023132}\n', '{"test case number": 51, "answer": "the arizona cardinals", "modAnswer": "the aztecs", "similarity": 0.4933609962463379}\n', '{"test case number": 51, "answer": "arizona cardinals", "modAnswer": "the aztecs", "similarity": 0.4895836412906647}\n', '{"test case number": 51, "answer": "the arizona cardinals", "modAnswer": "the aztecs", "similarity": 0.4933609962463379}\n', '{"test case number": 51, "answer": "arizona cardinals", "modAnswer": "the aztecs", "similarity": 0.4895836412906647}\n', '{"test case number": 53, "answer": "the arizona cardinals", "modAnswer": "the aztecs", "similarity": 0.4933609962463379}\n', '{"test case number": 53, "answer": "arizona cardinals", "modAnswer": "the aztecs", "similarity": 0.4895836412906647}\n', '{"test case number": 53, "answer": "the arizona cardinals", "modAnswer": "the aztecs", "similarity": 0.4933609962463379}\n', '{"test case number": 53, "answer": "arizona cardinals", "modAnswer": "the aztecs", "similarity": 0.4895836412906647}\n', '{"test case number": 55, "answer": "von miller", "modAnswer": "van miller", "similarity": 0.9103202819824219}\n', '{"test case number": 58, "answer": "von miller", "modAnswer": "van miller", "similarity": 0.9103202819824219}\n', '{"test case number": 62, "answer": "von miller", "modAnswer": "van miller", "similarity": 0.9103202819824219}\n', '{"test case number": 65, "answer": "von miller", "modAnswer": "van miller", "similarity": 0.9103202819824219}\n', '{"test case number": 69, "answer": "von miller", "modAnswer": "van miller", "similarity": 0.9103202819824219}\n', '{"test case number": 74, "answer": "von miller", "modAnswer": "van miller", "similarity": 0.9103202819824219}\n', '{"test case number": 78, "answer": "von miller", "modAnswer": "dr. chilton", "similarity": 0.6004296541213989}\n', '{"test case number": 78, "answer": "von miller", "modAnswer": "dr. chilton", "similarity": 0.6004296541213989}\n', '{"test case number": 78, "answer": "von miller", "modAnswer": "dr. chilton", "similarity": 0.6004296541213989}\n', '{"test case number": 78, "answer": "von miller", "modAnswer": "dr. chilton", "similarity": 0.6004296541213989}\n', '{"test case number": 89, "answer": "beyonc\\u00e9 and bruno mars", "modAnswer": "coldplay", "similarity": 0.3646734058856964}\n', '{"test case number": 89, "answer": "beyonc\\u00e9 and bruno mars", "modAnswer": "coldplay", "similarity": 0.3646734058856964}\n', '{"test case number": 89, "answer": "beyonc\\u00e9 and bruno mars", "modAnswer": "coldplay", "similarity": 0.3646734058856964}\n', '{"test case number": 89, "answer": "beyonc\\u00e9 and bruno mars", "modAnswer": "coldplay", "similarity": 0.3646734058856964}\n', '{"test case number": 93, "answer": "third-most watched", "modAnswer": "third highest", "similarity": 0.7380045652389526}\n', '{"test case number": 99, "answer": "beyonc\\u00e9 and bruno mars", "modAnswer": "coldplay", "similarity": 0.3646734058856964}\n', '{"test case number": 99, "answer": "beyonc\\u00e9 and bruno mars", "modAnswer": "coldplay", "similarity": 0.3646734058856964}\n', '{"test case number": 99, "answer": "beyonc\\u00e9 and bruno mars", "modAnswer": "coldplay", "similarity": 0.3646734058856964}\n', '{"test case number": 99, "answer": "beyonc\\u00e9 and bruno mars", "modAnswer": "coldplay", "similarity": 0.3646734058856964}\n', '{"test case number": 101, "answer": "the super bowl 50 halftime show", "modAnswer": "coldplay", "similarity": 0.44410109519958496}\n', '{"test case number": 101, "answer": "super bowl xlvii", "modAnswer": "coldplay", "similarity": 0.450236976146698}\n', '{"test case number": 101, "answer": "super bowl xlvii", "modAnswer": "coldplay", "similarity": 0.450236976146698}\n', '{"test case number": 101, "answer": "super bowl xlvii", "modAnswer": "coldplay", "similarity": 0.450236976146698}\n', '{"test case number": 101, "answer": "the super bowl 50 halftime show", "modAnswer": "super bowl xlvii", "similarity": 0.778722882270813}\n', '{"test case number": 103, "answer": "beyonc\\u00e9 and bruno mars", "modAnswer": "coldplay", "similarity": 0.3646734058856964}\n', '{"test case number": 103, "answer": "beyonc\\u00e9 and bruno mars", "modAnswer": "coldplay", "similarity": 0.3646734058856964}\n', '{"test case number": 103, "answer": "beyonc\\u00e9 and bruno mars", "modAnswer": "coldplay", "similarity": 0.3646734058856964}\n', '{"test case number": 103, "answer": "beyonc\\u00e9 and bruno mars", "modAnswer": "coldplay", "similarity": 0.3646734058856964}\n', '{"test case number": 114, "answer": "\\"an important game for us as a league\\".", "modAnswer": "the 50th super bowl", "similarity": 0.43810659646987915}\n', '{"test case number": 114, "answer": "spectacular", "modAnswer": "the 50th super bowl", "similarity": 0.2853236198425293}\n', '{"test case number": 114, "answer": "an important game for us as a league", "modAnswer": "the 50th super bowl", "similarity": 0.4089992046356201}\n', '{"test case number": 114, "answer": "spectacular", "modAnswer": "the 50th super bowl", "similarity": 0.2853236198425293}\n', '{"test case number": 114, "answer": "\\"an important game for us as a league\\".", "modAnswer": "spectacular", "similarity": 0.44431665539741516}\n', '{"test case number": 115, "answer": "spectacular", "modAnswer": "extraordinary", "similarity": 0.78306645154953}\n', '{"test case number": 119, "answer": "sun life stadium", "modAnswer": "the levi\'s stadium", "similarity": 0.757940948009491}\n', '{"test case number": 119, "answer": "san francisco bay area\'s levi\'s stadium", "modAnswer": "the levi\'s stadium", "similarity": 0.7527992129325867}\n', '{"test case number": 119, "answer": "san francisco bay area\'s levi\'s stadium", "modAnswer": "the levi\'s stadium", "similarity": 0.7527992129325867}\n', '{"test case number": 119, "answer": "sun life stadium", "modAnswer": "san francisco bay area\'s levi\'s stadium", "similarity": 0.6742433309555054}\n', '{"test case number": 119, "answer": "sun life stadium", "modAnswer": "san francisco bay area\'s levi\'s stadium", "similarity": 0.6742433309555054}\n', '{"test case number": 119, "answer": "sun life stadium", "modAnswer": "levi\'s stadium", "similarity": 0.7864587306976318}\n', '{"test case number": 123, "answer": "new orleans\' mercedes-benz superdome", "modAnswer": "the mercedes-benz superdome", "similarity": 0.8332571983337402}\n', '{"test case number": 125, "answer": "new orleans\' mercedes-benz superdome, miamis sun life stadium,", "modAnswer": "the mercedes-benz superdome in new orleans, sun life stadium in miami, and levi", "similarity": 0.931724488735199}\n', '{"test case number": 129, "answer": "new orleans", "modAnswer": "new york", "similarity": 0.7752730846405029}\n', '{"test case number": 132, "answer": "sun life stadium", "modAnswer": "the mercedes-benz superdome", "similarity": 0.7073274254798889}\n', '{"test case number": 132, "answer": "sun life stadium", "modAnswer": "mercedes-benz superdome", "similarity": 0.7056163549423218}\n', '{"test case number": 132, "answer": "sun life stadium", "modAnswer": "mercedes-benz superdome", "similarity": 0.7056163549423218}\n', '{"test case number": 132, "answer": "sun life stadium", "modAnswer": "mercedes-benz superdome,", "similarity": 0.7102575898170471}\n', '{"test case number": 133, "answer": "the new york times building", "modAnswer": "the mercedes-benz superdome in new orleans, sun life stadium in miami", "similarity": 0.5486986637115479}\n', '{"test case number": 133, "answer": "levi\'s stadium.", "modAnswer": "the mercedes-benz superdome in new orleans, sun life stadium in miami", "similarity": 0.7429102063179016}\n', '{"test case number": 133, "answer": "levi\'s stadium", "modAnswer": "the mercedes-benz superdome in new orleans, sun life stadium in miami", "similarity": 0.7296156287193298}\n', '{"test case number": 133, "answer": "levi\'s stadium.", "modAnswer": "the mercedes-benz superdome in new orleans, sun life stadium in miami", "similarity": 0.7429102063179016}\n', '{"test case number": 133, "answer": "the new york times building", "modAnswer": "levi\'s stadium.", "similarity": 0.4909851849079132}\n', '{"test case number": 133, "answer": "the new york times building", "modAnswer": "levi\'s stadium", "similarity": 0.4897018373012543}\n', '{"test case number": 133, "answer": "the new york times building", "modAnswer": "levi\'s stadium.", "similarity": 0.4909851849079132}\n', '{"test case number": 145, "answer": "the last super bowl that took place at sun life stadium in miami was in 1985 (super bowl", "modAnswer": "the last one took place at sun life stadium in miami.", "similarity": 0.7965985536575317}\n', '{"test case number": 149, "answer": "new orleans", "modAnswer": "new york", "similarity": 0.7752730846405029}\n', '{"test case number": 155, "answer": "on may 21, 2013", "modAnswer": "2014", "similarity": 0.5445939302444458}\n', '{"test case number": 155, "answer": "may 21, 2013", "modAnswer": "2014", "similarity": 0.7506144642829895}\n', '{"test case number": 155, "answer": "may 21, 2013", "modAnswer": "2014", "similarity": 0.7506144642829895}\n', '{"test case number": 155, "answer": "may 21, 2013,", "modAnswer": "2014", "similarity": 0.7537318468093872}\n', '{"test case number": 156, "answer": "the owners of the $1.2 billion stadium in boston voted on the venue for the game.", "modAnswer": "the fans", "similarity": 0.370339959859848}\n', '{"test case number": 156, "answer": "nfl owners", "modAnswer": "the fans", "similarity": 0.47837480902671814}\n', '{"test case number": 156, "answer": "nfl owners", "modAnswer": "the fans", "similarity": 0.47837480902671814}\n', '{"test case number": 156, "answer": "nfl owners", "modAnswer": "the fans", "similarity": 0.47837480902671814}\n', '{"test case number": 156, "answer": "the owners of the $1.2 billion stadium in boston voted on the venue for the game.", "modAnswer": "nfl owners", "similarity": 0.5677840709686279}\n', '{"test case number": 156, "answer": "the owners of the $1.2 billion stadium in boston voted on the venue for the game.", "modAnswer": "nfl owners", "similarity": 0.5677840709686279}\n', '{"test case number": 156, "answer": "the owners of the $1.2 billion stadium in boston voted on the venue for the game.", "modAnswer": "nfl owners", "similarity": 0.5677840709686279}\n', '{"test case number": 157, "answer": "on may 21, 2013", "modAnswer": "2014", "similarity": 0.5445939302444458}\n', '{"test case number": 157, "answer": "on may 21, 2013", "modAnswer": "2014", "similarity": 0.5445939302444458}\n', '{"test case number": 157, "answer": "on may 21, 2013", "modAnswer": "in 2014", "similarity": 0.7284625172615051}\n', '{"test case number": 157, "answer": "on may 21, 2013", "modAnswer": "2014", "similarity": 0.5445939302444458}\n', '{"test case number": 158, "answer": "$1.2 billion", "modAnswer": "$2 billion", "similarity": 0.9541926980018616}\n', '{"test case number": 162, "answer": "$1.2 billion", "modAnswer": "$2 billion", "similarity": 0.9541926980018616}\n', '{"test case number": 163, "answer": "super bowl xxxvii", "modAnswer": "the last super bowl in california was in san diego in 2003.", "similarity": 0.6188077330589294}\n', '{"test case number": 163, "answer": "super bowl xxxvii", "modAnswer": "the last super bowl in california was in san diego in 2003.", "similarity": 0.6188077330589294}\n', '{"test case number": 163, "answer": "super bowl xxxvii", "modAnswer": "the last super bowl in california was in san diego in 2003.", "similarity": 0.6188077330589294}\n', '{"test case number": 163, "answer": "xxxvii", "modAnswer": "the last super bowl in california was in san diego in 2003.", "similarity": 0.2889921963214874}\n', '{"test case number": 165, "answer": "2013", "modAnswer": "2014", "similarity": 0.9395576119422913}\n', '{"test case number": 166, "answer": "on may 21, 2013", "modAnswer": "2014", "similarity": 0.5445939302444458}\n', '{"test case number": 166, "answer": "on may 21, 2013", "modAnswer": "2014", "similarity": 0.5445939302444458}\n', '{"test case number": 166, "answer": "on may 21, 2013", "modAnswer": "2014", "similarity": 0.5445939302444458}\n', '{"test case number": 166, "answer": "on may 21, 2013", "modAnswer": "2014", "similarity": 0.5445939302444458}\n', '{"test case number": 167, "answer": "$1.2 billion", "modAnswer": "$2 billion", "similarity": 0.9541926980018616}\n', '{"test case number": 169, "answer": "super bowl xxxvii", "modAnswer": "the last super bowl", "similarity": 0.778886616230011}\n', '{"test case number": 171, "answer": "on may 21, 2013", "modAnswer": "2014", "similarity": 0.5445939302444458}\n', '{"test case number": 171, "answer": "on may 21, 2013", "modAnswer": "2014", "similarity": 0.5445939302444458}\n', '{"test case number": 171, "answer": "on may 21, 2013", "modAnswer": "in 2014", "similarity": 0.7284625172615051}\n', '{"test case number": 171, "answer": "on may 21, 2013", "modAnswer": "2014", "similarity": 0.5445939302444458}\n', '{"test case number": 172, "answer": "no", "modAnswer": "2003", "similarity": 0.5320687294006348}\n', '{"test case number": 172, "answer": "no", "modAnswer": "2003", "similarity": 0.5320687294006348}\n', '{"test case number": 172, "answer": "no", "modAnswer": "in 2003", "similarity": 0.31097152829170227}\n', '{"test case number": 172, "answer": "no", "modAnswer": "2003", "similarity": 0.5320687294006348}\n', '{"test case number": 173, "answer": "in boston", "modAnswer": "in the san fancisco bay area", "similarity": 0.5143938660621643}\n', '{"test case number": 173, "answer": "boston", "modAnswer": "in the san fancisco bay area", "similarity": 0.5113129615783691}\n', '{"test case number": 173, "answer": "in boston", "modAnswer": "in the san fancisco bay area", "similarity": 0.5143938660621643}\n', '{"test case number": 173, "answer": "boston", "modAnswer": "in the san fancisco bay area", "similarity": 0.5113129615783691}\n', '{"test case number": 175, "answer": "on may 21, 2013", "modAnswer": "2014", "similarity": 0.5445939302444458}\n', '{"test case number": 175, "answer": "on may 21, 2013", "modAnswer": "2014.", "similarity": 0.553549587726593}\n', '{"test case number": 175, "answer": "on may 21, 2013", "modAnswer": "in 2014", "similarity": 0.7284625172615051}\n', '{"test case number": 175, "answer": "on may 21, 2013", "modAnswer": "2014", "similarity": 0.5445939302444458}\n', '{"test case number": 176, "answer": "$1.2 billion", "modAnswer": "$2 billion", "similarity": 0.9541926980018616}\n', '{"test case number": 177, "answer": "last time", "modAnswer": "the last super bowl took place in 2003.", "similarity": 0.47705602645874023}\n', '{"test case number": 177, "answer": "last time", "modAnswer": "2003.", "similarity": 0.4547804594039917}\n', '{"test case number": 177, "answer": "last time", "modAnswer": "2003", "similarity": 0.46977731585502625}\n', '{"test case number": 177, "answer": "last time", "modAnswer": "2003", "similarity": 0.46977731585502625}\n', '{"test case number": 180, "answer": "six", "modAnswer": "10", "similarity": 0.6857105493545532}\n', '{"test case number": 180, "answer": "six", "modAnswer": "10", "similarity": 0.6857105493545532}\n', '{"test case number": 180, "answer": "six", "modAnswer": "10", "similarity": 0.6857105493545532}\n', '{"test case number": 180, "answer": "six", "modAnswer": "10", "similarity": 0.6857105493545532}\n', '{"test case number": 182, "answer": "super bowl xxxviii", "modAnswer": "super bowl 50", "similarity": 0.8756911158561707}\n', '{"test case number": 183, "answer": "john favre", "modAnswer": "john fox", "similarity": 0.822131872177124}\n', '{"test case number": 186, "answer": "the first super bowl was played in the nfl divisional tournament.", "modAnswer": "xxxviii", "similarity": 0.281349778175354}\n', '{"test case number": 186, "answer": "the first super bowl was played in the nfl divisional tournament.", "modAnswer": "super bowl xxxviii", "similarity": 0.6609883308410645}\n', '{"test case number": 186, "answer": "the first super bowl was played in the nfl divisional tournament.", "modAnswer": "super bowl xxxviii", "similarity": 0.6609883308410645}\n', '{"test case number": 186, "answer": "the first super bowl was played in the nfl divisional tournament.", "modAnswer": "xxxviii", "similarity": 0.281349778175354}\n', '{"test case number": 187, "answer": "six", "modAnswer": "10", "similarity": 0.6857105493545532}\n', '{"test case number": 187, "answer": "six", "modAnswer": "10", "similarity": 0.6857105493545532}\n', '{"test case number": 187, "answer": "ten", "modAnswer": "10", "similarity": 0.8973010778427124}\n', '{"test case number": 188, "answer": "number one", "modAnswer": "the top seed was the carolina panthers.", "similarity": 0.4714294373989105}\n', '{"test case number": 188, "answer": "number one", "modAnswer": "the top seed was the carolina panthers.", "similarity": 0.4714294373989105}\n', '{"test case number": 188, "answer": "number one", "modAnswer": "the top seed was the carolina panthers.", "similarity": 0.4714294373989105}\n', '{"test case number": 188, "answer": "one", "modAnswer": "the top seed was the carolina panthers.", "similarity": 0.330189049243927}\n', '{"test case number": 189, "answer": "the number one seed was the denver broncos.", "modAnswer": "the top seed was the denver broncos.", "similarity": 0.9623324275016785}\n', '{"test case number": 190, "answer": "the last time the teams met was in the regular season.", "modAnswer": "when they last appeared in the super bowl.", "similarity": 0.7399181127548218}\n', '{"test case number": 190, "answer": "super bowl xlviii", "modAnswer": "when they last appeared in the super bowl.", "similarity": 0.6480029821395874}\n', '{"test case number": 190, "answer": "super bowl xlviii", "modAnswer": "when they last appeared in the super bowl.", "similarity": 0.6480029821395874}\n', '{"test case number": 190, "answer": "super bowl xlviii", "modAnswer": "when they last appeared in the super bowl.", "similarity": 0.6480029821395874}\n', '{"test case number": 190, "answer": "the last time the teams met was in the regular season.", "modAnswer": "super bowl xlviii", "similarity": 0.5639454126358032}\n', '{"test case number": 190, "answer": "the last time the teams met was in the regular season.", "modAnswer": "super bowl xlviii", "similarity": 0.5639454126358032}\n', '{"test case number": 190, "answer": "the last time the teams met was in the regular season.", "modAnswer": "super bowl xlviii", "similarity": 0.5639454126358032}\n', '{"test case number": 191, "answer": "in their last super bowl appearance.", "modAnswer": "when they last appeared in the super bowl.", "similarity": 0.8915789127349854}\n', '{"test case number": 192, "answer": "six", "modAnswer": "10", "similarity": 0.6857105493545532}\n', '{"test case number": 192, "answer": "six", "modAnswer": "10", "similarity": 0.6857105493545532}\n', '{"test case number": 192, "answer": "ten", "modAnswer": "10", "similarity": 0.8973010778427124}\n', '{"test case number": 196, "answer": "yes", "modAnswer": "no", "similarity": 0.7259047031402588}\n', '{"test case number": 196, "answer": "deangelo williams", "modAnswer": "no", "similarity": 0.40676480531692505}\n', '{"test case number": 196, "answer": "deangelo williams", "modAnswer": "no", "similarity": 0.40676480531692505}\n', '{"test case number": 196, "answer": "williams", "modAnswer": "no", "similarity": 0.4736574590206146}\n', '{"test case number": 196, "answer": "yes", "modAnswer": "deangelo williams", "similarity": 0.4535602927207947}\n', '{"test case number": 196, "answer": "yes", "modAnswer": "deangelo williams", "similarity": 0.4535602927207947}\n', '{"test case number": 196, "answer": "yes", "modAnswer": "williams", "similarity": 0.477529376745224}\n', '{"test case number": 197, "answer": "kelvin benjamin", "modAnswer": "deangelo williams", "similarity": 0.6916223764419556}\n', '{"test case number": 197, "answer": "kelvin benjamin", "modAnswer": "deangelo williams", "similarity": 0.6916223764419556}\n', '{"test case number": 197, "answer": "kelvin benjamin", "modAnswer": "deangelo williams", "similarity": 0.6916223764419556}\n', '{"test case number": 197, "answer": "benjamin", "modAnswer": "deangelo williams", "similarity": 0.6347432732582092}\n', '{"test case number": 203, "answer": "kelvin benjamin", "modAnswer": "wide receiver", "similarity": 0.40169602632522583}\n', '{"test case number": 203, "answer": "kelvin benjamin", "modAnswer": "wide receiver", "similarity": 0.40169602632522583}\n', '{"test case number": 203, "answer": "kelvin benjamin", "modAnswer": "wide receiver", "similarity": 0.40169602632522583}\n', '{"test case number": 203, "answer": "benjamin", "modAnswer": "wide receiver", "similarity": 0.3717101812362671}\n', '{"test case number": 205, "answer": "1978", "modAnswer": "2009", "similarity": 0.6663849353790283}\n', '{"test case number": 205, "answer": "1978", "modAnswer": "2009", "similarity": 0.6663849353790283}\n', '{"test case number": 205, "answer": "1978", "modAnswer": "2009", "similarity": 0.6663849353790283}\n', '{"test case number": 205, "answer": "1978", "modAnswer": "2009", "similarity": 0.6663849353790283}\n', '{"test case number": 207, "answer": "a torn acl", "modAnswer": "wide receiver", "similarity": 0.429067999124527}\n', '{"test case number": 207, "answer": "torn acl", "modAnswer": "wide receiver", "similarity": 0.43586844205856323}\n', '{"test case number": 207, "answer": "a torn acl", "modAnswer": "wide receiver", "similarity": 0.429067999124527}\n', '{"test case number": 207, "answer": "torn acl", "modAnswer": "wide receiver", "similarity": 0.43586844205856323}\n', '{"test case number": 208, "answer": "kelvin benjamin", "modAnswer": "wide receiver", "similarity": 0.40169602632522583}\n', '{"test case number": 208, "answer": "kelvin benjamin", "modAnswer": "wide receiver", "similarity": 0.40169602632522583}\n', '{"test case number": 208, "answer": "kelvin benjamin", "modAnswer": "wide receiver", "similarity": 0.40169602632522583}\n', '{"test case number": 208, "answer": "benjamin", "modAnswer": "wide receiver", "similarity": 0.3717101812362671}\n', '{"test case number": 209, "answer": "deangelo williams", "modAnswer": "wide receiver", "similarity": 0.36151745915412903}\n', '{"test case number": 209, "answer": "deangelo williams", "modAnswer": "wide receiver", "similarity": 0.36151745915412903}\n', '{"test case number": 209, "answer": "deangelo williams", "modAnswer": "wide receiver", "similarity": 0.36151745915412903}\n', '{"test case number": 209, "answer": "williams", "modAnswer": "wide receiver", "similarity": 0.4059334099292755}\n', '{"test case number": 223, "answer": "77", "modAnswer": "35", "similarity": 0.7814658284187317}\n', '{"test case number": 224, "answer": "veteran receiver", "modAnswer": "quarterback", "similarity": 0.529809832572937}\n', '{"test case number": 224, "answer": "receivers", "modAnswer": "quarterback", "similarity": 0.510901927947998}\n', '{"test case number": 224, "answer": "receivers", "modAnswer": "quarterback", "similarity": 0.510901927947998}\n', '{"test case number": 224, "answer": "receivers", "modAnswer": "quarterback", "similarity": 0.510901927947998}\n', '{"test case number": 224, "answer": "veteran receiver", "modAnswer": "receivers", "similarity": 0.738090991973877}\n', '{"test case number": 224, "answer": "veteran receiver", "modAnswer": "receivers", "similarity": 0.738090991973877}\n', '{"test case number": 224, "answer": "veteran receiver", "modAnswer": "receivers", "similarity": 0.738090991973877}\n', '{"test case number": 232, "answer": "1,104", "modAnswer": "3,837", "similarity": 0.8262900114059448}\n', '{"test case number": 235, "answer": "39", "modAnswer": "485", "similarity": 0.8236562013626099}\n', '{"test case number": 265, "answer": "head coach john fox", "modAnswer": "john favre", "similarity": 0.5974337458610535}\n', '{"test case number": 265, "answer": "john fox", "modAnswer": "john favre", "similarity": 0.822131872177124}\n', '{"test case number": 268, "answer": "plantar fasciitis in his left foot", "modAnswer": "his left foot.", "similarity": 0.7838183045387268}\n', '{"test case number": 271, "answer": "no", "modAnswer": "67", "similarity": 0.6093618869781494}\n', '{"test case number": 271, "answer": "17", "modAnswer": "67", "similarity": 0.8507500290870667}\n', '{"test case number": 271, "answer": "no", "modAnswer": "17", "similarity": 0.5783706307411194}\n', '{"test case number": 271, "answer": "no", "modAnswer": "17", "similarity": 0.5783706307411194}\n', '{"test case number": 271, "answer": "no", "modAnswer": "17", "similarity": 0.5783706307411194}\n', '{"test case number": 273, "answer": "c. j. anderson", "modAnswer": "edward gammell", "similarity": 0.7583960890769958}\n', '{"test case number": 273, "answer": "c. j. anderson", "modAnswer": "edward gammell", "similarity": 0.7583960890769958}\n', '{"test case number": 273, "answer": "c. j. anderson", "modAnswer": "edward gammell", "similarity": 0.7583960890769958}\n', '{"test case number": 273, "answer": "anderson", "modAnswer": "edward gammell", "similarity": 0.617912769317627}\n', '{"test case number": 277, "answer": "17", "modAnswer": "67", "similarity": 0.8507500290870667}\n', '{"test case number": 281, "answer": "six", "modAnswer": "17", "similarity": 0.6283878087997437}\n', '{"test case number": 281, "answer": "six", "modAnswer": "17", "similarity": 0.6283878087997437}\n', '{"test case number": 281, "answer": "six", "modAnswer": "17", "similarity": 0.6283878087997437}\n', '{"test case number": 281, "answer": "six", "modAnswer": "17", "similarity": 0.6283878087997437}\n', '{"test case number": 285, "answer": "six", "modAnswer": "17", "similarity": 0.6283878087997437}\n', '{"test case number": 285, "answer": "six", "modAnswer": "17", "similarity": 0.6283878087997437}\n', '{"test case number": 285, "answer": "six", "modAnswer": "17", "similarity": 0.6283878087997437}\n', '{"test case number": 285, "answer": "six", "modAnswer": "17", "similarity": 0.6283878087997437}\n', '{"test case number": 287, "answer": "c. j. anderson", "modAnswer": "edward gammell", "similarity": 0.7583960890769958}\n', '{"test case number": 287, "answer": "c. j. anderson", "modAnswer": "edward gammell", "similarity": 0.7583960890769958}\n', '{"test case number": 287, "answer": "c. j. anderson", "modAnswer": "edward gammell", "similarity": 0.7583960890769958}\n', '{"test case number": 287, "answer": "anderson", "modAnswer": "edward gammell", "similarity": 0.617912769317627}\n', '{"test case number": 290, "answer": "512", "modAnswer": "5 1/2", "similarity": 0.7206954956054688}\n', '{"test case number": 290, "answer": "5\\u00bd", "modAnswer": "5 1/2", "similarity": 0.8979178071022034}\n', '{"test case number": 290, "answer": "512", "modAnswer": "5\\u00bd", "similarity": 0.7157410979270935}\n', '{"test case number": 290, "answer": "512", "modAnswer": "5\\u00bd", "similarity": 0.7157410979270935}\n', '{"test case number": 290, "answer": "512", "modAnswer": "5\\u00bd", "similarity": 0.7157410979270935}\n', '{"test case number": 292, "answer": "three", "modAnswer": "4", "similarity": 0.7036783695220947}\n', '{"test case number": 292, "answer": "three", "modAnswer": "4", "similarity": 0.7036783695220947}\n', '{"test case number": 292, "answer": "three", "modAnswer": "4", "similarity": 0.7036783695220947}\n', '{"test case number": 292, "answer": "three", "modAnswer": "4", "similarity": 0.7036783695220947}\n', '{"test case number": 293, "answer": "linebacker", "modAnswer": "cornerback", "similarity": 0.8329349160194397}\n', '{"test case number": 295, "answer": "defensive ends", "modAnswer": "cornerback", "similarity": 0.6757023334503174}\n', '{"test case number": 295, "answer": "defensive ends", "modAnswer": "cornerback", "similarity": 0.6757023334503174}\n', '{"test case number": 295, "answer": "defensive ends", "modAnswer": "cornerback", "similarity": 0.6757023334503174}\n', '{"test case number": 295, "answer": "defensive ends", "modAnswer": "cornerback", "similarity": 0.6757023334503174}\n', '{"test case number": 297, "answer": "von miller", "modAnswer": "demarcus ware", "similarity": 0.6168322563171387}\n', '{"test case number": 297, "answer": "von miller", "modAnswer": "demarcus ware", "similarity": 0.6168322563171387}\n', '{"test case number": 297, "answer": "von miller", "modAnswer": "demarcus ware", "similarity": 0.6168322563171387}\n', '{"test case number": 297, "answer": "miller", "modAnswer": "demarcus ware", "similarity": 0.5976344347000122}\n', '{"test case number": 300, "answer": "von miller", "modAnswer": "brandon marshall", "similarity": 0.6760939359664917}\n', '{"test case number": 300, "answer": "von miller", "modAnswer": "brandon marshall", "similarity": 0.6760939359664917}\n', '{"test case number": 300, "answer": "von miller", "modAnswer": "brandon marshall", "similarity": 0.6760939359664917}\n', '{"test case number": 300, "answer": "miller", "modAnswer": "brandon marshall", "similarity": 0.629252016544342}\n', '{"test case number": 320, "answer": "the defending champion new york yankees", "modAnswer": "the defending champions", "similarity": 0.5688061714172363}\n', '{"test case number": 320, "answer": "new england patriots", "modAnswer": "the defending champions", "similarity": 0.31876057386398315}\n', '{"test case number": 320, "answer": "new england patriots", "modAnswer": "the defending champions", "similarity": 0.31876057386398315}\n', '{"test case number": 320, "answer": "patriots", "modAnswer": "the defending champions", "similarity": 0.42271295189857483}\n', '{"test case number": 320, "answer": "the defending champion new york yankees", "modAnswer": "new england patriots", "similarity": 0.5354743599891663}\n', '{"test case number": 320, "answer": "the defending champion new york yankees", "modAnswer": "new england patriots", "similarity": 0.5354743599891663}\n', '{"test case number": 320, "answer": "the defending champion new york yankees", "modAnswer": "patriots", "similarity": 0.42918285727500916}\n', '{"test case number": 321, "answer": "20\\u201318", "modAnswer": "20-18", "similarity": 0.9352328181266785}\n', '{"test case number": 324, "answer": "11 points", "modAnswer": "20-18", "similarity": 0.5911845564842224}\n', '{"test case number": 324, "answer": "23\\u201316", "modAnswer": "20-18", "similarity": 0.851061999797821}\n', '{"test case number": 324, "answer": "11 points", "modAnswer": "23\\u201316", "similarity": 0.5784662365913391}\n', '{"test case number": 324, "answer": "11 points", "modAnswer": "23\\u201316", "similarity": 0.5784662365913391}\n', '{"test case number": 324, "answer": "11 points", "modAnswer": ", 23\\u201316,", "similarity": 0.5539706349372864}\n', '{"test case number": 325, "answer": "the defending champion new york yankees", "modAnswer": "the defending champions", "similarity": 0.5688061714172363}\n', '{"test case number": 325, "answer": "new england patriots", "modAnswer": "the defending champions", "similarity": 0.31876057386398315}\n', '{"test case number": 325, "answer": "new england patriots", "modAnswer": "the defending champions", "similarity": 0.31876057386398315}\n', '{"test case number": 325, "answer": "patriots", "modAnswer": "the defending champions", "similarity": 0.42271295189857483}\n', '{"test case number": 325, "answer": "the defending champion new york yankees", "modAnswer": "new england patriots", "similarity": 0.5354743599891663}\n', '{"test case number": 325, "answer": "the defending champion new york yankees", "modAnswer": "new england patriots", "similarity": 0.5354743599891663}\n', '{"test case number": 325, "answer": "the defending champion new york yankees", "modAnswer": "patriots", "similarity": 0.42918285727500916}\n', '{"test case number": 328, "answer": "the pittsburgh steelers", "modAnswer": "the new york yankees", "similarity": 0.5235555768013}\n', '{"test case number": 328, "answer": "pittsburgh steelers", "modAnswer": "the new york yankees", "similarity": 0.5158184766769409}\n', '{"test case number": 328, "answer": "the pittsburgh steelers", "modAnswer": "the new york yankees", "similarity": 0.5235555768013}\n', '{"test case number": 328, "answer": "steelers", "modAnswer": "the new york yankees", "similarity": 0.4857885241508484}\n', '{"test case number": 331, "answer": "the pittsburgh steelers", "modAnswer": "the new york yankees", "similarity": 0.5235555768013}\n', '{"test case number": 331, "answer": "pittsburgh steelers", "modAnswer": "the new york yankees", "similarity": 0.5158184766769409}\n', '{"test case number": 331, "answer": "pittsburgh steelers", "modAnswer": "the new york yankees", "similarity": 0.5158184766769409}\n', '{"test case number": 331, "answer": "steelers", "modAnswer": "the new york yankees", "similarity": 0.4857885241508484}\n', '{"test case number": 332, "answer": "the new york yankees", "modAnswer": "the new england patriots", "similarity": 0.6811606884002686}\n', '{"test case number": 332, "answer": "the new york yankees", "modAnswer": "new england patriots", "similarity": 0.6760417819023132}\n', '{"test case number": 332, "answer": "the new york yankees", "modAnswer": "new england patriots", "similarity": 0.6760417819023132}\n', '{"test case number": 332, "answer": "the new york yankees", "modAnswer": "patriots", "similarity": 0.5146499872207642}\n', '{"test case number": 350, "answer": "the broncos", "modAnswer": "the denver broncos", "similarity": 0.8688135743141174}\n', '{"test case number": 354, "answer": "peyton", "modAnswer": "john elway", "similarity": 0.5563627481460571}\n', '{"test case number": 354, "answer": "peyton manning", "modAnswer": "john elway", "similarity": 0.6226620078086853}\n', '{"test case number": 354, "answer": "peyton manning", "modAnswer": "john elway", "similarity": 0.6226620078086853}\n', '{"test case number": 354, "answer": "manning", "modAnswer": "john elway", "similarity": 0.6372767686843872}\n', '{"test case number": 354, "answer": "manning", "modAnswer": "john elway", "similarity": 0.6372767686843872}\n', '{"test case number": 362, "answer": "john elway", "modAnswer": "peyton manning", "similarity": 0.6226620078086853}\n', '{"test case number": 362, "answer": "john elway", "modAnswer": "peyton manning", "similarity": 0.6226620078086853}\n', '{"test case number": 362, "answer": "john elway", "modAnswer": "peyton manning", "similarity": 0.6226620078086853}\n', '{"test case number": 362, "answer": "elway", "modAnswer": "peyton manning", "similarity": 0.5730805993080139}\n', '{"test case number": 362, "answer": "elway", "modAnswer": "peyton manning", "similarity": 0.5730805993080139}\n', '{"test case number": 363, "answer": "2011", "modAnswer": "1998", "similarity": 0.7430018186569214}\n', '{"test case number": 363, "answer": "2011", "modAnswer": "1998", "similarity": 0.7430018186569214}\n', '{"test case number": 363, "answer": "2011", "modAnswer": "1998", "similarity": 0.7430018186569214}\n', '{"test case number": 363, "answer": "2011", "modAnswer": "1998", "similarity": 0.7430018186569214}\n', '{"test case number": 367, "answer": "newton", "modAnswer": "von miller", "similarity": 0.6543763875961304}\n', '{"test case number": 367, "answer": "newton", "modAnswer": "von miller", "similarity": 0.6543763875961304}\n', '{"test case number": 367, "answer": "newton", "modAnswer": "von miller", "similarity": 0.6543763875961304}\n', '{"test case number": 367, "answer": "newton", "modAnswer": "miller", "similarity": 0.6766758561134338}\n', '{"test case number": 374, "answer": "newton", "modAnswer": "von miller", "similarity": 0.6543763875961304}\n', '{"test case number": 374, "answer": "newton", "modAnswer": "von miller", "similarity": 0.6543763875961304}\n', '{"test case number": 374, "answer": "newton", "modAnswer": "von miller", "similarity": 0.6543763875961304}\n', '{"test case number": 374, "answer": "newton", "modAnswer": "miller", "similarity": 0.6766758561134338}\n', '{"test case number": 381, "answer": "elway", "modAnswer": "rivera", "similarity": 0.6848596930503845}\n', '{"test case number": 381, "answer": "elway", "modAnswer": "rivera", "similarity": 0.6848596930503845}\n', '{"test case number": 381, "answer": "elway", "modAnswer": "rivera", "similarity": 0.6848596930503845}\n', '{"test case number": 381, "answer": "elway", "modAnswer": "rivera", "similarity": 0.6848596930503845}\n', '{"test case number": 382, "answer": "the chicago bears", "modAnswer": "the denver broncos", "similarity": 0.8152265548706055}\n', '{"test case number": 384, "answer": "elway", "modAnswer": "rivera", "similarity": 0.6848596930503845}\n', '{"test case number": 384, "answer": "elway", "modAnswer": "rivera", "similarity": 0.6848596930503845}\n', '{"test case number": 384, "answer": "elway", "modAnswer": "rivera", "similarity": 0.6848596930503845}\n', '{"test case number": 384, "answer": "elway", "modAnswer": "rivera", "similarity": 0.6848596930503845}\n', '{"test case number": 396, "answer": "re-sodded the field multiple times", "modAnswer": "the field had to be re-sodded multiple times.", "similarity": 0.9060682058334351}\n', '{"test case number": 401, "answer": "the pittsburgh steelers", "modAnswer": "the broncos", "similarity": 0.6675520539283752}\n', '{"test case number": 401, "answer": "the pittsburgh steelers", "modAnswer": "broncos", "similarity": 0.6158809661865234}\n', '{"test case number": 401, "answer": "the pittsburgh steelers", "modAnswer": "the broncos", "similarity": 0.6675520539283752}\n', '{"test case number": 401, "answer": "the pittsburgh steelers", "modAnswer": "broncos", "similarity": 0.6158809661865234}\n', '{"test case number": 402, "answer": "34\\u201319", "modAnswer": "34-19", "similarity": 0.9414181709289551}\n', '{"test case number": 407, "answer": "34\\u201319", "modAnswer": "34-19", "similarity": 0.9414181709289551}\n', '{"test case number": 408, "answer": "the pittsburgh steelers", "modAnswer": "the denver broncos played in super bowl xxxiii.", "similarity": 0.6837831735610962}\n', '{"test case number": 408, "answer": "atlanta falcons", "modAnswer": "the denver broncos played in super bowl xxxiii.", "similarity": 0.6441926956176758}\n', '{"test case number": 408, "answer": "the atlanta falcons", "modAnswer": "the denver broncos played in super bowl xxxiii.", "similarity": 0.6811464428901672}\n', '{"test case number": 408, "answer": "falcons", "modAnswer": "the denver broncos played in super bowl xxxiii.", "similarity": 0.32692912220954895}\n', '{"test case number": 408, "answer": "the pittsburgh steelers", "modAnswer": "atlanta falcons", "similarity": 0.684022843837738}\n', '{"test case number": 408, "answer": "the pittsburgh steelers", "modAnswer": "the atlanta falcons", "similarity": 0.7108070850372314}\n', '{"test case number": 408, "answer": "the pittsburgh steelers", "modAnswer": "falcons", "similarity": 0.4225958287715912}\n', '{"test case number": 409, "answer": "white", "modAnswer": "blue", "similarity": 0.7392844557762146}\n', '{"test case number": 409, "answer": "white", "modAnswer": "blue", "similarity": 0.7392844557762146}\n', '{"test case number": 409, "answer": "matching white jerseys", "modAnswer": "blue", "similarity": 0.5280149579048157}\n', '{"test case number": 409, "answer": "white", "modAnswer": "blue", "similarity": 0.7392844557762146}\n', '{"test case number": 410, "answer": "red", "modAnswer": "the black jersey", "similarity": 0.620092511177063}\n', '{"test case number": 410, "answer": "road white jerseys", "modAnswer": "the black jersey", "similarity": 0.6678105592727661}\n', '{"test case number": 410, "answer": "matching white", "modAnswer": "the black jersey", "similarity": 0.5503913760185242}\n', '{"test case number": 410, "answer": "white", "modAnswer": "the black jersey", "similarity": 0.5511818528175354}\n', '{"test case number": 410, "answer": "red", "modAnswer": "road white jerseys", "similarity": 0.5643152594566345}\n', '{"test case number": 410, "answer": "red", "modAnswer": "matching white", "similarity": 0.6589150428771973}\n', '{"test case number": 410, "answer": "red", "modAnswer": "white", "similarity": 0.7554959058761597}\n', '{"test case number": 412, "answer": "super bowl xxxiii", "modAnswer": "the last time the broncos wore white uniforms was during super bowl x", "similarity": 0.7013212442398071}\n', '{"test case number": 412, "answer": "super bowl xxxiii", "modAnswer": "the last time the broncos wore white uniforms was during super bowl x", "similarity": 0.7013212442398071}\n', '{"test case number": 412, "answer": "super bowl xxxiii", "modAnswer": "the last time the broncos wore white uniforms was during super bowl x", "similarity": 0.7013212442398071}\n', '{"test case number": 412, "answer": "xxxiii", "modAnswer": "the last time the broncos wore white uniforms was during super bowl x", "similarity": 0.3158816993236542}\n', '{"test case number": 413, "answer": "white", "modAnswer": "blue", "similarity": 0.7392844557762146}\n', '{"test case number": 413, "answer": "white", "modAnswer": "blue", "similarity": 0.7392844557762146}\n', '{"test case number": 413, "answer": "white", "modAnswer": "blue", "similarity": 0.7392844557762146}\n', '{"test case number": 415, "answer": "black jerseys with silver pants", "modAnswer": "the panthers will be wearing their usual attire.", "similarity": 0.6423847079277039}\n', '{"test case number": 415, "answer": "black jerseys with silver pants.", "modAnswer": "the panthers will be wearing their usual attire.", "similarity": 0.6568993926048279}\n', '{"test case number": 415, "answer": "black jerseys with silver pants", "modAnswer": "the panthers will be wearing their usual attire.", "similarity": 0.6423847079277039}\n', '{"test case number": 415, "answer": "black", "modAnswer": "the panthers will be wearing their usual attire.", "similarity": 0.514892041683197}\n', '{"test case number": 416, "answer": "san jose state", "modAnswer": "the san joe state campus", "similarity": 0.8604564070701599}\n', '{"test case number": 417, "answer": "stanford", "modAnswer": "the san joe university", "similarity": 0.6983640193939209}\n', '{"test case number": 417, "answer": "stanford university", "modAnswer": "the san joe university", "similarity": 0.7929162979125977}\n', '{"test case number": 418, "answer": "san jose marriott", "modAnswer": "the santa clara marriott", "similarity": 0.9044466018676758}\n', '{"test case number": 420, "answer": "the santa clara marriott", "modAnswer": "the hotel was used by the panthers during super bowl 50.", "similarity": 0.5528199672698975}\n', '{"test case number": 420, "answer": "san jose marriott", "modAnswer": "the hotel was used by the panthers during super bowl 50.", "similarity": 0.48281165957450867}\n', '{"test case number": 420, "answer": "the san jose marriott", "modAnswer": "the hotel was used by the panthers during super bowl 50.", "similarity": 0.5135700702667236}\n', '{"test case number": 420, "answer": "san jose state practice facility and stayed at the san jose marriott.", "modAnswer": "the hotel was used by the panthers during super bowl 50.", "similarity": 0.5120556354522705}\n', '{"test case number": 420, "answer": "the santa clara marriott", "modAnswer": "san jose marriott", "similarity": 0.9044466018676758}\n', '{"test case number": 422, "answer": "the san jose state practice facility", "modAnswer": "the san jose marriott", "similarity": 0.6820013523101807}\n', '{"test case number": 422, "answer": "san jose state practice facility", "modAnswer": "the san jose marriott", "similarity": 0.6797586679458618}\n', '{"test case number": 422, "answer": "the san jose state practice facility", "modAnswer": "the san jose marriott", "similarity": 0.6820013523101807}\n', '{"test case number": 422, "answer": "san jose state", "modAnswer": "the san jose marriott", "similarity": 0.738872230052948}\n', '{"test case number": 423, "answer": "the san jose marriott", "modAnswer": "the santa clara marriott", "similarity": 0.9200760722160339}\n', '{"test case number": 424, "answer": "the san jose state practice facility", "modAnswer": "the san jose marriott", "similarity": 0.6820013523101807}\n', '{"test case number": 424, "answer": "san jose state practice facility", "modAnswer": "the san jose marriott", "similarity": 0.6797586679458618}\n', '{"test case number": 424, "answer": "the san jose state practice facility", "modAnswer": "the san jose marriott", "similarity": 0.6820013523101807}\n', '{"test case number": 424, "answer": "san jose state", "modAnswer": "the san jose marriott", "similarity": 0.738872230052948}\n', '{"test case number": 425, "answer": "the hotel was the hotel of choice for the panthers.", "modAnswer": "the santa clara marriott", "similarity": 0.6832181215286255}\n', '{"test case number": 425, "answer": "san jose marriott.", "modAnswer": "the santa clara marriott", "similarity": 0.8941345810890198}\n', '{"test case number": 425, "answer": "the hotel was the hotel of choice for the panthers.", "modAnswer": "san jose marriott.", "similarity": 0.5992076396942139}\n', '{"test case number": 425, "answer": "the hotel was the hotel of choice for the panthers.", "modAnswer": "the san jose marriott", "similarity": 0.6453550457954407}\n', '{"test case number": 425, "answer": "the hotel was the hotel of choice for the panthers.", "modAnswer": "san jose marriott", "similarity": 0.5984686613082886}\n', '{"test case number": 426, "answer": "the san jose state practice facility", "modAnswer": "the santa clara marriott", "similarity": 0.6122632026672363}\n', '{"test case number": 426, "answer": "stanford university", "modAnswer": "the santa clara marriott", "similarity": 0.529636025428772}\n', '{"test case number": 426, "answer": "at stanford university", "modAnswer": "the santa clara marriott", "similarity": 0.39936140179634094}\n', '{"test case number": 426, "answer": "stanford", "modAnswer": "the santa clara marriott", "similarity": 0.539578378200531}\n', '{"test case number": 426, "answer": "the san jose state practice facility", "modAnswer": "stanford university", "similarity": 0.5302785634994507}\n', '{"test case number": 426, "answer": "the san jose state practice facility", "modAnswer": "at stanford university", "similarity": 0.4321434199810028}\n', '{"test case number": 426, "answer": "the san jose state practice facility", "modAnswer": "stanford", "similarity": 0.4827587902545929}\n', '{"test case number": 428, "answer": "the san jose state practice facility", "modAnswer": "the san jose marriott", "similarity": 0.6820013523101807}\n', '{"test case number": 430, "answer": "the san jose state practice facility", "modAnswer": "the santa clara marriott", "similarity": 0.6122632026672363}\n', '{"test case number": 430, "answer": "stanford university", "modAnswer": "the santa clara marriott", "similarity": 0.529636025428772}\n', '{"test case number": 430, "answer": "at stanford university", "modAnswer": "the santa clara marriott", "similarity": 0.39936140179634094}\n', '{"test case number": 430, "answer": "stanford", "modAnswer": "the santa clara marriott", "similarity": 0.539578378200531}\n', '{"test case number": 430, "answer": "the san jose state practice facility", "modAnswer": "stanford university", "similarity": 0.5302785634994507}\n', '{"test case number": 430, "answer": "the san jose state practice facility", "modAnswer": "at stanford university", "similarity": 0.4321434199810028}\n', '{"test case number": 430, "answer": "the san jose state practice facility", "modAnswer": "stanford", "similarity": 0.4827587902545929}\n', '{"test case number": 433, "answer": "super bowl 50", "modAnswer": "super bowl xlv", "similarity": 0.9120022654533386}\n', '{"test case number": 436, "answer": "the late vince lombardi", "modAnswer": "the vince lombardi trophy", "similarity": 0.7415231466293335}\n', '{"test case number": 439, "answer": "super bowl 50", "modAnswer": "the 50th", "similarity": 0.491888165473938}\n', '{"test case number": 439, "answer": "l", "modAnswer": "the 50th", "similarity": 0.37396034598350525}\n', '{"test case number": 439, "answer": "l", "modAnswer": "the 50th", "similarity": 0.37396034598350525}\n', '{"test case number": 439, "answer": "l", "modAnswer": "the 50th", "similarity": 0.37396034598350525}\n', '{"test case number": 443, "answer": "arab", "modAnswer": "the roman numeral for 50 is 50.", "similarity": 0.48314136266708374}\n', '{"test case number": 443, "answer": "l.", "modAnswer": "the roman numeral for 50 is 50.", "similarity": 0.4703550338745117}\n', '{"test case number": 443, "answer": "arab", "modAnswer": "l.", "similarity": 0.5093755125999451}\n', '{"test case number": 443, "answer": "arab", "modAnswer": "l", "similarity": 0.5293958187103271}\n', '{"test case number": 443, "answer": "arab", "modAnswer": "l", "similarity": 0.5293958187103271}\n', '{"test case number": 445, "answer": "on june 4, 2014", "modAnswer": "super bowl li", "similarity": 0.21218979358673096}\n', '{"test case number": 445, "answer": "on june 4, 2014", "modAnswer": "super bowl li.", "similarity": 0.24983158707618713}\n', '{"test case number": 445, "answer": "on june 4, 2014", "modAnswer": "super bowl li", "similarity": 0.21218979358673096}\n', '{"test case number": 445, "answer": "on june 4, 2014", "modAnswer": "super bowl li", "similarity": 0.21218979358673096}\n', '{"test case number": 449, "answer": "beginning on week 7", "modAnswer": "seventh week onwards", "similarity": 0.7325935363769531}\n', '{"test case number": 449, "answer": "week 7", "modAnswer": "seventh week onwards", "similarity": 0.7648981213569641}\n', '{"test case number": 469, "answer": "\\"super bowl city\\"", "modAnswer": "the annual nfl experience", "similarity": 0.5282869935035706}\n', '{"test case number": 469, "answer": "super bowl city", "modAnswer": "the annual nfl experience", "similarity": 0.4995300769805908}\n', '{"test case number": 469, "answer": "\\"super bowl city\\"", "modAnswer": "the annual nfl experience", "similarity": 0.5282869935035706}\n', '{"test case number": 469, "answer": "super bowl city", "modAnswer": "the annual nfl experience", "similarity": 0.4995300769805908}\n', '{"test case number": 481, "answer": "the city council", "modAnswer": "a professional fundraiser", "similarity": 0.4587520360946655}\n', '{"test case number": 481, "answer": "the city council", "modAnswer": "a professional fundraiser", "similarity": 0.4587520360946655}\n', '{"test case number": 481, "answer": "the city council", "modAnswer": "a professional fundraiser", "similarity": 0.4587520360946655}\n', '{"test case number": 481, "answer": "the city council", "modAnswer": "professional fundraiser", "similarity": 0.4854933023452759}']

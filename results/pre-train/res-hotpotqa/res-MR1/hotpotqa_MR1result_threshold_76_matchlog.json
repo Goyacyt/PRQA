@@ -1,0 +1,702 @@
+{"test case number": 0, "answer": "yes", "modAnswer": "american", "similarity": 0.45858514308929443}
+
+{"test case number": 2, "answer": "the animorphs", "modAnswer": "the \"perfect works\" series", "similarity": 0.3323747515678406}
+
+{"test case number": 4, "answer": "big stone gap", "modAnswer": "new york city", "similarity": 0.25340285897254944}
+
+{"test case number": 5, "answer": "winner", "modAnswer": "yg entertainment", "similarity": 0.4168159067630768}
+
+{"test case number": 10, "answer": "we're from kansas", "modAnswer": "kansas song", "similarity": 0.6887015104293823}
+
+{"test case number": 14, "answer": "joshua parlby", "modAnswer": "1945 to 1969", "similarity": 0.33763259649276733}
+
+{"test case number": 15, "answer": "canada", "modAnswer": "62", "similarity": 0.3056645393371582}
+
+{"test case number": 21, "answer": "piglet", "modAnswer": "sonic the hedgehog", "similarity": 0.7305381894111633}
+
+{"test case number": 22, "answer": "a universal remote can control other brands of consumer electronics devices.", "modAnswer": "the isight g5", "similarity": 0.5308146476745605}
+
+{"test case number": 24, "answer": "the iffhs world's best goalkeeper.", "modAnswer": "the best goalkeeper of the year", "similarity": 0.8714985251426697}
+
+{"test case number": 26, "answer": "1838", "modAnswer": "1968", "similarity": 0.5361489653587341}
+
+{"test case number": 29, "answer": "the journey into the unknown.", "modAnswer": "andre", "similarity": 0.42092856764793396}
+
+{"test case number": 35, "answer": "the russian civil war", "modAnswer": "the srs", "similarity": 0.33266445994377136}
+
+{"test case number": 40, "answer": "the teddy roosevelt terrier", "modAnswer": "the scotch collie", "similarity": 0.5400722026824951}
+
+{"test case number": 42, "answer": ",  ,  ,", "modAnswer": "1961", "similarity": 0.4594930112361908}
+
+{"test case number": 44, "answer": "joe biden", "modAnswer": "robert e.nyce", "similarity": 0.6446059942245483}
+
+{"test case number": 46, "answer": "phil spector", "modAnswer": "tom wolfe", "similarity": 0.7348803877830505}
+
+{"test case number": 47, "answer": "a new party", "modAnswer": "a forum for exiled people", "similarity": 0.5444157123565674}
+
+{"test case number": 49, "answer": "the english electric cbd", "modAnswer": "the electric canberra", "similarity": 0.7903628349304199}
+
+{"test case number": 50, "answer": "the 2009 big 12 conference football season", "modAnswer": "2014-15", "similarity": 0.44524359703063965}
+
+{"test case number": 51, "answer": "44", "modAnswer": "0", "similarity": 0.6176648736000061}
+
+{"test case number": 58, "answer": "4,453", "modAnswer": "4,505", "similarity": 0.985165536403656}
+
+{"test case number": 60, "answer": "first time a team from an expansion team made the playoffs", "modAnswer": "first time a woman has been named to the wnba's head coach position", "similarity": 0.6166857481002808}
+
+{"test case number": 64, "answer": "seven", "modAnswer": "70", "similarity": 0.671885073184967}
+
+{"test case number": 66, "answer": "the international boxing federation", "modAnswer": "the ibf", "similarity": 0.5944888591766357}
+
+{"test case number": 68, "answer": "prince huge", "modAnswer": "adam scott", "similarity": 0.42648187279701233}
+
+{"test case number": 70, "answer": "\"teen titans go!\"", "modAnswer": "tara strong's major voice role in animated series is the lead role in the animated series", "similarity": 0.3973213732242584}
+
+{"test case number": 71, "answer": "276,170", "modAnswer": "\u0438\u0434\u0440\u043e\u0430\u0432\u0438\u0441\u043a\u043e", "similarity": 0.5287487506866455}
+
+{"test case number": 76, "answer": "barend", "modAnswer": "sela", "similarity": 0.6363903880119324}
+
+{"test case number": 81, "answer": "bob seger", "modAnswer": "robert clark seger", "similarity": 0.7900644540786743}
+
+{"test case number": 83, "answer": "pepsico", "modAnswer": "mondelez international", "similarity": 0.6634892225265503}
+
+{"test case number": 86, "answer": "1927", "modAnswer": "1904", "similarity": 0.822783350944519}
+
+{"test case number": 87, "answer": "in the center and north of the island of la gomera", "modAnswer": "teide national park and garajonay national park are located in the canary islands", "similarity": 0.6816197037696838}
+
+{"test case number": 88, "answer": "1 million", "modAnswer": "250 million", "similarity": 0.848346471786499}
+
+{"test case number": 89, "answer": "cinematographer and director", "modAnswer": "an architect", "similarity": 0.47502079606056213}
+
+{"test case number": 100, "answer": "the mascogos are an afrodescendant group in coahui", "modAnswer": "the mascogos, also known as negros mascagos", "similarity": 0.783297598361969}
+
+{"test case number": 101, "answer": "yes", "modAnswer": "karen clark-sheard", "similarity": 0.4222146272659302}
+
+{"test case number": 103, "answer": "grant field", "modAnswer": "bobby dodd stadium", "similarity": 0.5661544799804688}
+
+{"test case number": 104, "answer": "leo varadkar", "modAnswer": "enda kenny", "similarity": 0.6163736581802368}
+
+{"test case number": 108, "answer": "7 october 1978", "modAnswer": "zaheer khan", "similarity": 0.37454792857170105}
+
+{"test case number": 112, "answer": "hunter davies", "modAnswer": "january 7, 1936", "similarity": 0.23187945783138275}
+
+{"test case number": 117, "answer": "secretary of state", "modAnswer": "the position of state secretary.", "similarity": 0.8268092274665833}
+
+{"test case number": 124, "answer": "the bye bye man", "modAnswer": "the president's vampire", "similarity": 0.45533186197280884}
+
+{"test case number": 125, "answer": "the richmond river", "modAnswer": "the shannon brook", "similarity": 0.6728696227073669}
+
+{"test case number": 126, "answer": "jory k. prum", "modAnswer": "jory prum", "similarity": 0.9549400806427002}
+
+{"test case number": 127, "answer": "1422", "modAnswer": "spynie palace", "similarity": 0.3195056617259979}
+
+{"test case number": 133, "answer": "\"the marshall mathers lp 2\"", "modAnswer": "\"unapologetic\"", "similarity": 0.3801381289958954}
+
+{"test case number": 135, "answer": "heidi gardner", "modAnswer": "jillian bell", "similarity": 0.7807713747024536}
+
+{"test case number": 137, "answer": "field marshal stapleton cotton, 1st viscount combermere", "modAnswer": "lord lake", "similarity": 0.5640357732772827}
+
+{"test case number": 146, "answer": "the strand", "modAnswer": "the spokesman for the royal family, lord ashby, suggested the name", "similarity": 0.3225177824497223}
+
+{"test case number": 147, "answer": "lord of islay", "modAnswer": "the isles of islay", "similarity": 0.7073959112167358}
+
+{"test case number": 151, "answer": "1901", "modAnswer": "1905", "similarity": 0.9352745413780212}
+
+{"test case number": 155, "answer": "in 2014, algeria qualified for the first time into the round of 16.", "modAnswer": "1982", "similarity": 0.19460925459861755}
+
+{"test case number": 165, "answer": "the support of the healthy marriage project", "modAnswer": "the equine clinic", "similarity": 0.51116544008255}
+
+{"test case number": 168, "answer": "the united states presidential election of 2016", "modAnswer": "the 58th quadrennial american presidential election of 2016", "similarity": 0.7933761477470398}
+
+{"test case number": 174, "answer": "cessnock", "modAnswer": "newcastle", "similarity": 0.6322943568229675}
+
+{"test case number": 177, "answer": "old frisian", "modAnswer": "the 16th century", "similarity": 0.4294331967830658}
+
+{"test case number": 178, "answer": "vatroslav roi", "modAnswer": "he was also a citizen of the united kingdom.", "similarity": 0.3070373833179474}
+
+{"test case number": 180, "answer": "maltin on movies", "modAnswer": "the drop-in", "similarity": 0.40225714445114136}
+
+{"test case number": 182, "answer": "george harrison", "modAnswer": "phil collins", "similarity": 0.6345289349555969}
+
+{"test case number": 185, "answer": "season one", "modAnswer": "season three", "similarity": 0.9245657324790955}
+
+{"test case number": 186, "answer": "marcos siega and daniel cerone", "modAnswer": "michael carlyle hall and tony goldwyn", "similarity": 0.6138551235198975}
+
+{"test case number": 189, "answer": "1986", "modAnswer": "1991", "similarity": 0.8052858710289001}
+
+{"test case number": 191, "answer": "fox", "modAnswer": "nbc", "similarity": 0.5156545639038086}
+
+{"test case number": 194, "answer": "severe acute respiratory syndrome", "modAnswer": "sars", "similarity": 0.5083613395690918}
+
+{"test case number": 195, "answer": "james c. laughlin", "modAnswer": "jim harrison", "similarity": 0.7084529399871826}
+
+{"test case number": 197, "answer": "; ) is a south korean multinational company headquartered in seoul.", "modAnswer": ";)", "similarity": 0.41922882199287415}
+
+{"test case number": 200, "answer": "crackle", "modAnswer": "netflix", "similarity": 0.4813444912433624}
+
+{"test case number": 216, "answer": "5", "modAnswer": "five", "similarity": 0.8504797220230103}
+
+{"test case number": 217, "answer": "the sasanian empire", "modAnswer": "the parthian empire", "similarity": 0.9298529624938965}
+
+{"test case number": 219, "answer": "guernsey", "modAnswer": "samoa", "similarity": 0.6816301941871643}
+
+{"test case number": 223, "answer": "early 19th century", "modAnswer": "18th century", "similarity": 0.7740675210952759}
+
+{"test case number": 225, "answer": "the french", "modAnswer": "the shiners", "similarity": 0.5111346244812012}
+
+{"test case number": 228, "answer": "\"rawhide\"", "modAnswer": "\"dollars\"", "similarity": 0.5633863806724548}
+
+{"test case number": 229, "answer": "the genus of more individual species of plants.", "modAnswer": "marsilea", "similarity": 0.3399096131324768}
+
+{"test case number": 236, "answer": "blanket bogs", "modAnswer": "featherbed bogs", "similarity": 0.9270631074905396}
+
+{"test case number": 240, "answer": "frank thomas' big hurt", "modAnswer": "the big hurt", "similarity": 0.6552786827087402}
+
+{"test case number": 241, "answer": "angela lansbury", "modAnswer": "paige o'hara", "similarity": 0.8066709637641907}
+
+{"test case number": 242, "answer": "reggie jackson", "modAnswer": "wilburn edward \"eddy\" furniss iii", "similarity": 0.6451286673545837}
+
+{"test case number": 245, "answer": "brad silberling", "modAnswer": "lemony snicket", "similarity": 0.5549435019493103}
+
+{"test case number": 252, "answer": "ordos", "modAnswer": "the subsidiary is called yuanjian.", "similarity": 0.507507860660553}
+
+{"test case number": 253, "answer": "alain resnais", "modAnswer": "scott sidney", "similarity": 0.6181164383888245}
+
+{"test case number": 255, "answer": "the university of pennsylvania", "modAnswer": "the university of virginia", "similarity": 0.860684335231781}
+
+{"test case number": 257, "answer": "the mountbatten family", "modAnswer": "the mountbatten-windsor family", "similarity": 0.947104811668396}
+
+{"test case number": 261, "answer": "leinster", "modAnswer": "the eastern part of ireland", "similarity": 0.5408883690834045}
+
+{"test case number": 263, "answer": "tybalt", "modAnswer": "romeo", "similarity": 0.5506817698478699}
+
+{"test case number": 276, "answer": "lepidozamia", "modAnswer": "eucryphia", "similarity": 0.8173936605453491}
+
+{"test case number": 282, "answer": "may", "modAnswer": "october", "similarity": 0.6363646388053894}
+
+{"test case number": 290, "answer": "13\u20133", "modAnswer": "13-3", "similarity": 0.9464436173439026}
+
+{"test case number": 292, "answer": "salvie testa", "modAnswer": "the crown prince", "similarity": 0.35171934962272644}
+
+{"test case number": 293, "answer": "he was the architect of the pont neuf.", "modAnswer": "master of the royal palaces and managed the louvre", "similarity": 0.6016002893447876}
+
+{"test case number": 300, "answer": "the company is based in bury st. edmunds,", "modAnswer": "bury st. edmunds, suffolk, england", "similarity": 0.7152783870697021}
+
+{"test case number": 303, "answer": "\"njan steve lopez\"", "modAnswer": "the soloist", "similarity": 0.4064082205295563}
+
+{"test case number": 305, "answer": "1913", "modAnswer": "1931", "similarity": 0.8500858545303345}
+
+{"test case number": 306, "answer": "almonte", "modAnswer": "ravenna", "similarity": 0.8369668126106262}
+
+{"test case number": 312, "answer": "new york", "modAnswer": "milwaukee", "similarity": 0.5729392766952515}
+
+{"test case number": 318, "answer": "yes", "modAnswer": "no", "similarity": 0.7259047031402588}
+
+{"test case number": 324, "answer": "oedipus", "modAnswer": "sigmund freud", "similarity": 0.6202380657196045}
+
+{"test case number": 325, "answer": "they are both actors.", "modAnswer": "they are both co-founders of apple.", "similarity": 0.5917046070098877}
+
+{"test case number": 327, "answer": "the college dropout", "modAnswer": "my beautiful dark twisted fantasy", "similarity": 0.3385152518749237}
+
+{"test case number": 329, "answer": "kunming", "modAnswer": "the pearl city", "similarity": 0.6232918500900269}
+
+{"test case number": 330, "answer": "he is from philadelphia", "modAnswer": "in a home in philadelphia", "similarity": 0.6488717198371887}
+
+{"test case number": 331, "answer": "a minor basilica", "modAnswer": "a church", "similarity": 0.7366927862167358}
+
+{"test case number": 337, "answer": "yes", "modAnswer": "no", "similarity": 0.7259047031402588}
+
+{"test case number": 338, "answer": "yes", "modAnswer": "no", "similarity": 0.7259047031402588}
+
+{"test case number": 339, "answer": "37,903", "modAnswer": "76,416", "similarity": 0.8815881609916687}
+
+{"test case number": 340, "answer": "matt flynn", "modAnswer": "mark castillo", "similarity": 0.7205625176429749}
+
+{"test case number": 345, "answer": "240,600", "modAnswer": "\u0432\u0443\u0441\u043a", "similarity": 0.4070698022842407}
+
+{"test case number": 348, "answer": "wheat", "modAnswer": "tomatoes", "similarity": 0.8106226921081543}
+
+{"test case number": 349, "answer": "2009", "modAnswer": "1996", "similarity": 0.7202057838439941}
+
+{"test case number": 350, "answer": "march 31, 2014", "modAnswer": "february 17, 2017", "similarity": 0.8397687673568726}
+
+{"test case number": 351, "answer": "sir james matthew barrie, 1st baronet", "modAnswer": "2' to 3'", "similarity": 0.2573126256465912}
+
+{"test case number": 353, "answer": "an actress", "modAnswer": "the actress", "similarity": 0.9643452763557434}
+
+{"test case number": 359, "answer": "dallas austin and tionne \"t-boz\" watkins", "modAnswer": "dallas austin and tionne t-boz watkins", "similarity": 0.9859591126441956}
+
+{"test case number": 363, "answer": "video game", "modAnswer": "the impounded system", "similarity": 0.36687326431274414}
+
+{"test case number": 364, "answer": "the college of architecture and design at centre college", "modAnswer": "brooklyn college", "similarity": 0.635583758354187}
+
+{"test case number": 370, "answer": "they are both made in video.", "modAnswer": "documentary", "similarity": 0.5379605889320374}
+
+{"test case number": 376, "answer": "hudson bay mining and smelting company", "modAnswer": "equix", "similarity": 0.3943600058555603}
+
+{"test case number": 378, "answer": "\"i am legend\", \"minority report\" and \"constantine\"", "modAnswer": "\"cry me a river\"", "similarity": 0.5297799110412598}
+
+{"test case number": 379, "answer": "it is deemed to be comparable to the seven wonders of the world.", "modAnswer": "it was the eighth wonder of the world", "similarity": 0.6662834882736206}
+
+{"test case number": 380, "answer": "patrick j. o'rourke", "modAnswer": "patrick jake o'rourke", "similarity": 0.8761081695556641}
+
+{"test case number": 382, "answer": "take that", "modAnswer": "atomic kitten", "similarity": 0.3594249188899994}
+
+{"test case number": 384, "answer": "philip k. dick", "modAnswer": "philip k.dick", "similarity": 0.9999998807907104}
+
+{"test case number": 388, "answer": "william allen white", "modAnswer": "the lighthouse", "similarity": 0.33285754919052124}
+
+{"test case number": 389, "answer": "debashree roy", "modAnswer": "mukul dev", "similarity": 0.8298389911651611}
+
+{"test case number": 390, "answer": "a horror movie", "modAnswer": "a horror and a romantic comedy", "similarity": 0.8168097734451294}
+
+{"test case number": 392, "answer": "a horror film", "modAnswer": "a horror flick", "similarity": 0.9599277377128601}
+
+{"test case number": 393, "answer": "northumbria", "modAnswer": "essex", "similarity": 0.7026678323745728}
+
+{"test case number": 395, "answer": "the 2017 australian open", "modAnswer": "the 2011 australian open", "similarity": 0.9229522943496704}
+
+{"test case number": 400, "answer": "the prior of the priory", "modAnswer": "the prior of st. andrews", "similarity": 0.8483917117118835}
+
+{"test case number": 403, "answer": "1995", "modAnswer": "1949", "similarity": 0.621467113494873}
+
+{"test case number": 404, "answer": "1974 to 1983", "modAnswer": "1974 and 1983", "similarity": 0.9104374647140503}
+
+{"test case number": 406, "answer": "the little review", "modAnswer": "dime magazine", "similarity": 0.6156370043754578}
+
+{"test case number": 407, "answer": "james mercer langston hughes", "modAnswer": "ian mcewan", "similarity": 0.7075410485267639}
+
+{"test case number": 408, "answer": "728,000 ft2", "modAnswer": "88,200 ft2", "similarity": 0.9194219708442688}
+
+{"test case number": 409, "answer": "royce da 5'9\" (bad) and eminem (evil", "modAnswer": "bad meets evil, eminem, akon, taio cruz", "similarity": 0.8323922753334045}
+
+{"test case number": 411, "answer": "terry gilliam", "modAnswer": "robert caro", "similarity": 0.6952775716781616}
+
+{"test case number": 412, "answer": "italian", "modAnswer": "french", "similarity": 0.8220043778419495}
+
+{"test case number": 413, "answer": "a family member", "modAnswer": "the banshee", "similarity": 0.42294085025787354}
+
+{"test case number": 416, "answer": "the itchy & scratchy show", "modAnswer": "the itchy and scratchy show", "similarity": 0.9868891835212708}
+
+{"test case number": 418, "answer": "chauncey billups", "modAnswer": "joe smith", "similarity": 0.7269530892372131}
+
+{"test case number": 422, "answer": "10", "modAnswer": "there are ten novels in the series.", "similarity": 0.5471557378768921}
+
+{"test case number": 423, "answer": "assistant coach", "modAnswer": "defensive coordinator", "similarity": 0.7894764542579651}
+
+{"test case number": 424, "answer": "1.87 m tall", "modAnswer": "87 cm", "similarity": 0.8125177621841431}
+
+{"test case number": 429, "answer": "ryan ridley", "modAnswer": "john rice", "similarity": 0.5716682076454163}
+
+{"test case number": 431, "answer": "yes", "modAnswer": "no", "similarity": 0.7259047031402588}
+
+{"test case number": 433, "answer": "x ambassadors", "modAnswer": "test icicles", "similarity": 0.49601319432258606}
+
+{"test case number": 436, "answer": "tyler, texas", "modAnswer": "tyler, kansas", "similarity": 0.8855978846549988}
+
+{"test case number": 437, "answer": "ambrose mendy", "modAnswer": "\"the ring\" magazine", "similarity": 0.381062388420105}
+
+{"test case number": 440, "answer": "president's special envoy for the western hemisphere", "modAnswer": "the assistant secretary of state for western hemisphere affairs", "similarity": 0.9022667407989502}
+
+{"test case number": 441, "answer": "the first film was the bears and i.", "modAnswer": "oceans", "similarity": 0.26573359966278076}
+
+{"test case number": 442, "answer": "patterns of sexual behavior", "modAnswer": "the rise and fall of the third reich", "similarity": 0.33568188548088074}
+
+{"test case number": 445, "answer": "lawson road, norwich", "modAnswer": "69 albert square, walford, london, e20", "similarity": 0.7227745652198792}
+
+{"test case number": 447, "answer": "phoenix satellite television holdings ltd", "modAnswer": "phoenix television", "similarity": 0.8313999176025391}
+
+{"test case number": 456, "answer": "ibn arabi", "modAnswer": "shaykh al-akbar", "similarity": 0.8509590029716492}
+
+{"test case number": 457, "answer": "a robe of linen and a horse", "modAnswer": "the fen.", "similarity": 0.5077961683273315}
+
+{"test case number": 459, "answer": "lord cranborne", "modAnswer": "lord melbourne", "similarity": 0.8189200758934021}
+
+{"test case number": 460, "answer": "the kansas city crime family", "modAnswer": "the cammisano family", "similarity": 0.5151078104972839}
+
+{"test case number": 462, "answer": "1964", "modAnswer": "in 1904", "similarity": 0.4596683382987976}
+
+{"test case number": 463, "answer": "unbreakable", "modAnswer": "the whole nine yards", "similarity": 0.3334898352622986}
+
+{"test case number": 466, "answer": "elephants are connected to gajabrishta through the back portion of an elephant", "modAnswer": "elephants are connected to gajabrishta through the use of the term", "similarity": 0.8724367618560791}
+
+{"test case number": 470, "answer": "director, writer and producer", "modAnswer": "director, writer, producer", "similarity": 0.9866392612457275}
+
+{"test case number": 471, "answer": "executive search", "modAnswer": "consulting", "similarity": 0.6638835668563843}
+
+{"test case number": 472, "answer": "author and novelist", "modAnswer": "writer and actress", "similarity": 0.7948301434516907}
+
+{"test case number": 473, "answer": "the catholic church", "modAnswer": "the establishment", "similarity": 0.4754545986652374}
+
+{"test case number": 482, "answer": "she translated and commented on isaac newton's book \"principia\".", "modAnswer": "she translated and commented on isaac newton's book.", "similarity": 0.975204586982727}
+
+{"test case number": 483, "answer": "yes", "modAnswer": "no", "similarity": 0.7259047031402588}
+
+{"test case number": 484, "answer": "four months in jail", "modAnswer": "a four month prison sentence", "similarity": 0.9356932640075684}
+
+{"test case number": 485, "answer": "1963", "modAnswer": "1994", "similarity": 0.7245140075683594}
+
+{"test case number": 487, "answer": "portal 2", "modAnswer": "gateways", "similarity": 0.6922723054885864}
+
+{"test case number": 489, "answer": "33 of the 100 seats in the united states senate", "modAnswer": "33 of 100", "similarity": 0.6589725613594055}
+
+{"test case number": 490, "answer": "mississippi university for women v. hogan", "modAnswer": "the case of mississippi university for women v.hogan", "similarity": 0.9240694642066956}
+
+{"test case number": 492, "answer": "1948", "modAnswer": "harry bowen", "similarity": 0.3559667766094208}
+
+{"test case number": 493, "answer": "the 2007 irl indycar series.", "modAnswer": "the 2007 irl indigocar series.", "similarity": 0.7279642820358276}
+
+{"test case number": 495, "answer": "115", "modAnswer": "88", "similarity": 0.839741051197052}
+
+{"test case number": 499, "answer": "a documentary", "modAnswer": "docs", "similarity": 0.482063889503479}
+
+{"test case number": 500, "answer": "the film was about a scholar who becomes the lover of the king's favorite con", "modAnswer": "the film was about a man who was in love with the wrong person.", "similarity": 0.7538324594497681}
+
+{"test case number": 502, "answer": "127 passengers", "modAnswer": "219", "similarity": 0.6713203191757202}
+
+{"test case number": 503, "answer": "22 novembre 1798", "modAnswer": "december 19, 1798", "similarity": 0.8591411113739014}
+
+{"test case number": 504, "answer": "1953 to 1974", "modAnswer": "1953-1973", "similarity": 0.9429355263710022}
+
+{"test case number": 505, "answer": "the cr-x", "modAnswer": "the honda cr-x", "similarity": 0.7874646782875061}
+
+{"test case number": 509, "answer": "rollo", "modAnswer": "eminem", "similarity": 0.5185465812683105}
+
+{"test case number": 514, "answer": "the last command", "modAnswer": "inside the electric circus", "similarity": 0.2668248116970062}
+
+{"test case number": 515, "answer": "dublin", "modAnswer": "linfield", "similarity": 0.516609787940979}
+
+{"test case number": 516, "answer": "\"the four feathers\"", "modAnswer": "the \"heartbreak ridge\"", "similarity": 0.40352678298950195}
+
+{"test case number": 519, "answer": "lord chancellor of england", "modAnswer": "the editor of works by an author who served both as attorney general and as lord chancellor for", "similarity": 0.6230602264404297}
+
+{"test case number": 520, "answer": "\"guardians of the galaxy vol. 2\"", "modAnswer": "the second movie", "similarity": 0.4571949243545532}
+
+{"test case number": 521, "answer": "the sponsorship scandal, or adscam", "modAnswer": "the canadian sponsorship scandal", "similarity": 0.701323926448822}
+
+{"test case number": 533, "answer": "charlie puth", "modAnswer": "julie frost", "similarity": 0.6106650233268738}
+
+{"test case number": 535, "answer": "motion city soundtrack", "modAnswer": "candlelight red", "similarity": 0.4093312621116638}
+
+{"test case number": 537, "answer": "kessel", "modAnswer": "melbourne", "similarity": 0.3601624369621277}
+
+{"test case number": 538, "answer": "4 june 1790", "modAnswer": "28 january 1864", "similarity": 0.8145273327827454}
+
+{"test case number": 544, "answer": "phyllocnistis liquidambarisella", "modAnswer": "true bug", "similarity": 0.577605128288269}
+
+{"test case number": 545, "answer": "the nebula award, the philip k. dick award, and the hugo award", "modAnswer": "the nebula award, the hugo award, and the dick award.", "similarity": 0.9747360944747925}
+
+{"test case number": 547, "answer": "currier bell", "modAnswer": "colin bowles", "similarity": 0.6529930233955383}
+
+{"test case number": 548, "answer": "celtic", "modAnswer": "rangers", "similarity": 0.5181207656860352}
+
+{"test case number": 550, "answer": "the ina treasure controversy relates to alleged misappropriation of the \"azad", "modAnswer": "the azad hind", "similarity": 0.5065131187438965}
+
+{"test case number": 559, "answer": "james g. kiernan", "modAnswer": "james g.kiernan", "similarity": 1.0000001192092896}
+
+{"test case number": 562, "answer": "the eastern part of the continent", "modAnswer": "europe", "similarity": 0.6598029136657715}
+
+{"test case number": 563, "answer": "the 2013 oklahoma state cowboys football team represented oklahoma state university in the 2013 ncaa division i", "modAnswer": "boone pickens stadium in stillwater, oklahoma", "similarity": 0.5925121903419495}
+
+{"test case number": 565, "answer": "he is the co-founder of the heavy metal band metallica.", "modAnswer": "a member of the heavy metal band metallica.", "similarity": 0.8934599161148071}
+
+{"test case number": 571, "answer": "march 24, 2001", "modAnswer": "macos x 10", "similarity": 0.3583497703075409}
+
+{"test case number": 572, "answer": "thornton w. burgess", "modAnswer": "margery williams", "similarity": 0.6592360138893127}
+
+{"test case number": 574, "answer": "spinello aretino", "modAnswer": "mariotto di nardo di cione", "similarity": 0.8872888088226318}
+
+{"test case number": 577, "answer": "the state university of new york", "modAnswer": "columbia", "similarity": 0.6058562994003296}
+
+{"test case number": 580, "answer": "queen in-hyun's man", "modAnswer": "the 2014 drama \"marriage, not dating\"", "similarity": 0.4110950827598572}
+
+{"test case number": 581, "answer": "the university of chile", "modAnswer": "he was born in 1844 in keswick, sussex.", "similarity": 0.2970047891139984}
+
+{"test case number": 583, "answer": "the most total touchdowns in ncaa history", "modAnswer": "the most touchdown passes in ncaa history", "similarity": 0.9642072916030884}
+
+{"test case number": 584, "answer": "guthfrith", "modAnswer": "thelred ii", "similarity": 0.7551397085189819}
+
+{"test case number": 589, "answer": "the violin sonata no. 4 in a minor", "modAnswer": "the piano sonata no.", "similarity": 0.910969614982605}
+
+{"test case number": 590, "answer": "orange juice, milk, powdered egg whites, and vanilla flavoring", "modAnswer": "orange juice, milk, sugar, and vanilla extract.", "similarity": 0.9745614528656006}
+
+{"test case number": 592, "answer": "2005", "modAnswer": "2006", "similarity": 0.9548650979995728}
+
+{"test case number": 593, "answer": "white zombie", "modAnswer": "blonde redhead", "similarity": 0.6850394010543823}
+
+{"test case number": 595, "answer": "thom andersen", "modAnswer": "krzysztof zanussi", "similarity": 0.6632590293884277}
+
+{"test case number": 603, "answer": "t. r. m. howard", "modAnswer": "theodore roosevelt mason", "similarity": 0.6578680872917175}
+
+{"test case number": 608, "answer": "mtv russia", "modAnswer": "mvc russia", "similarity": 0.8132760524749756}
+
+{"test case number": 619, "answer": "glam funk", "modAnswer": "glam-style funk metal", "similarity": 0.898581326007843}
+
+{"test case number": 625, "answer": "england", "modAnswer": "the year 1723", "similarity": 0.3399646282196045}
+
+{"test case number": 632, "answer": "the cincinnati reds", "modAnswer": "the philadelphia phillies", "similarity": 0.7074954509735107}
+
+{"test case number": 633, "answer": "ballarat bitter", "modAnswer": "\"ballarat bertie\"", "similarity": 0.7141380906105042}
+
+{"test case number": 636, "answer": "the university of st. adelphia", "modAnswer": "fife", "similarity": 0.3646875023841858}
+
+{"test case number": 639, "answer": "\"still crazy for you\"", "modAnswer": "\"still in love\"", "similarity": 0.8853691816329956}
+
+{"test case number": 640, "answer": "the blackpool gazette", "modAnswer": "johnson press", "similarity": 0.5893640518188477}
+
+{"test case number": 645, "answer": "roseann o'donnell", "modAnswer": "tom hanks", "similarity": 0.6313991546630859}
+
+{"test case number": 646, "answer": "khalid bin hamad al-khalifa", "modAnswer": "urijah christopher faber", "similarity": 0.6533039212226868}
+
+{"test case number": 650, "answer": "8", "modAnswer": "13", "similarity": 0.8030285835266113}
+
+{"test case number": 651, "answer": "june 16, 1960", "modAnswer": "february 20, 1978", "similarity": 0.8447996377944946}
+
+{"test case number": 653, "answer": "metal drummers", "modAnswer": "metal musicians", "similarity": 0.9078235030174255}
+
+{"test case number": 655, "answer": "the aj bell stadium", "modAnswer": "new zealand", "similarity": 0.34295323491096497}
+
+{"test case number": 657, "answer": "tron", "modAnswer": "the tower", "similarity": 0.5805596113204956}
+
+{"test case number": 659, "answer": "dave schultz", "modAnswer": "du pont", "similarity": 0.6069310903549194}
+
+{"test case number": 660, "answer": "the hessian army", "modAnswer": "the royal engineers", "similarity": 0.479138046503067}
+
+{"test case number": 661, "answer": "270 park avenue", "modAnswer": "450 west 42nd street", "similarity": 0.8461920619010925}
+
+{"test case number": 666, "answer": "palm springs international airport", "modAnswer": "trenton\u2013mercer airport", "similarity": 0.6695994138717651}
+
+{"test case number": 668, "answer": "she plays the role of amy.", "modAnswer": "she is the leader of the rebels.", "similarity": 0.4989328384399414}
+
+{"test case number": 669, "answer": "former professional tennis players", "modAnswer": "former tennis players", "similarity": 0.971964418888092}
+
+{"test case number": 674, "answer": "personal earnings, business income and capital gains", "modAnswer": "personal earnings, business income, and capital gains", "similarity": 0.9974787831306458}
+
+{"test case number": 681, "answer": "papermaking", "modAnswer": "paper mill", "similarity": 0.8671762347221375}
+
+{"test case number": 682, "answer": "the e! talk show", "modAnswer": "yes", "similarity": 0.5162057876586914}
+
+{"test case number": 687, "answer": "bigg boss 9", "modAnswer": "season 9", "similarity": 0.5856451988220215}
+
+{"test case number": 689, "answer": "the windigo legend", "modAnswer": "the windigo myth", "similarity": 0.8939998149871826}
+
+{"test case number": 690, "answer": "the 1966 arizona state sun devils", "modAnswer": "the arizona sun devils", "similarity": 0.7716915607452393}
+
+{"test case number": 691, "answer": "photojournalist and author", "modAnswer": "photographer and writer", "similarity": 0.9113248586654663}
+
+{"test case number": 694, "answer": "a man named charles d. eustace", "modAnswer": "robert philip hanssen", "similarity": 0.7242962121963501}
+
+{"test case number": 695, "answer": "best alternative music album", "modAnswer": "album of the year", "similarity": 0.7698323726654053}
+
+{"test case number": 700, "answer": "gull-wing doors", "modAnswer": "gull wing doors", "similarity": 0.9744415879249573}
+
+{"test case number": 701, "answer": "the harris museum", "modAnswer": "the robert donnelly husky heritage sports museum", "similarity": 0.7032751441001892}
+
+{"test case number": 704, "answer": "december 6, 1933", "modAnswer": "january 1, 1939", "similarity": 0.8744863867759705}
+
+{"test case number": 706, "answer": "the national archives", "modAnswer": "the electoral college", "similarity": 0.47864627838134766}
+
+{"test case number": 709, "answer": "the cn tower", "modAnswer": "toronto", "similarity": 0.5741568803787231}
+
+{"test case number": 711, "answer": "32", "modAnswer": "six", "similarity": 0.5446250438690186}
+
+{"test case number": 712, "answer": "trance music", "modAnswer": "e-records", "similarity": 0.6709200739860535}
+
+{"test case number": 714, "answer": "paula maxine patton", "modAnswer": "paula patton", "similarity": 0.9504554271697998}
+
+{"test case number": 718, "answer": "gheg albanian", "modAnswer": "albanian coalation perspect", "similarity": 0.8239004611968994}
+
+{"test case number": 725, "answer": "the ss", "modAnswer": "the nazis", "similarity": 0.7535890340805054}
+
+{"test case number": 728, "answer": "charleston", "modAnswer": "mecklenburg county", "similarity": 0.6382792592048645}
+
+{"test case number": 729, "answer": "alexi \"wildchild\" laiho", "modAnswer": "alexi laiho", "similarity": 0.9078699946403503}
+
+{"test case number": 730, "answer": "edge", "modAnswer": "big e", "similarity": 0.5461633801460266}
+
+{"test case number": 733, "answer": "mercer county", "modAnswer": "burlington county", "similarity": 0.8876969814300537}
+
+{"test case number": 734, "answer": "miller brewing", "modAnswer": "miller brewery", "similarity": 0.953178346157074}
+
+{"test case number": 741, "answer": "over 1,800", "modAnswer": "115", "similarity": 0.5865700244903564}
+
+{"test case number": 742, "answer": "the 1996 film \"twister\"", "modAnswer": "the twister", "similarity": 0.4104958176612854}
+
+{"test case number": 743, "answer": "anton bolinder", "modAnswer": "michael edwards", "similarity": 0.6317932605743408}
+
+{"test case number": 746, "answer": "henry hathaway", "modAnswer": "james tinling", "similarity": 0.8186298608779907}
+
+{"test case number": 747, "answer": "port st. lucie", "modAnswer": "gainesville", "similarity": 0.6213012933731079}
+
+{"test case number": 750, "answer": "they were both writers.", "modAnswer": "journalist", "similarity": 0.4656331241130829}
+
+{"test case number": 758, "answer": "the former ajax amsterdam manager jordi cruyff", "modAnswer": "the perth heat", "similarity": 0.31567832827568054}
+
+{"test case number": 759, "answer": "yes", "modAnswer": "halld\u00f3r laxness", "similarity": 0.5109570622444153}
+
+{"test case number": 763, "answer": "white house", "modAnswer": "7,220", "similarity": 0.34279075264930725}
+
+{"test case number": 764, "answer": "a town meeting", "modAnswer": "a town-based legislative body", "similarity": 0.709978461265564}
+
+{"test case number": 766, "answer": "director, writer, editor, photographer, and cinematographer", "modAnswer": "film director, film producer, writer, editor, actor, photographer, and cinematographer", "similarity": 0.9472624659538269}
+
+{"test case number": 767, "answer": "the wild pony", "modAnswer": "the many adventures of winnie the pooh", "similarity": 0.6123356819152832}
+
+{"test case number": 771, "answer": "john f. kelly", "modAnswer": "john francis kelly", "similarity": 0.9384284019470215}
+
+{"test case number": 772, "answer": "jessica phyllis lange", "modAnswer": "jessica lange", "similarity": 0.9068259000778198}
+
+{"test case number": 773, "answer": ", lit. \"wooden person\") is a fictional character in namco band", "modAnswer": "yes", "similarity": 0.33717110753059387}
+
+{"test case number": 774, "answer": "the livingston family of new york", "modAnswer": "the fourth lord.", "similarity": 0.407127320766449}
+
+{"test case number": 778, "answer": "eva ibbotson", "modAnswer": "danielle steel", "similarity": 0.6951801180839539}
+
+{"test case number": 781, "answer": "nicol williamson", "modAnswer": "sheila beryl grant", "similarity": 0.7212421894073486}
+
+{"test case number": 783, "answer": "he is the younger brother of luca parmitano.", "modAnswer": "hearne", "similarity": 0.3826051652431488}
+
+{"test case number": 787, "answer": "19th", "modAnswer": "484th", "similarity": 0.63984215259552}
+
+{"test case number": 788, "answer": "jnis ipkvics", "modAnswer": "jnis stumpf", "similarity": 0.8964806199073792}
+
+{"test case number": 789, "answer": "chloe agnew", "modAnswer": "ad\u00e8le king", "similarity": 0.6131607890129089}
+
+{"test case number": 793, "answer": "vanarama", "modAnswer": "macclesfield town f.c.", "similarity": 0.3965422511100769}
+
+{"test case number": 795, "answer": "thomas warburton", "modAnswer": "tom warburton", "similarity": 0.8602138161659241}
+
+{"test case number": 797, "answer": "a play-by-post role-playing game", "modAnswer": "a role-playing game", "similarity": 0.9043481349945068}
+
+{"test case number": 801, "answer": "gold", "modAnswer": "silver", "similarity": 0.8395726084709167}
+
+{"test case number": 802, "answer": "the battle of arausio took place on 6 octobre 105 bc", "modAnswer": "the battle of tannenberg", "similarity": 0.5546197295188904}
+
+{"test case number": 803, "answer": "fox", "modAnswer": "tuff tv", "similarity": 0.5905237197875977}
+
+{"test case number": 810, "answer": "manon", "modAnswer": "parsifal", "similarity": 0.692322850227356}
+
+{"test case number": 813, "answer": "the polka", "modAnswer": "the \"amsterdam polka\"", "similarity": 0.843146562576294}
+
+{"test case number": 816, "answer": "furman", "modAnswer": "campbellsville", "similarity": 0.6217467188835144}
+
+{"test case number": 817, "answer": "director", "modAnswer": "b\u00e9la ga\u00e1l directed the 1937 hungarian comedy film tales of budapest.", "similarity": 0.25867387652397156}
+
+{"test case number": 819, "answer": "ge appliances", "modAnswer": "viking", "similarity": 0.4050196409225464}
+
+{"test case number": 824, "answer": "1932", "modAnswer": "ronald ayers", "similarity": 0.3914198875427246}
+
+{"test case number": 827, "answer": "pakistani", "modAnswer": "punjabi/pashtun", "similarity": 0.8432823419570923}
+
+{"test case number": 828, "answer": "rita pereira", "modAnswer": "laura jelly", "similarity": 0.7136110663414001}
+
+{"test case number": 832, "answer": "he is a racehorse breeder and owner.", "modAnswer": "he is a racing horse breeder.", "similarity": 0.8919554948806763}
+
+{"test case number": 835, "answer": "american scary", "modAnswer": "the first documentary was made in 2003.", "similarity": 0.34395813941955566}
+
+{"test case number": 839, "answer": "the writer of the book \"the changing scottish landscape\"", "modAnswer": "the kellys", "similarity": 0.30126693844795227}
+
+{"test case number": 844, "answer": "the song \"highwayman\"", "modAnswer": "the highwayman", "similarity": 0.703126847743988}
+
+{"test case number": 846, "answer": "he was the speaker of the house.", "modAnswer": "he was the executive director of the national republican congressional committee.", "similarity": 0.6377400159835815}
+
+{"test case number": 847, "answer": "a polar bear themed cocktail.", "modAnswer": "a drink.", "similarity": 0.6318221688270569}
+
+{"test case number": 849, "answer": "every march", "modAnswer": "after his death", "similarity": 0.36949145793914795}
+
+{"test case number": 851, "answer": "vanilla air", "modAnswer": "all nippon airways", "similarity": 0.3739641308784485}
+
+{"test case number": 861, "answer": "xavier", "modAnswer": "john lennon", "similarity": 0.536002516746521}
+
+{"test case number": 863, "answer": "shifty shellshock", "modAnswer": "paul oakenfold", "similarity": 0.4749598801136017}
+
+{"test case number": 866, "answer": "he is a french singer.", "modAnswer": "he is a rapper", "similarity": 0.6996071338653564}
+
+{"test case number": 868, "answer": "carpenter", "modAnswer": "william blake herron", "similarity": 0.49512529373168945}
+
+{"test case number": 870, "answer": "australia", "modAnswer": "warrnambool,victoria", "similarity": 0.6872454285621643}
+
+{"test case number": 871, "answer": "pietro mascagni", "modAnswer": "franco zeffirelli", "similarity": 0.885367751121521}
+
+{"test case number": 874, "answer": "port of chittagong", "modAnswer": "saint john", "similarity": 0.40416088700294495}
+
+{"test case number": 876, "answer": "jan hoffman", "modAnswer": "maria szraiber", "similarity": 0.663722038269043}
+
+{"test case number": 878, "answer": "shakespeare performances", "modAnswer": "a play", "similarity": 0.6980030536651611}
+
+{"test case number": 879, "answer": "it is a reservoir that is used for defence of the cathedral close.", "modAnswer": "it is a reservoir that is important to the defense of the cathedral close.", "similarity": 0.9105406403541565}
+
+{"test case number": 883, "answer": "mrs. eastwood & company", "modAnswer": "lok", "similarity": 0.5239945650100708}
+
+{"test case number": 884, "answer": "turkey creek", "modAnswer": "the econlockhatchee river", "similarity": 0.7514767646789551}
+
+{"test case number": 889, "answer": "fast food", "modAnswer": "burgers", "similarity": 0.7643195390701294}
+
+{"test case number": 894, "answer": "he was a stockbroker", "modAnswer": "he was the former chairman and chief executive officer of the exchange.", "similarity": 0.7297382354736328}
+
+{"test case number": 896, "answer": "the frost place", "modAnswer": "the strand in lincoln, nebraska", "similarity": 0.42247363924980164}
+
+{"test case number": 897, "answer": "ks", "modAnswer": "oklahoma", "similarity": 0.5517379641532898}
+
+{"test case number": 902, "answer": "the first family of competitive eating", "modAnswer": "the brooklyn grange", "similarity": 0.39634621143341064}
+
+{"test case number": 904, "answer": "the king and the duchess of cornwall", "modAnswer": "the earl of pembroke and the 2nd earl of t", "similarity": 0.7288535833358765}
+
+{"test case number": 905, "answer": "mickey gilley", "modAnswer": "mickey gilly", "similarity": 0.9754906892776489}
+
+{"test case number": 906, "answer": "lilys", "modAnswer": "the melvins", "similarity": 0.628463089466095}
+
+{"test case number": 908, "answer": "the dubrovniks", "modAnswer": "adorable", "similarity": 0.332475483417511}
+
+{"test case number": 911, "answer": "apium", "modAnswer": "elodea", "similarity": 0.6588224172592163}
+
+{"test case number": 912, "answer": "the author is of irish descent.", "modAnswer": "the author is of jewish heritage.", "similarity": 0.785103440284729}
+
+{"test case number": 919, "answer": "father dougal mcguire", "modAnswer": "father ted", "similarity": 0.8381064534187317}
+
+{"test case number": 920, "answer": "2006", "modAnswer": "2002", "similarity": 0.8855622410774231}
+
+{"test case number": 924, "answer": "211", "modAnswer": "125", "similarity": 0.8654836416244507}
+
+{"test case number": 926, "answer": "operation anvil", "modAnswer": "the landing barge was a food storage vessel.", "similarity": 0.4517289698123932}
+
+{"test case number": 937, "answer": "joe frazier", "modAnswer": "chardee", "similarity": 0.525811493396759}
+
+{"test case number": 940, "answer": "the hawaii state legislature", "modAnswer": "the state of hawaii", "similarity": 0.862428605556488}
+
+{"test case number": 943, "answer": "young justice", "modAnswer": "the origin of the character.", "similarity": 0.34433412551879883}
+
+{"test case number": 948, "answer": "tabu", "modAnswer": "a romantic comedy.", "similarity": 0.4714169502258301}
+
+{"test case number": 955, "answer": "the middle", "modAnswer": "april 6, 1990", "similarity": 0.2363850474357605}
+
+{"test case number": 957, "answer": "michael t. gilbert", "modAnswer": "robert smigel", "similarity": 0.8132539391517639}
+
+{"test case number": 959, "answer": "an all-colored vaudeville show", "modAnswer": "an all-colored man", "similarity": 0.6158530712127686}
+
+{"test case number": 961, "answer": "1633", "modAnswer": "1663", "similarity": 0.8569233417510986}
+
+{"test case number": 963, "answer": "1993", "modAnswer": "1957", "similarity": 0.7098178267478943}
+
+{"test case number": 965, "answer": "the southern state parkway", "modAnswer": "the heckscher state parkway", "similarity": 0.7891800403594971}
+
+{"test case number": 967, "answer": "the namesake of the mountbatten institute is her father, philip.", "modAnswer": "her father was the duke of edinburgh", "similarity": 0.6964753866195679}
+
+{"test case number": 970, "answer": "myrtle", "modAnswer": "myrtus", "similarity": 0.5485370755195618}
+
+{"test case number": 972, "answer": "los angeles", "modAnswer": "toronto", "similarity": 0.5772715210914612}
+
+{"test case number": 975, "answer": "may 2, 2011.", "modAnswer": "may 1, 2007", "similarity": 0.8852845430374146}
+
+{"test case number": 976, "answer": "yes", "modAnswer": "no", "similarity": 0.7259047031402588}
+
+{"test case number": 977, "answer": "2007", "modAnswer": "the 1972 season", "similarity": 0.3396011292934418}
+
+{"test case number": 986, "answer": "ben cardin", "modAnswer": "since 1977", "similarity": 0.21403995156288147}
+
+{"test case number": 987, "answer": "joe ashton", "modAnswer": "aaron lennon", "similarity": 0.707680881023407}
+
+{"test case number": 996, "answer": "a magical nanny", "modAnswer": "a nanny", "similarity": 0.8563216924667358}
+
+{"test case number": 997, "answer": "phil hill was born in the united states", "modAnswer": "he was the first and only american to win the formula one world drivers' championship.", "similarity": 0.5273325443267822}
+['{"test case number": 0, "answer": "yes", "modAnswer": "american", "similarity": 0.45858514308929443}\n', '{"test case number": 2, "answer": "the animorphs", "modAnswer": "the \\"perfect works\\" series", "similarity": 0.3323747515678406}\n', '{"test case number": 4, "answer": "big stone gap", "modAnswer": "new york city", "similarity": 0.25340285897254944}\n', '{"test case number": 5, "answer": "winner", "modAnswer": "yg entertainment", "similarity": 0.4168159067630768}\n', '{"test case number": 10, "answer": "we\'re from kansas", "modAnswer": "kansas song", "similarity": 0.6887015104293823}\n', '{"test case number": 14, "answer": "joshua parlby", "modAnswer": "1945 to 1969", "similarity": 0.33763259649276733}\n', '{"test case number": 15, "answer": "canada", "modAnswer": "62", "similarity": 0.3056645393371582}\n', '{"test case number": 21, "answer": "piglet", "modAnswer": "sonic the hedgehog", "similarity": 0.7305381894111633}\n', '{"test case number": 22, "answer": "a universal remote can control other brands of consumer electronics devices.", "modAnswer": "the isight g5", "similarity": 0.5308146476745605}\n', '{"test case number": 24, "answer": "the iffhs world\'s best goalkeeper.", "modAnswer": "the best goalkeeper of the year", "similarity": 0.8714985251426697}\n', '{"test case number": 26, "answer": "1838", "modAnswer": "1968", "similarity": 0.5361489653587341}\n', '{"test case number": 29, "answer": "the journey into the unknown.", "modAnswer": "andre", "similarity": 0.42092856764793396}\n', '{"test case number": 35, "answer": "the russian civil war", "modAnswer": "the srs", "similarity": 0.33266445994377136}\n', '{"test case number": 40, "answer": "the teddy roosevelt terrier", "modAnswer": "the scotch collie", "similarity": 0.5400722026824951}\n', '{"test case number": 42, "answer": ",  ,  ,", "modAnswer": "1961", "similarity": 0.4594930112361908}\n', '{"test case number": 44, "answer": "joe biden", "modAnswer": "robert e.nyce", "similarity": 0.6446059942245483}\n', '{"test case number": 46, "answer": "phil spector", "modAnswer": "tom wolfe", "similarity": 0.7348803877830505}\n', '{"test case number": 47, "answer": "a new party", "modAnswer": "a forum for exiled people", "similarity": 0.5444157123565674}\n', '{"test case number": 49, "answer": "the english electric cbd", "modAnswer": "the electric canberra", "similarity": 0.7903628349304199}\n', '{"test case number": 50, "answer": "the 2009 big 12 conference football season", "modAnswer": "2014-15", "similarity": 0.44524359703063965}\n', '{"test case number": 51, "answer": "44", "modAnswer": "0", "similarity": 0.6176648736000061}\n', '{"test case number": 58, "answer": "4,453", "modAnswer": "4,505", "similarity": 0.985165536403656}\n', '{"test case number": 60, "answer": "first time a team from an expansion team made the playoffs", "modAnswer": "first time a woman has been named to the wnba\'s head coach position", "similarity": 0.6166857481002808}\n', '{"test case number": 64, "answer": "seven", "modAnswer": "70", "similarity": 0.671885073184967}\n', '{"test case number": 66, "answer": "the international boxing federation", "modAnswer": "the ibf", "similarity": 0.5944888591766357}\n', '{"test case number": 68, "answer": "prince huge", "modAnswer": "adam scott", "similarity": 0.42648187279701233}\n', '{"test case number": 70, "answer": "\\"teen titans go!\\"", "modAnswer": "tara strong\'s major voice role in animated series is the lead role in the animated series", "similarity": 0.3973213732242584}\n', '{"test case number": 71, "answer": "276,170", "modAnswer": "\\u0438\\u0434\\u0440\\u043e\\u0430\\u0432\\u0438\\u0441\\u043a\\u043e", "similarity": 0.5287487506866455}\n', '{"test case number": 76, "answer": "barend", "modAnswer": "sela", "similarity": 0.6363903880119324}\n', '{"test case number": 81, "answer": "bob seger", "modAnswer": "robert clark seger", "similarity": 0.7900644540786743}\n', '{"test case number": 83, "answer": "pepsico", "modAnswer": "mondelez international", "similarity": 0.6634892225265503}\n', '{"test case number": 86, "answer": "1927", "modAnswer": "1904", "similarity": 0.822783350944519}\n', '{"test case number": 87, "answer": "in the center and north of the island of la gomera", "modAnswer": "teide national park and garajonay national park are located in the canary islands", "similarity": 0.6816197037696838}\n', '{"test case number": 88, "answer": "1 million", "modAnswer": "250 million", "similarity": 0.848346471786499}\n', '{"test case number": 89, "answer": "cinematographer and director", "modAnswer": "an architect", "similarity": 0.47502079606056213}\n', '{"test case number": 100, "answer": "the mascogos are an afrodescendant group in coahui", "modAnswer": "the mascogos, also known as negros mascagos", "similarity": 0.783297598361969}\n', '{"test case number": 101, "answer": "yes", "modAnswer": "karen clark-sheard", "similarity": 0.4222146272659302}\n', '{"test case number": 103, "answer": "grant field", "modAnswer": "bobby dodd stadium", "similarity": 0.5661544799804688}\n', '{"test case number": 104, "answer": "leo varadkar", "modAnswer": "enda kenny", "similarity": 0.6163736581802368}\n', '{"test case number": 108, "answer": "7 october 1978", "modAnswer": "zaheer khan", "similarity": 0.37454792857170105}\n', '{"test case number": 112, "answer": "hunter davies", "modAnswer": "january 7, 1936", "similarity": 0.23187945783138275}\n', '{"test case number": 117, "answer": "secretary of state", "modAnswer": "the position of state secretary.", "similarity": 0.8268092274665833}\n', '{"test case number": 124, "answer": "the bye bye man", "modAnswer": "the president\'s vampire", "similarity": 0.45533186197280884}\n', '{"test case number": 125, "answer": "the richmond river", "modAnswer": "the shannon brook", "similarity": 0.6728696227073669}\n', '{"test case number": 126, "answer": "jory k. prum", "modAnswer": "jory prum", "similarity": 0.9549400806427002}\n', '{"test case number": 127, "answer": "1422", "modAnswer": "spynie palace", "similarity": 0.3195056617259979}\n', '{"test case number": 133, "answer": "\\"the marshall mathers lp 2\\"", "modAnswer": "\\"unapologetic\\"", "similarity": 0.3801381289958954}\n', '{"test case number": 135, "answer": "heidi gardner", "modAnswer": "jillian bell", "similarity": 0.7807713747024536}\n', '{"test case number": 137, "answer": "field marshal stapleton cotton, 1st viscount combermere", "modAnswer": "lord lake", "similarity": 0.5640357732772827}\n', '{"test case number": 146, "answer": "the strand", "modAnswer": "the spokesman for the royal family, lord ashby, suggested the name", "similarity": 0.3225177824497223}\n', '{"test case number": 147, "answer": "lord of islay", "modAnswer": "the isles of islay", "similarity": 0.7073959112167358}\n', '{"test case number": 151, "answer": "1901", "modAnswer": "1905", "similarity": 0.9352745413780212}\n', '{"test case number": 155, "answer": "in 2014, algeria qualified for the first time into the round of 16.", "modAnswer": "1982", "similarity": 0.19460925459861755}\n', '{"test case number": 165, "answer": "the support of the healthy marriage project", "modAnswer": "the equine clinic", "similarity": 0.51116544008255}\n', '{"test case number": 168, "answer": "the united states presidential election of 2016", "modAnswer": "the 58th quadrennial american presidential election of 2016", "similarity": 0.7933761477470398}\n', '{"test case number": 174, "answer": "cessnock", "modAnswer": "newcastle", "similarity": 0.6322943568229675}\n', '{"test case number": 177, "answer": "old frisian", "modAnswer": "the 16th century", "similarity": 0.4294331967830658}\n', '{"test case number": 178, "answer": "vatroslav roi", "modAnswer": "he was also a citizen of the united kingdom.", "similarity": 0.3070373833179474}\n', '{"test case number": 180, "answer": "maltin on movies", "modAnswer": "the drop-in", "similarity": 0.40225714445114136}\n', '{"test case number": 182, "answer": "george harrison", "modAnswer": "phil collins", "similarity": 0.6345289349555969}\n', '{"test case number": 185, "answer": "season one", "modAnswer": "season three", "similarity": 0.9245657324790955}\n', '{"test case number": 186, "answer": "marcos siega and daniel cerone", "modAnswer": "michael carlyle hall and tony goldwyn", "similarity": 0.6138551235198975}\n', '{"test case number": 189, "answer": "1986", "modAnswer": "1991", "similarity": 0.8052858710289001}\n', '{"test case number": 191, "answer": "fox", "modAnswer": "nbc", "similarity": 0.5156545639038086}\n', '{"test case number": 194, "answer": "severe acute respiratory syndrome", "modAnswer": "sars", "similarity": 0.5083613395690918}\n', '{"test case number": 195, "answer": "james c. laughlin", "modAnswer": "jim harrison", "similarity": 0.7084529399871826}\n', '{"test case number": 197, "answer": "; ) is a south korean multinational company headquartered in seoul.", "modAnswer": ";)", "similarity": 0.41922882199287415}\n', '{"test case number": 200, "answer": "crackle", "modAnswer": "netflix", "similarity": 0.4813444912433624}\n', '{"test case number": 216, "answer": "5", "modAnswer": "five", "similarity": 0.8504797220230103}\n', '{"test case number": 217, "answer": "the sasanian empire", "modAnswer": "the parthian empire", "similarity": 0.9298529624938965}\n', '{"test case number": 219, "answer": "guernsey", "modAnswer": "samoa", "similarity": 0.6816301941871643}\n', '{"test case number": 223, "answer": "early 19th century", "modAnswer": "18th century", "similarity": 0.7740675210952759}\n', '{"test case number": 225, "answer": "the french", "modAnswer": "the shiners", "similarity": 0.5111346244812012}\n', '{"test case number": 228, "answer": "\\"rawhide\\"", "modAnswer": "\\"dollars\\"", "similarity": 0.5633863806724548}\n', '{"test case number": 229, "answer": "the genus of more individual species of plants.", "modAnswer": "marsilea", "similarity": 0.3399096131324768}\n', '{"test case number": 236, "answer": "blanket bogs", "modAnswer": "featherbed bogs", "similarity": 0.9270631074905396}\n', '{"test case number": 240, "answer": "frank thomas\' big hurt", "modAnswer": "the big hurt", "similarity": 0.6552786827087402}\n', '{"test case number": 241, "answer": "angela lansbury", "modAnswer": "paige o\'hara", "similarity": 0.8066709637641907}\n', '{"test case number": 242, "answer": "reggie jackson", "modAnswer": "wilburn edward \\"eddy\\" furniss iii", "similarity": 0.6451286673545837}\n', '{"test case number": 245, "answer": "brad silberling", "modAnswer": "lemony snicket", "similarity": 0.5549435019493103}\n', '{"test case number": 252, "answer": "ordos", "modAnswer": "the subsidiary is called yuanjian.", "similarity": 0.507507860660553}\n', '{"test case number": 253, "answer": "alain resnais", "modAnswer": "scott sidney", "similarity": 0.6181164383888245}\n', '{"test case number": 255, "answer": "the university of pennsylvania", "modAnswer": "the university of virginia", "similarity": 0.860684335231781}\n', '{"test case number": 257, "answer": "the mountbatten family", "modAnswer": "the mountbatten-windsor family", "similarity": 0.947104811668396}\n', '{"test case number": 261, "answer": "leinster", "modAnswer": "the eastern part of ireland", "similarity": 0.5408883690834045}\n', '{"test case number": 263, "answer": "tybalt", "modAnswer": "romeo", "similarity": 0.5506817698478699}\n', '{"test case number": 276, "answer": "lepidozamia", "modAnswer": "eucryphia", "similarity": 0.8173936605453491}\n', '{"test case number": 282, "answer": "may", "modAnswer": "october", "similarity": 0.6363646388053894}\n', '{"test case number": 290, "answer": "13\\u20133", "modAnswer": "13-3", "similarity": 0.9464436173439026}\n', '{"test case number": 292, "answer": "salvie testa", "modAnswer": "the crown prince", "similarity": 0.35171934962272644}\n', '{"test case number": 293, "answer": "he was the architect of the pont neuf.", "modAnswer": "master of the royal palaces and managed the louvre", "similarity": 0.6016002893447876}\n', '{"test case number": 300, "answer": "the company is based in bury st. edmunds,", "modAnswer": "bury st. edmunds, suffolk, england", "similarity": 0.7152783870697021}\n', '{"test case number": 303, "answer": "\\"njan steve lopez\\"", "modAnswer": "the soloist", "similarity": 0.4064082205295563}\n', '{"test case number": 305, "answer": "1913", "modAnswer": "1931", "similarity": 0.8500858545303345}\n', '{"test case number": 306, "answer": "almonte", "modAnswer": "ravenna", "similarity": 0.8369668126106262}\n', '{"test case number": 312, "answer": "new york", "modAnswer": "milwaukee", "similarity": 0.5729392766952515}\n', '{"test case number": 318, "answer": "yes", "modAnswer": "no", "similarity": 0.7259047031402588}\n', '{"test case number": 324, "answer": "oedipus", "modAnswer": "sigmund freud", "similarity": 0.6202380657196045}\n', '{"test case number": 325, "answer": "they are both actors.", "modAnswer": "they are both co-founders of apple.", "similarity": 0.5917046070098877}\n', '{"test case number": 327, "answer": "the college dropout", "modAnswer": "my beautiful dark twisted fantasy", "similarity": 0.3385152518749237}\n', '{"test case number": 329, "answer": "kunming", "modAnswer": "the pearl city", "similarity": 0.6232918500900269}\n', '{"test case number": 330, "answer": "he is from philadelphia", "modAnswer": "in a home in philadelphia", "similarity": 0.6488717198371887}\n', '{"test case number": 331, "answer": "a minor basilica", "modAnswer": "a church", "similarity": 0.7366927862167358}\n', '{"test case number": 337, "answer": "yes", "modAnswer": "no", "similarity": 0.7259047031402588}\n', '{"test case number": 338, "answer": "yes", "modAnswer": "no", "similarity": 0.7259047031402588}\n', '{"test case number": 339, "answer": "37,903", "modAnswer": "76,416", "similarity": 0.8815881609916687}\n', '{"test case number": 340, "answer": "matt flynn", "modAnswer": "mark castillo", "similarity": 0.7205625176429749}\n', '{"test case number": 345, "answer": "240,600", "modAnswer": "\\u0432\\u0443\\u0441\\u043a", "similarity": 0.4070698022842407}\n', '{"test case number": 348, "answer": "wheat", "modAnswer": "tomatoes", "similarity": 0.8106226921081543}\n', '{"test case number": 349, "answer": "2009", "modAnswer": "1996", "similarity": 0.7202057838439941}\n', '{"test case number": 350, "answer": "march 31, 2014", "modAnswer": "february 17, 2017", "similarity": 0.8397687673568726}\n', '{"test case number": 351, "answer": "sir james matthew barrie, 1st baronet", "modAnswer": "2\' to 3\'", "similarity": 0.2573126256465912}\n', '{"test case number": 353, "answer": "an actress", "modAnswer": "the actress", "similarity": 0.9643452763557434}\n', '{"test case number": 359, "answer": "dallas austin and tionne \\"t-boz\\" watkins", "modAnswer": "dallas austin and tionne t-boz watkins", "similarity": 0.9859591126441956}\n', '{"test case number": 363, "answer": "video game", "modAnswer": "the impounded system", "similarity": 0.36687326431274414}\n', '{"test case number": 364, "answer": "the college of architecture and design at centre college", "modAnswer": "brooklyn college", "similarity": 0.635583758354187}\n', '{"test case number": 370, "answer": "they are both made in video.", "modAnswer": "documentary", "similarity": 0.5379605889320374}\n', '{"test case number": 376, "answer": "hudson bay mining and smelting company", "modAnswer": "equix", "similarity": 0.3943600058555603}\n', '{"test case number": 378, "answer": "\\"i am legend\\", \\"minority report\\" and \\"constantine\\"", "modAnswer": "\\"cry me a river\\"", "similarity": 0.5297799110412598}\n', '{"test case number": 379, "answer": "it is deemed to be comparable to the seven wonders of the world.", "modAnswer": "it was the eighth wonder of the world", "similarity": 0.6662834882736206}\n', '{"test case number": 380, "answer": "patrick j. o\'rourke", "modAnswer": "patrick jake o\'rourke", "similarity": 0.8761081695556641}\n', '{"test case number": 382, "answer": "take that", "modAnswer": "atomic kitten", "similarity": 0.3594249188899994}\n', '{"test case number": 384, "answer": "philip k. dick", "modAnswer": "philip k.dick", "similarity": 0.9999998807907104}\n', '{"test case number": 388, "answer": "william allen white", "modAnswer": "the lighthouse", "similarity": 0.33285754919052124}\n', '{"test case number": 389, "answer": "debashree roy", "modAnswer": "mukul dev", "similarity": 0.8298389911651611}\n', '{"test case number": 390, "answer": "a horror movie", "modAnswer": "a horror and a romantic comedy", "similarity": 0.8168097734451294}\n', '{"test case number": 392, "answer": "a horror film", "modAnswer": "a horror flick", "similarity": 0.9599277377128601}\n', '{"test case number": 393, "answer": "northumbria", "modAnswer": "essex", "similarity": 0.7026678323745728}\n', '{"test case number": 395, "answer": "the 2017 australian open", "modAnswer": "the 2011 australian open", "similarity": 0.9229522943496704}\n', '{"test case number": 400, "answer": "the prior of the priory", "modAnswer": "the prior of st. andrews", "similarity": 0.8483917117118835}\n', '{"test case number": 403, "answer": "1995", "modAnswer": "1949", "similarity": 0.621467113494873}\n', '{"test case number": 404, "answer": "1974 to 1983", "modAnswer": "1974 and 1983", "similarity": 0.9104374647140503}\n', '{"test case number": 406, "answer": "the little review", "modAnswer": "dime magazine", "similarity": 0.6156370043754578}\n', '{"test case number": 407, "answer": "james mercer langston hughes", "modAnswer": "ian mcewan", "similarity": 0.7075410485267639}\n', '{"test case number": 408, "answer": "728,000 ft2", "modAnswer": "88,200 ft2", "similarity": 0.9194219708442688}\n', '{"test case number": 409, "answer": "royce da 5\'9\\" (bad) and eminem (evil", "modAnswer": "bad meets evil, eminem, akon, taio cruz", "similarity": 0.8323922753334045}\n', '{"test case number": 411, "answer": "terry gilliam", "modAnswer": "robert caro", "similarity": 0.6952775716781616}\n', '{"test case number": 412, "answer": "italian", "modAnswer": "french", "similarity": 0.8220043778419495}\n', '{"test case number": 413, "answer": "a family member", "modAnswer": "the banshee", "similarity": 0.42294085025787354}\n', '{"test case number": 416, "answer": "the itchy & scratchy show", "modAnswer": "the itchy and scratchy show", "similarity": 0.9868891835212708}\n', '{"test case number": 418, "answer": "chauncey billups", "modAnswer": "joe smith", "similarity": 0.7269530892372131}\n', '{"test case number": 422, "answer": "10", "modAnswer": "there are ten novels in the series.", "similarity": 0.5471557378768921}\n', '{"test case number": 423, "answer": "assistant coach", "modAnswer": "defensive coordinator", "similarity": 0.7894764542579651}\n', '{"test case number": 424, "answer": "1.87 m tall", "modAnswer": "87 cm", "similarity": 0.8125177621841431}\n', '{"test case number": 429, "answer": "ryan ridley", "modAnswer": "john rice", "similarity": 0.5716682076454163}\n', '{"test case number": 431, "answer": "yes", "modAnswer": "no", "similarity": 0.7259047031402588}\n', '{"test case number": 433, "answer": "x ambassadors", "modAnswer": "test icicles", "similarity": 0.49601319432258606}\n', '{"test case number": 436, "answer": "tyler, texas", "modAnswer": "tyler, kansas", "similarity": 0.8855978846549988}\n', '{"test case number": 437, "answer": "ambrose mendy", "modAnswer": "\\"the ring\\" magazine", "similarity": 0.381062388420105}\n', '{"test case number": 440, "answer": "president\'s special envoy for the western hemisphere", "modAnswer": "the assistant secretary of state for western hemisphere affairs", "similarity": 0.9022667407989502}\n', '{"test case number": 441, "answer": "the first film was the bears and i.", "modAnswer": "oceans", "similarity": 0.26573359966278076}\n', '{"test case number": 442, "answer": "patterns of sexual behavior", "modAnswer": "the rise and fall of the third reich", "similarity": 0.33568188548088074}\n', '{"test case number": 445, "answer": "lawson road, norwich", "modAnswer": "69 albert square, walford, london, e20", "similarity": 0.7227745652198792}\n', '{"test case number": 447, "answer": "phoenix satellite television holdings ltd", "modAnswer": "phoenix television", "similarity": 0.8313999176025391}\n', '{"test case number": 456, "answer": "ibn arabi", "modAnswer": "shaykh al-akbar", "similarity": 0.8509590029716492}\n', '{"test case number": 457, "answer": "a robe of linen and a horse", "modAnswer": "the fen.", "similarity": 0.5077961683273315}\n', '{"test case number": 459, "answer": "lord cranborne", "modAnswer": "lord melbourne", "similarity": 0.8189200758934021}\n', '{"test case number": 460, "answer": "the kansas city crime family", "modAnswer": "the cammisano family", "similarity": 0.5151078104972839}\n', '{"test case number": 462, "answer": "1964", "modAnswer": "in 1904", "similarity": 0.4596683382987976}\n', '{"test case number": 463, "answer": "unbreakable", "modAnswer": "the whole nine yards", "similarity": 0.3334898352622986}\n', '{"test case number": 466, "answer": "elephants are connected to gajabrishta through the back portion of an elephant", "modAnswer": "elephants are connected to gajabrishta through the use of the term", "similarity": 0.8724367618560791}\n', '{"test case number": 470, "answer": "director, writer and producer", "modAnswer": "director, writer, producer", "similarity": 0.9866392612457275}\n', '{"test case number": 471, "answer": "executive search", "modAnswer": "consulting", "similarity": 0.6638835668563843}\n', '{"test case number": 472, "answer": "author and novelist", "modAnswer": "writer and actress", "similarity": 0.7948301434516907}\n', '{"test case number": 473, "answer": "the catholic church", "modAnswer": "the establishment", "similarity": 0.4754545986652374}\n', '{"test case number": 482, "answer": "she translated and commented on isaac newton\'s book \\"principia\\".", "modAnswer": "she translated and commented on isaac newton\'s book.", "similarity": 0.975204586982727}\n', '{"test case number": 483, "answer": "yes", "modAnswer": "no", "similarity": 0.7259047031402588}\n', '{"test case number": 484, "answer": "four months in jail", "modAnswer": "a four month prison sentence", "similarity": 0.9356932640075684}\n', '{"test case number": 485, "answer": "1963", "modAnswer": "1994", "similarity": 0.7245140075683594}\n', '{"test case number": 487, "answer": "portal 2", "modAnswer": "gateways", "similarity": 0.6922723054885864}\n', '{"test case number": 489, "answer": "33 of the 100 seats in the united states senate", "modAnswer": "33 of 100", "similarity": 0.6589725613594055}\n', '{"test case number": 490, "answer": "mississippi university for women v. hogan", "modAnswer": "the case of mississippi university for women v.hogan", "similarity": 0.9240694642066956}\n', '{"test case number": 492, "answer": "1948", "modAnswer": "harry bowen", "similarity": 0.3559667766094208}\n', '{"test case number": 493, "answer": "the 2007 irl indycar series.", "modAnswer": "the 2007 irl indigocar series.", "similarity": 0.7279642820358276}\n', '{"test case number": 495, "answer": "115", "modAnswer": "88", "similarity": 0.839741051197052}\n', '{"test case number": 499, "answer": "a documentary", "modAnswer": "docs", "similarity": 0.482063889503479}\n', '{"test case number": 500, "answer": "the film was about a scholar who becomes the lover of the king\'s favorite con", "modAnswer": "the film was about a man who was in love with the wrong person.", "similarity": 0.7538324594497681}\n', '{"test case number": 502, "answer": "127 passengers", "modAnswer": "219", "similarity": 0.6713203191757202}\n', '{"test case number": 503, "answer": "22 novembre 1798", "modAnswer": "december 19, 1798", "similarity": 0.8591411113739014}\n', '{"test case number": 504, "answer": "1953 to 1974", "modAnswer": "1953-1973", "similarity": 0.9429355263710022}\n', '{"test case number": 505, "answer": "the cr-x", "modAnswer": "the honda cr-x", "similarity": 0.7874646782875061}\n', '{"test case number": 509, "answer": "rollo", "modAnswer": "eminem", "similarity": 0.5185465812683105}\n', '{"test case number": 514, "answer": "the last command", "modAnswer": "inside the electric circus", "similarity": 0.2668248116970062}\n', '{"test case number": 515, "answer": "dublin", "modAnswer": "linfield", "similarity": 0.516609787940979}\n', '{"test case number": 516, "answer": "\\"the four feathers\\"", "modAnswer": "the \\"heartbreak ridge\\"", "similarity": 0.40352678298950195}\n', '{"test case number": 519, "answer": "lord chancellor of england", "modAnswer": "the editor of works by an author who served both as attorney general and as lord chancellor for", "similarity": 0.6230602264404297}\n', '{"test case number": 520, "answer": "\\"guardians of the galaxy vol. 2\\"", "modAnswer": "the second movie", "similarity": 0.4571949243545532}\n', '{"test case number": 521, "answer": "the sponsorship scandal, or adscam", "modAnswer": "the canadian sponsorship scandal", "similarity": 0.701323926448822}\n', '{"test case number": 533, "answer": "charlie puth", "modAnswer": "julie frost", "similarity": 0.6106650233268738}\n', '{"test case number": 535, "answer": "motion city soundtrack", "modAnswer": "candlelight red", "similarity": 0.4093312621116638}\n', '{"test case number": 537, "answer": "kessel", "modAnswer": "melbourne", "similarity": 0.3601624369621277}\n', '{"test case number": 538, "answer": "4 june 1790", "modAnswer": "28 january 1864", "similarity": 0.8145273327827454}\n', '{"test case number": 544, "answer": "phyllocnistis liquidambarisella", "modAnswer": "true bug", "similarity": 0.577605128288269}\n', '{"test case number": 545, "answer": "the nebula award, the philip k. dick award, and the hugo award", "modAnswer": "the nebula award, the hugo award, and the dick award.", "similarity": 0.9747360944747925}\n', '{"test case number": 547, "answer": "currier bell", "modAnswer": "colin bowles", "similarity": 0.6529930233955383}\n', '{"test case number": 548, "answer": "celtic", "modAnswer": "rangers", "similarity": 0.5181207656860352}\n', '{"test case number": 550, "answer": "the ina treasure controversy relates to alleged misappropriation of the \\"azad", "modAnswer": "the azad hind", "similarity": 0.5065131187438965}\n', '{"test case number": 559, "answer": "james g. kiernan", "modAnswer": "james g.kiernan", "similarity": 1.0000001192092896}\n', '{"test case number": 562, "answer": "the eastern part of the continent", "modAnswer": "europe", "similarity": 0.6598029136657715}\n', '{"test case number": 563, "answer": "the 2013 oklahoma state cowboys football team represented oklahoma state university in the 2013 ncaa division i", "modAnswer": "boone pickens stadium in stillwater, oklahoma", "similarity": 0.5925121903419495}\n', '{"test case number": 565, "answer": "he is the co-founder of the heavy metal band metallica.", "modAnswer": "a member of the heavy metal band metallica.", "similarity": 0.8934599161148071}\n', '{"test case number": 571, "answer": "march 24, 2001", "modAnswer": "macos x 10", "similarity": 0.3583497703075409}\n', '{"test case number": 572, "answer": "thornton w. burgess", "modAnswer": "margery williams", "similarity": 0.6592360138893127}\n', '{"test case number": 574, "answer": "spinello aretino", "modAnswer": "mariotto di nardo di cione", "similarity": 0.8872888088226318}\n', '{"test case number": 577, "answer": "the state university of new york", "modAnswer": "columbia", "similarity": 0.6058562994003296}\n', '{"test case number": 580, "answer": "queen in-hyun\'s man", "modAnswer": "the 2014 drama \\"marriage, not dating\\"", "similarity": 0.4110950827598572}\n', '{"test case number": 581, "answer": "the university of chile", "modAnswer": "he was born in 1844 in keswick, sussex.", "similarity": 0.2970047891139984}\n', '{"test case number": 583, "answer": "the most total touchdowns in ncaa history", "modAnswer": "the most touchdown passes in ncaa history", "similarity": 0.9642072916030884}\n', '{"test case number": 584, "answer": "guthfrith", "modAnswer": "thelred ii", "similarity": 0.7551397085189819}\n', '{"test case number": 589, "answer": "the violin sonata no. 4 in a minor", "modAnswer": "the piano sonata no.", "similarity": 0.910969614982605}\n', '{"test case number": 590, "answer": "orange juice, milk, powdered egg whites, and vanilla flavoring", "modAnswer": "orange juice, milk, sugar, and vanilla extract.", "similarity": 0.9745614528656006}\n', '{"test case number": 592, "answer": "2005", "modAnswer": "2006", "similarity": 0.9548650979995728}\n', '{"test case number": 593, "answer": "white zombie", "modAnswer": "blonde redhead", "similarity": 0.6850394010543823}\n', '{"test case number": 595, "answer": "thom andersen", "modAnswer": "krzysztof zanussi", "similarity": 0.6632590293884277}\n', '{"test case number": 603, "answer": "t. r. m. howard", "modAnswer": "theodore roosevelt mason", "similarity": 0.6578680872917175}\n', '{"test case number": 608, "answer": "mtv russia", "modAnswer": "mvc russia", "similarity": 0.8132760524749756}\n', '{"test case number": 619, "answer": "glam funk", "modAnswer": "glam-style funk metal", "similarity": 0.898581326007843}\n', '{"test case number": 625, "answer": "england", "modAnswer": "the year 1723", "similarity": 0.3399646282196045}\n', '{"test case number": 632, "answer": "the cincinnati reds", "modAnswer": "the philadelphia phillies", "similarity": 0.7074954509735107}\n', '{"test case number": 633, "answer": "ballarat bitter", "modAnswer": "\\"ballarat bertie\\"", "similarity": 0.7141380906105042}\n', '{"test case number": 636, "answer": "the university of st. adelphia", "modAnswer": "fife", "similarity": 0.3646875023841858}\n', '{"test case number": 639, "answer": "\\"still crazy for you\\"", "modAnswer": "\\"still in love\\"", "similarity": 0.8853691816329956}\n', '{"test case number": 640, "answer": "the blackpool gazette", "modAnswer": "johnson press", "similarity": 0.5893640518188477}\n', '{"test case number": 645, "answer": "roseann o\'donnell", "modAnswer": "tom hanks", "similarity": 0.6313991546630859}\n', '{"test case number": 646, "answer": "khalid bin hamad al-khalifa", "modAnswer": "urijah christopher faber", "similarity": 0.6533039212226868}\n', '{"test case number": 650, "answer": "8", "modAnswer": "13", "similarity": 0.8030285835266113}\n', '{"test case number": 651, "answer": "june 16, 1960", "modAnswer": "february 20, 1978", "similarity": 0.8447996377944946}\n', '{"test case number": 653, "answer": "metal drummers", "modAnswer": "metal musicians", "similarity": 0.9078235030174255}\n', '{"test case number": 655, "answer": "the aj bell stadium", "modAnswer": "new zealand", "similarity": 0.34295323491096497}\n', '{"test case number": 657, "answer": "tron", "modAnswer": "the tower", "similarity": 0.5805596113204956}\n', '{"test case number": 659, "answer": "dave schultz", "modAnswer": "du pont", "similarity": 0.6069310903549194}\n', '{"test case number": 660, "answer": "the hessian army", "modAnswer": "the royal engineers", "similarity": 0.479138046503067}\n', '{"test case number": 661, "answer": "270 park avenue", "modAnswer": "450 west 42nd street", "similarity": 0.8461920619010925}\n', '{"test case number": 666, "answer": "palm springs international airport", "modAnswer": "trenton\\u2013mercer airport", "similarity": 0.6695994138717651}\n', '{"test case number": 668, "answer": "she plays the role of amy.", "modAnswer": "she is the leader of the rebels.", "similarity": 0.4989328384399414}\n', '{"test case number": 669, "answer": "former professional tennis players", "modAnswer": "former tennis players", "similarity": 0.971964418888092}\n', '{"test case number": 674, "answer": "personal earnings, business income and capital gains", "modAnswer": "personal earnings, business income, and capital gains", "similarity": 0.9974787831306458}\n', '{"test case number": 681, "answer": "papermaking", "modAnswer": "paper mill", "similarity": 0.8671762347221375}\n', '{"test case number": 682, "answer": "the e! talk show", "modAnswer": "yes", "similarity": 0.5162057876586914}\n', '{"test case number": 687, "answer": "bigg boss 9", "modAnswer": "season 9", "similarity": 0.5856451988220215}\n', '{"test case number": 689, "answer": "the windigo legend", "modAnswer": "the windigo myth", "similarity": 0.8939998149871826}\n', '{"test case number": 690, "answer": "the 1966 arizona state sun devils", "modAnswer": "the arizona sun devils", "similarity": 0.7716915607452393}\n', '{"test case number": 691, "answer": "photojournalist and author", "modAnswer": "photographer and writer", "similarity": 0.9113248586654663}\n', '{"test case number": 694, "answer": "a man named charles d. eustace", "modAnswer": "robert philip hanssen", "similarity": 0.7242962121963501}\n', '{"test case number": 695, "answer": "best alternative music album", "modAnswer": "album of the year", "similarity": 0.7698323726654053}\n', '{"test case number": 700, "answer": "gull-wing doors", "modAnswer": "gull wing doors", "similarity": 0.9744415879249573}\n', '{"test case number": 701, "answer": "the harris museum", "modAnswer": "the robert donnelly husky heritage sports museum", "similarity": 0.7032751441001892}\n', '{"test case number": 704, "answer": "december 6, 1933", "modAnswer": "january 1, 1939", "similarity": 0.8744863867759705}\n', '{"test case number": 706, "answer": "the national archives", "modAnswer": "the electoral college", "similarity": 0.47864627838134766}\n', '{"test case number": 709, "answer": "the cn tower", "modAnswer": "toronto", "similarity": 0.5741568803787231}\n', '{"test case number": 711, "answer": "32", "modAnswer": "six", "similarity": 0.5446250438690186}\n', '{"test case number": 712, "answer": "trance music", "modAnswer": "e-records", "similarity": 0.6709200739860535}\n', '{"test case number": 714, "answer": "paula maxine patton", "modAnswer": "paula patton", "similarity": 0.9504554271697998}\n', '{"test case number": 718, "answer": "gheg albanian", "modAnswer": "albanian coalation perspect", "similarity": 0.8239004611968994}\n', '{"test case number": 725, "answer": "the ss", "modAnswer": "the nazis", "similarity": 0.7535890340805054}\n', '{"test case number": 728, "answer": "charleston", "modAnswer": "mecklenburg county", "similarity": 0.6382792592048645}\n', '{"test case number": 729, "answer": "alexi \\"wildchild\\" laiho", "modAnswer": "alexi laiho", "similarity": 0.9078699946403503}\n', '{"test case number": 730, "answer": "edge", "modAnswer": "big e", "similarity": 0.5461633801460266}\n', '{"test case number": 733, "answer": "mercer county", "modAnswer": "burlington county", "similarity": 0.8876969814300537}\n', '{"test case number": 734, "answer": "miller brewing", "modAnswer": "miller brewery", "similarity": 0.953178346157074}\n', '{"test case number": 741, "answer": "over 1,800", "modAnswer": "115", "similarity": 0.5865700244903564}\n', '{"test case number": 742, "answer": "the 1996 film \\"twister\\"", "modAnswer": "the twister", "similarity": 0.4104958176612854}\n', '{"test case number": 743, "answer": "anton bolinder", "modAnswer": "michael edwards", "similarity": 0.6317932605743408}\n', '{"test case number": 746, "answer": "henry hathaway", "modAnswer": "james tinling", "similarity": 0.8186298608779907}\n', '{"test case number": 747, "answer": "port st. lucie", "modAnswer": "gainesville", "similarity": 0.6213012933731079}\n', '{"test case number": 750, "answer": "they were both writers.", "modAnswer": "journalist", "similarity": 0.4656331241130829}\n', '{"test case number": 758, "answer": "the former ajax amsterdam manager jordi cruyff", "modAnswer": "the perth heat", "similarity": 0.31567832827568054}\n', '{"test case number": 759, "answer": "yes", "modAnswer": "halld\\u00f3r laxness", "similarity": 0.5109570622444153}\n', '{"test case number": 763, "answer": "white house", "modAnswer": "7,220", "similarity": 0.34279075264930725}\n', '{"test case number": 764, "answer": "a town meeting", "modAnswer": "a town-based legislative body", "similarity": 0.709978461265564}\n', '{"test case number": 766, "answer": "director, writer, editor, photographer, and cinematographer", "modAnswer": "film director, film producer, writer, editor, actor, photographer, and cinematographer", "similarity": 0.9472624659538269}\n', '{"test case number": 767, "answer": "the wild pony", "modAnswer": "the many adventures of winnie the pooh", "similarity": 0.6123356819152832}\n', '{"test case number": 771, "answer": "john f. kelly", "modAnswer": "john francis kelly", "similarity": 0.9384284019470215}\n', '{"test case number": 772, "answer": "jessica phyllis lange", "modAnswer": "jessica lange", "similarity": 0.9068259000778198}\n', '{"test case number": 773, "answer": ", lit. \\"wooden person\\") is a fictional character in namco band", "modAnswer": "yes", "similarity": 0.33717110753059387}\n', '{"test case number": 774, "answer": "the livingston family of new york", "modAnswer": "the fourth lord.", "similarity": 0.407127320766449}\n', '{"test case number": 778, "answer": "eva ibbotson", "modAnswer": "danielle steel", "similarity": 0.6951801180839539}\n', '{"test case number": 781, "answer": "nicol williamson", "modAnswer": "sheila beryl grant", "similarity": 0.7212421894073486}\n', '{"test case number": 783, "answer": "he is the younger brother of luca parmitano.", "modAnswer": "hearne", "similarity": 0.3826051652431488}\n', '{"test case number": 787, "answer": "19th", "modAnswer": "484th", "similarity": 0.63984215259552}\n', '{"test case number": 788, "answer": "jnis ipkvics", "modAnswer": "jnis stumpf", "similarity": 0.8964806199073792}\n', '{"test case number": 789, "answer": "chloe agnew", "modAnswer": "ad\\u00e8le king", "similarity": 0.6131607890129089}\n', '{"test case number": 793, "answer": "vanarama", "modAnswer": "macclesfield town f.c.", "similarity": 0.3965422511100769}\n', '{"test case number": 795, "answer": "thomas warburton", "modAnswer": "tom warburton", "similarity": 0.8602138161659241}\n', '{"test case number": 797, "answer": "a play-by-post role-playing game", "modAnswer": "a role-playing game", "similarity": 0.9043481349945068}\n', '{"test case number": 801, "answer": "gold", "modAnswer": "silver", "similarity": 0.8395726084709167}\n', '{"test case number": 802, "answer": "the battle of arausio took place on 6 octobre 105 bc", "modAnswer": "the battle of tannenberg", "similarity": 0.5546197295188904}\n', '{"test case number": 803, "answer": "fox", "modAnswer": "tuff tv", "similarity": 0.5905237197875977}\n', '{"test case number": 810, "answer": "manon", "modAnswer": "parsifal", "similarity": 0.692322850227356}\n', '{"test case number": 813, "answer": "the polka", "modAnswer": "the \\"amsterdam polka\\"", "similarity": 0.843146562576294}\n', '{"test case number": 816, "answer": "furman", "modAnswer": "campbellsville", "similarity": 0.6217467188835144}\n', '{"test case number": 817, "answer": "director", "modAnswer": "b\\u00e9la ga\\u00e1l directed the 1937 hungarian comedy film tales of budapest.", "similarity": 0.25867387652397156}\n', '{"test case number": 819, "answer": "ge appliances", "modAnswer": "viking", "similarity": 0.4050196409225464}\n', '{"test case number": 824, "answer": "1932", "modAnswer": "ronald ayers", "similarity": 0.3914198875427246}\n', '{"test case number": 827, "answer": "pakistani", "modAnswer": "punjabi/pashtun", "similarity": 0.8432823419570923}\n', '{"test case number": 828, "answer": "rita pereira", "modAnswer": "laura jelly", "similarity": 0.7136110663414001}\n', '{"test case number": 832, "answer": "he is a racehorse breeder and owner.", "modAnswer": "he is a racing horse breeder.", "similarity": 0.8919554948806763}\n', '{"test case number": 835, "answer": "american scary", "modAnswer": "the first documentary was made in 2003.", "similarity": 0.34395813941955566}\n', '{"test case number": 839, "answer": "the writer of the book \\"the changing scottish landscape\\"", "modAnswer": "the kellys", "similarity": 0.30126693844795227}\n', '{"test case number": 844, "answer": "the song \\"highwayman\\"", "modAnswer": "the highwayman", "similarity": 0.703126847743988}\n', '{"test case number": 846, "answer": "he was the speaker of the house.", "modAnswer": "he was the executive director of the national republican congressional committee.", "similarity": 0.6377400159835815}\n', '{"test case number": 847, "answer": "a polar bear themed cocktail.", "modAnswer": "a drink.", "similarity": 0.6318221688270569}\n', '{"test case number": 849, "answer": "every march", "modAnswer": "after his death", "similarity": 0.36949145793914795}\n', '{"test case number": 851, "answer": "vanilla air", "modAnswer": "all nippon airways", "similarity": 0.3739641308784485}\n', '{"test case number": 861, "answer": "xavier", "modAnswer": "john lennon", "similarity": 0.536002516746521}\n', '{"test case number": 863, "answer": "shifty shellshock", "modAnswer": "paul oakenfold", "similarity": 0.4749598801136017}\n', '{"test case number": 866, "answer": "he is a french singer.", "modAnswer": "he is a rapper", "similarity": 0.6996071338653564}\n', '{"test case number": 868, "answer": "carpenter", "modAnswer": "william blake herron", "similarity": 0.49512529373168945}\n', '{"test case number": 870, "answer": "australia", "modAnswer": "warrnambool,victoria", "similarity": 0.6872454285621643}\n', '{"test case number": 871, "answer": "pietro mascagni", "modAnswer": "franco zeffirelli", "similarity": 0.885367751121521}\n', '{"test case number": 874, "answer": "port of chittagong", "modAnswer": "saint john", "similarity": 0.40416088700294495}\n', '{"test case number": 876, "answer": "jan hoffman", "modAnswer": "maria szraiber", "similarity": 0.663722038269043}\n', '{"test case number": 878, "answer": "shakespeare performances", "modAnswer": "a play", "similarity": 0.6980030536651611}\n', '{"test case number": 879, "answer": "it is a reservoir that is used for defence of the cathedral close.", "modAnswer": "it is a reservoir that is important to the defense of the cathedral close.", "similarity": 0.9105406403541565}\n', '{"test case number": 883, "answer": "mrs. eastwood & company", "modAnswer": "lok", "similarity": 0.5239945650100708}\n', '{"test case number": 884, "answer": "turkey creek", "modAnswer": "the econlockhatchee river", "similarity": 0.7514767646789551}\n', '{"test case number": 889, "answer": "fast food", "modAnswer": "burgers", "similarity": 0.7643195390701294}\n', '{"test case number": 894, "answer": "he was a stockbroker", "modAnswer": "he was the former chairman and chief executive officer of the exchange.", "similarity": 0.7297382354736328}\n', '{"test case number": 896, "answer": "the frost place", "modAnswer": "the strand in lincoln, nebraska", "similarity": 0.42247363924980164}\n', '{"test case number": 897, "answer": "ks", "modAnswer": "oklahoma", "similarity": 0.5517379641532898}\n', '{"test case number": 902, "answer": "the first family of competitive eating", "modAnswer": "the brooklyn grange", "similarity": 0.39634621143341064}\n', '{"test case number": 904, "answer": "the king and the duchess of cornwall", "modAnswer": "the earl of pembroke and the 2nd earl of t", "similarity": 0.7288535833358765}\n', '{"test case number": 905, "answer": "mickey gilley", "modAnswer": "mickey gilly", "similarity": 0.9754906892776489}\n', '{"test case number": 906, "answer": "lilys", "modAnswer": "the melvins", "similarity": 0.628463089466095}\n', '{"test case number": 908, "answer": "the dubrovniks", "modAnswer": "adorable", "similarity": 0.332475483417511}\n', '{"test case number": 911, "answer": "apium", "modAnswer": "elodea", "similarity": 0.6588224172592163}\n', '{"test case number": 912, "answer": "the author is of irish descent.", "modAnswer": "the author is of jewish heritage.", "similarity": 0.785103440284729}\n', '{"test case number": 919, "answer": "father dougal mcguire", "modAnswer": "father ted", "similarity": 0.8381064534187317}\n', '{"test case number": 920, "answer": "2006", "modAnswer": "2002", "similarity": 0.8855622410774231}\n', '{"test case number": 924, "answer": "211", "modAnswer": "125", "similarity": 0.8654836416244507}\n', '{"test case number": 926, "answer": "operation anvil", "modAnswer": "the landing barge was a food storage vessel.", "similarity": 0.4517289698123932}\n', '{"test case number": 937, "answer": "joe frazier", "modAnswer": "chardee", "similarity": 0.525811493396759}\n', '{"test case number": 940, "answer": "the hawaii state legislature", "modAnswer": "the state of hawaii", "similarity": 0.862428605556488}\n', '{"test case number": 943, "answer": "young justice", "modAnswer": "the origin of the character.", "similarity": 0.34433412551879883}\n', '{"test case number": 948, "answer": "tabu", "modAnswer": "a romantic comedy.", "similarity": 0.4714169502258301}\n', '{"test case number": 955, "answer": "the middle", "modAnswer": "april 6, 1990", "similarity": 0.2363850474357605}\n', '{"test case number": 957, "answer": "michael t. gilbert", "modAnswer": "robert smigel", "similarity": 0.8132539391517639}\n', '{"test case number": 959, "answer": "an all-colored vaudeville show", "modAnswer": "an all-colored man", "similarity": 0.6158530712127686}\n', '{"test case number": 961, "answer": "1633", "modAnswer": "1663", "similarity": 0.8569233417510986}\n', '{"test case number": 963, "answer": "1993", "modAnswer": "1957", "similarity": 0.7098178267478943}\n', '{"test case number": 965, "answer": "the southern state parkway", "modAnswer": "the heckscher state parkway", "similarity": 0.7891800403594971}\n', '{"test case number": 967, "answer": "the namesake of the mountbatten institute is her father, philip.", "modAnswer": "her father was the duke of edinburgh", "similarity": 0.6964753866195679}\n', '{"test case number": 970, "answer": "myrtle", "modAnswer": "myrtus", "similarity": 0.5485370755195618}\n', '{"test case number": 972, "answer": "los angeles", "modAnswer": "toronto", "similarity": 0.5772715210914612}\n', '{"test case number": 975, "answer": "may 2, 2011.", "modAnswer": "may 1, 2007", "similarity": 0.8852845430374146}\n', '{"test case number": 976, "answer": "yes", "modAnswer": "no", "similarity": 0.7259047031402588}\n', '{"test case number": 977, "answer": "2007", "modAnswer": "the 1972 season", "similarity": 0.3396011292934418}\n', '{"test case number": 986, "answer": "ben cardin", "modAnswer": "since 1977", "similarity": 0.21403995156288147}\n', '{"test case number": 987, "answer": "joe ashton", "modAnswer": "aaron lennon", "similarity": 0.707680881023407}\n', '{"test case number": 996, "answer": "a magical nanny", "modAnswer": "a nanny", "similarity": 0.8563216924667358}\n', '{"test case number": 997, "answer": "phil hill was born in the united states", "modAnswer": "he was the first and only american to win the formula one world drivers\' championship.", "similarity": 0.5273325443267822}']

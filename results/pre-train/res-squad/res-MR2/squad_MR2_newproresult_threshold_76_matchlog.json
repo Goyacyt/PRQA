@@ -1,0 +1,26 @@
+{"test case number": 147, "answer": "the florida legislature", "modAnswer": "the league", "similarity": 0.39018309116363525}
+
+{"test case number": 182, "answer": "super bowl xlviii", "modAnswer": "super bowl xxxviii", "similarity": 0.9684281349182129}
+
+{"test case number": 191, "answer": "super bowl xxxviii", "modAnswer": "super bowl 48", "similarity": 0.8553762435913086}
+
+{"test case number": 680, "answer": "coldplay", "modAnswer": "beyonc\u00e9", "similarity": 0.3761412501335144}
+
+{"test case number": 683, "answer": "coldplay", "modAnswer": "beyonc\u00e9", "similarity": 0.3761412501335144}
+
+{"test case number": 726, "answer": "a field goal", "modAnswer": "mcmanus kicked a 33-yard field goal.", "similarity": 0.7406071424484253}
+
+{"test case number": 735, "answer": "demarcus ware", "modAnswer": "darian stewart", "similarity": 0.6479644775390625}
+
+{"test case number": 739, "answer": "the drive ended when newton was sacked by demarcus ware.", "modAnswer": "the panthers punted.", "similarity": 0.4623386859893799}
+
+{"test case number": 757, "answer": "stewart", "modAnswer": "ealy", "similarity": 0.6057518124580383}
+
+{"test case number": 788, "answer": "anderson", "modAnswer": "newton", "similarity": 0.6987063884735107}
+
+{"test case number": 889, "answer": "the name of the mermaid", "modAnswer": "the legend of the mermaid", "similarity": 0.792548418045044}
+
+{"test case number": 893, "answer": "he followed the fishermen and captured her.", "modAnswer": "he followed the fishermen and captured the mermaid.", "similarity": 0.9492669105529785}
+
+{"test case number": 916, "answer": "a 12th/13th-century nobleman who owned a village", "modAnswer": "a nobleman", "similarity": 0.6285165548324585}
+['{"test case number": 147, "answer": "the florida legislature", "modAnswer": "the league", "similarity": 0.39018309116363525}\n', '{"test case number": 182, "answer": "super bowl xlviii", "modAnswer": "super bowl xxxviii", "similarity": 0.9684281349182129}\n', '{"test case number": 191, "answer": "super bowl xxxviii", "modAnswer": "super bowl 48", "similarity": 0.8553762435913086}\n', '{"test case number": 680, "answer": "coldplay", "modAnswer": "beyonc\\u00e9", "similarity": 0.3761412501335144}\n', '{"test case number": 683, "answer": "coldplay", "modAnswer": "beyonc\\u00e9", "similarity": 0.3761412501335144}\n', '{"test case number": 726, "answer": "a field goal", "modAnswer": "mcmanus kicked a 33-yard field goal.", "similarity": 0.7406071424484253}\n', '{"test case number": 735, "answer": "demarcus ware", "modAnswer": "darian stewart", "similarity": 0.6479644775390625}\n', '{"test case number": 739, "answer": "the drive ended when newton was sacked by demarcus ware.", "modAnswer": "the panthers punted.", "similarity": 0.4623386859893799}\n', '{"test case number": 757, "answer": "stewart", "modAnswer": "ealy", "similarity": 0.6057518124580383}\n', '{"test case number": 788, "answer": "anderson", "modAnswer": "newton", "similarity": 0.6987063884735107}\n', '{"test case number": 889, "answer": "the name of the mermaid", "modAnswer": "the legend of the mermaid", "similarity": 0.792548418045044}\n', '{"test case number": 893, "answer": "he followed the fishermen and captured her.", "modAnswer": "he followed the fishermen and captured the mermaid.", "similarity": 0.9492669105529785}\n', '{"test case number": 916, "answer": "a 12th/13th-century nobleman who owned a village", "modAnswer": "a nobleman", "similarity": 0.6285165548324585}']
